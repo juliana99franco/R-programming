@@ -1,9 +1,9 @@
-COURSE OVERVIEW AND SKILLS GAINED
+COURSE OVERVIEW AND SKILLS GAINED IN THE COURSE:
 
-Master data manipulation using dplyr and data reshaping with tidyr.
+- Master data manipulation using dplyr and data reshaping with tidyr.
 
-Perform string manipulations using stringr.
+- Perform string manipulations using stringr.
 
-Handle missing values and anomalies in datasets.
+- Handle missing values and anomalies in datasets.
 
-Use generative AI tools to automate data cleaning tasks.
+- Use generative AI tools to automate data cleaning tasks.
