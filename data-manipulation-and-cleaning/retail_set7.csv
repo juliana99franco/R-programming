@@ -1,0 +1,21 @@
+CustomerID,OrderDetails,ShippingAddress
+101,Product: T-Shirt - Size: Large - Color: Blue,123 Main St Anytown CA 91234
+102,Product: Shoes - Size: 10 - Color: Red,456 Oak Ave Springfield IL 62704
+103,Product: Pants - Size: M - Color: Green,789 Pine Ln Riverside NY 12345
+104,Product: Jacket - Size: XL - Color: Blk,101 Elm Rd Seattle WA 98101
+105,Product: Socks - Size: One Size - Color: White,222 Maple Dr Austin TX 78701
+106,Product: Hat - Size: L/XL - Color: Gray,333 Cedar Ct Denver CO 80201
+107,Product: Gloves - Size: S - Color: Brown,444 Birch Blvd Miami FL 33101
+108,Product: Scarf - Size: One Size - Color: Beige,555 Willow Way Chicago IL 60601
+109,Product: Belt - Size: 34 - Color: Blk,666 Redwood Rd Phoenix 85001
+110,Product: Dress - Size: 8 - Color: Floral,777 Sequoia St Philadelphia PA 19101
+111,Product: Sweater - Size: M - Color: Navy,888 Mountain View Rd San Francisco CA 94101
+112,Product: Skirt - Size: 6 - Color: Pink,999 Ocean Ave San Diego CA 92101
+113,Product: Tie - Size: One Size - Color: Striped,111 Lake St Orlando FL 32801
+114,Product: Blouse - Size: S - Color: Cream,222 River Rd Atlanta GA 30301
+115,Product: Shorts - Size: 32 - Color: Khaki,333 Forest Ln Boston MA 02101
+116,Product: Vest - Size: Large - Color: Charcoal,444 Hilltop Dr Minneapolis MN 55401
+117,Product: Leggings - Size: M/L - Color: Patterned,555 Valley View Rd St. Louis
+118,Product: Pajamas - Size: XL - Color: Polka Dot,666 Sunset Blvd Dallas TX 75201
+119,Product: Swimsuit - Size: 12 - Color: Tropical,777 Sunrise Ave Portland OR 97201
+120,Product: Hoodie - Size: L - Color: Maroon,888 Moon St Salt Lake City UT 84101

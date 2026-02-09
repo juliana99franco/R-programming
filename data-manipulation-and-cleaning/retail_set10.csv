@@ -1,0 +1,31 @@
+CustomerID,OrderDate,Product,Quantity,UnitPrice,ReviewRating,ShippingCity
+101,11/1/2023,Laptop,1,1200,4.5,Anytown
+102,11/2/2023,Headphones,2,150,4.2,Springfield
+103,11/3/2023,Smartphone,1,800,4.8,Riverside
+104,11/4/2023,Smartwatch,3,250,4.1,Seattle
+105,11/5/2023,Bluetooth Speaker,1,80,4.6,Austin
+106,11/6/2023,Coffee Maker,2,60,4.3,Denver
+107,11/7/2023,Blender,1,40,4.9,Miami
+108,11/8/2023,Toaster,1,30,4,Chicago
+109,11/9/2023,Vacuum Cleaner,1,150,4.7,Phoenix
+110,11/10/2023,Microwave,2,90,4.4,Philadelphia
+111,11/11/2023,Laptop,1,1200,4.5,Anytown
+112,11/12/2023,Denim Jeans,1,50,3.9,San Diego
+113,11/13/2023,Running Shoes,1,70,5,Orlando
+114,11/14/2023,Winter Coat,1,120,3.8,Atlanta
+115,11/15/2023,Socks (Pack of 6),2,15,4.2,Boston
+116,11/16/2023,Cookbook,1,25,4.6,Minneapolis
+117,11/17/2023,Novel (Fiction),1,18,4.3,St. Louis
+118,11/18/2023,Children's Book,1,12,4.9,Dallas
+119,11/19/2023,Travel Guide,1,20,4,Portland
+120,11/20/2023,Self-Help Book,1,15,4.7,Salt Lake City
+121,11/21/2023,Smartphone,1,800,4.8,Riverside
+122,11/22/2023,Headphones,2,150,4.2,Springfield
+123,11/23/2023,Smartwatch,3,250,4.1,Seattle
+124,11/24/2023,Bluetooth Speaker,1,80,4.6,Austin
+125,11/25/2023,Laptop,1,12000,4.5,Anytown
+126,11/26/2023,Denim Jeans,1,500,3.9,San Diego
+127,11/27/2023,Running Shoes,1,700,5,Orlando
+128,11/28/2023,Winter Coat,1,1200,3.8,Atlanta
+129,11/29/2023,Socks (Pack of 6),2,150,4.2,Boston
+130,11/30/2023,Cookbook,1,250,4.6,Minneapolis

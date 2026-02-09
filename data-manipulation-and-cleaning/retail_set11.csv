@@ -1,0 +1,41 @@
+CustomerID,TransactionDate,Product,Quantity,UnitPrice,CustomerID_Duplicate,ReviewRating,ShippingCity
+101,11/1/2023,Laptop,1,1200,101,4.5,Anytown
+102,11/2/2023,Headphones,2,150,102,4.2,Springfield
+,11/3/2023,Smartphone,1,800,103,4.8,Riverside
+104,11/4/2023,Smartwatch,3,250,104,4.1,Seattle
+105,11/5/2023,Bluetooth Speaker,1,80,105,4.6,Austin
+106,11/6/2023,Coffee Maker,2,60,106,4.3,Denver
+107,11/7/2023,Blender,,40,107,4.9,Miami
+108,11/8/2023,Toaster,1,,108,4,Chicago
+109,11/9/2023,Vacuum Cleaner,1,150,109,,Phoenix
+110,11/10/2023,Microwave,2,0,110,4.4,Philadelphia
+111,11/11/2023,Laptop,1,1200,101,4.5,Anytown
+112,11/12/2023,Denim Jeans,1,,112,3.9,San Diego
+113,11/13/2023,Running Shoes,150,70,113,5,Orlando
+114,11/14/2023,Winter Coat,1,120,114,,Atlanta
+115,11/15/2023,Socks (Pack of 6),2,15,115,4.2,Boston
+116,11/16/2023,Cookbook,1,25,116,4.6,Minneapolis
+117,11/17/2023,Novel (Fiction),1,18,117,4.3,St. Louis
+118,11/18/2023,Children's Book,1,12,118,4.9,Dallas
+119,11/19/2023,Travel Guide,1,20,119,4,Portland
+120,11/20/2023,Self-Help Book,1,15,120,4.7,Salt Lake City
+121,,Smartphone,1,800,103,4.8,Riverside
+122,11/22/2023,Headphones,2,150,102,,Springfield
+123,11/23/2023,Smartwatch,3,250,104,4.1,Seattle
+124,11/24/2023,Bluetooth Speaker,1,80,105,4.6,Austin
+125,11/25/2023,Laptop,1,12000,125,4.5,Anytown
+126,,Denim Jeans,1,500,126,3.9,San Diego
+127,11/27/2023,Running Shoes,1,,127,5,Orlando
+128,11/28/2023,Winter Coat,1,1200,128,3.8,Atlanta
+129,11/29/2023,Socks (Pack of 6),2,150,129,4.2,Boston
+130,11/30/2023,Cookbook,1,250,130,4.6,Minneapolis
+131,12/1/2023,Headphones,2,150,131,5,San Francisco
+,12/2/2023,Smartphone,1,800,132,4.9,Los Angeles
+133,12/3/2023,Smartwatch,3,250,133,4.8,San Jose
+134,12/4/2023,Bluetooth Speaker,0,80,134,4.7,San Diego
+135,12/5/2023,Laptop,1,1200,135,4.6,Sacramento
+136,12/6/2023,Denim Jeans,1,50,136,4.5,Oakland
+137,12/7/2023,Running Shoes,1,70,137,4.4,Fresno
+138,,Winter Coat,1,120,138,4.3,Long Beach
+139,12/9/2023,Socks (Pack of 6),2,15,139,4.2,Bakersfield
+140,12/10/2023,Cookbook,1,25,140,4.1,Anaheim

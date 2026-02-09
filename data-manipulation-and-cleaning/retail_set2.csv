@@ -1,0 +1,56 @@
+Item,Category,Price,Rating,Shipping_Speed,Customer_Reviews
+Laptop,Electronics,1200,4.5,Standard,125
+Wireless Headphones,Electronics,150,4.2,Fast,80
+Smartphone,Electronics,800,4.7,Standard,210
+Smartwatch,Electronics,250,4.0,Fast,55
+Bluetooth Speaker,Electronics,80,4.3,Standard,95
+Coffee Maker,Appliances,60,4.6,Standard,150
+Blender,Appliances,40,4.1,Fast,70
+Toaster,Appliances,30,4.4,Standard,110
+Vacuum Cleaner,Appliances,150,4.8,Fast,180
+Microwave,Appliances,90,4.2,Standard,60
+Cotton T-Shirt,Clothing,20,4.5,Standard,130
+Denim Jeans,Clothing,50,4.3,Fast,90
+Running Shoes,Clothing,70,4.7,Standard,220
+Winter Coat,Clothing,120,4.1,Fast,45
+Socks (Pack of 6),Clothing,15,4.4,Standard,100
+Cookbook,Books,25,4.8,Standard,160
+Novel (Fiction),Books,18,4.6,Fast,140
+Children's Book,Books,12,4.2,Standard,85
+Travel Guide,Books,20,4.5,Fast,115
+Self-Help Book,Books,15,4.3,Standard,75
+Wooden Toy Set,Toys,35,4.7,Standard,190
+Board Game,Toys,30,4.4,Fast,120
+Action Figure,Toys,20,4.1,Standard,65
+Puzzle (1000 pieces),Toys,25,4.6,Fast,155
+Stuffed Animal,Toys,15,4.3,Standard,95
+Desk Lamp,Home Decor,40,4.5,Standard,135
+Picture Frame,Home Decor,20,4.2,Fast,80
+Throw Pillow,Home Decor,30,4.7,Standard,200
+Wall Clock,Home Decor,50,4.0,Fast,50
+Candle Set,Home Decor,25,4.4,Standard,105
+Dog Food (Large Bag),Pet Supplies,50,4.8,Standard,170
+Cat Litter (Large Box),Pet Supplies,30,4.6,Fast,145
+Dog Leash,Pet Supplies,15,4.3,Standard,90
+Cat Toy (Variety Pack),Pet Supplies,10,4.1,Fast,60
+Fish Tank Filter,Pet Supplies,20,4.5,Standard,110
+Yoga Mat,Sports & Outdoors,30,4.7,Standard,215
+Dumbbell Set,Sports & Outdoors,80,4.2,Fast,75
+Resistance Bands,Sports & Outdoors,20,4.4,Standard,100
+Camping Tent,Sports & Outdoors,150,4.8,Fast,185
+Hiking Backpack,Sports & Outdoors,100,4.6,Standard,150
+Stainless Steel Pan,Kitchenware,40,4.5,Standard,120
+Knife Set,Kitchenware,60,4.3,Fast,85
+Cutting Board,Kitchenware,25,4.7,Standard,205
+Mixing Bowls (Set of 3),Kitchenware,35,4.1,Fast,60
+Measuring Cups and Spoons,Kitchenware,15,4.4,Standard,95
+Office Chair,Office Supplies,100,4.6,Standard,165
+Desk Organizer,Office Supplies,30,4.2,Fast,70
+Notebook (Pack of 5),Office Supplies,10,4.8,Standard,195
+Pens (Pack of 12),Office Supplies,12,4.5,Fast,130
+Paper Clips (Box),Office Supplies,5,4.3,Standard,80
+Shampoo,Personal Care,12,4.7,Standard,225
+Conditioner,Personal Care,12,4.4,Fast,115
+Toothpaste (Pack of 3),Personal Care,8,4.1,Standard,70
+Hand Soap (Refill),Personal Care,6,4.6,Fast,150
+Face Moisturizer,Personal Care,18,4.2,Standard,85

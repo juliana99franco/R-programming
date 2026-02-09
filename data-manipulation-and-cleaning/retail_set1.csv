@@ -1,0 +1,90 @@
+Item,Category,Price,Available
+Cotton T-Shirt,Clothing,12.99,TRUE
+Denim Jeans,Clothing,39.99,TRUE
+Running Shoes,Shoes,65,TRUE
+Leather Boots,Shoes,89.99,FALSE
+Wool Socks,Clothing,8.5,TRUE
+Baseball Cap,Accessories,15,TRUE
+Sunglasses,Accessories,22.5,TRUE
+Backpack,Accessories,45,TRUE
+Water Bottle,Accessories,10,TRUE
+Coffee Mug,Home & Kitchen,7.99,TRUE
+Ceramic Plate,Home & Kitchen,14.5,TRUE
+Stainless Steel Pan,Home & Kitchen,29.99,TRUE
+Wooden Spoon,Home & Kitchen,3.5,TRUE
+Bed Sheets,Home & Kitchen,55,TRUE
+Pillow,Home & Kitchen,25,TRUE
+Bath Towel,Home & Kitchen,18,TRUE
+Hand Soap,Personal Care,4.99,TRUE
+Shampoo,Personal Care,6.5,TRUE
+Conditioner,Personal Care,6.5,TRUE
+Toothpaste,Personal Care,3,TRUE
+Toothbrush,Personal Care,2.5,TRUE
+Deodorant,Personal Care,5.5,TRUE
+Face Wash,Personal Care,8,TRUE
+Notebook,Office Supplies,4,TRUE
+Pens (Pack of 10),Office Supplies,6,TRUE
+Pencils (Pack of 12),Office Supplies,5,TRUE
+Paper Clips,Office Supplies,2,TRUE
+Sticky Notes,Office Supplies,3.5,TRUE
+Desk Organizer,Office Supplies,19.99,TRUE
+Wireless Mouse,Electronics,15,TRUE
+Keyboard,Electronics,25,TRUE
+Headphones,Electronics,35,TRUE
+USB Drive,Electronics,12,FALSE
+Phone Charger,Electronics,18,TRUE
+HDMI Cable,Electronics,8,TRUE
+Portable Speaker,Electronics,49.99,FALSE
+Dog Food,Pet Supplies,28,TRUE
+Cat Litter,Pet Supplies,15,TRUE
+Dog Leash,Pet Supplies,12.5,FALSE
+Cat Toy,Pet Supplies,6,TRUE
+Fish Food,Pet Supplies,4,TRUE
+Bird Seed,Pet Supplies,7,TRUE
+Hamster Wheel,Pet Supplies,9,FALSE
+Yoga Mat,Sports & Outdoors,22,TRUE
+Dumbbells (Pair),Sports & Outdoors,35,FALSE
+Resistance Bands,Sports & Outdoors,18,TRUE
+Jump Rope,Sports & Outdoors,10,TRUE
+Camping Tent,Sports & Outdoors,99.99,TRUE
+Hiking Boots,Sports & Outdoors,75,FALSE
+Basketball,Sports & Outdoors,20,TRUE
+Novel (Fiction),Books,15.99,TRUE
+Cookbook,Books,24.99,TRUE
+Children's Book,Books,9.99,TRUE
+Travel Guide,Books,18.5,FALSE
+Coloring Book,Books,7,TRUE
+Puzzle,Toys & Games,12,TRUE
+Board Game,Toys & Games,25,TRUE
+Action Figure,Toys & Games,14,TRUE
+Building Blocks,Toys & Games,30,FALSE
+Stuffed Animal,Toys & Games,16,TRUE
+Apple,Produce,1,TRUE
+Banana,Produce,0.5,TRUE
+Orange,Produce,0.75,TRUE
+Tomato,Produce,1.25,FALSE
+Lettuce,Produce,2,TRUE
+Potato,Produce,0.8,TRUE
+Onion,Produce,0.6,TRUE
+Milk (1 Gallon),Grocery,3.5,TRUE
+Eggs (Dozen),Grocery,2.5,TRUE
+Bread (Loaf),Grocery,3,TRUE
+Cereal,Grocery,4,TRUE
+Pasta,Grocery,1.5,TRUE
+Rice,Grocery,2,TRUE
+Canned Soup,Grocery,2.5,FALSE
+Hammer,Tools,12,TRUE
+Screwdriver Set,Tools,18,TRUE
+Wrench Set,Tools,25,TRUE
+Measuring Tape,Tools,8,FALSE
+Level,Tools,15,TRUE
+Paintbrush Set,Arts & Crafts,10,TRUE
+Acrylic Paint Set,Arts & Crafts,20,TRUE
+Sketchbook,Arts & Crafts,12,TRUE
+Clay,Arts & Crafts,15,FALSE
+Yarn,Arts & Crafts,6,TRUE
+Candle,Home Decor,12,TRUE
+Picture Frame,Home Decor,15,TRUE
+Throw Pillow,Home Decor,20,TRUE
+Wall Clock,Home Decor,30,FALSE
+Vase,Home Decor,18,TRUE

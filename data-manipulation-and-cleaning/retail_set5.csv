@@ -1,0 +1,11 @@
+CustomerID,FullName,Address,OrderDate
+1,John Smith,"123 Main St, Anytown, CA 91234",2023-11-01
+2,Jane Doe,"456 Oak Ave, Springfield, IL 62704",2023-11-02
+3,David Lee,"789 Pine Ln, Riverside, NY 12345",2023-11-03
+4,Sarah Jones,"101 Elm Rd, Seattle, WA 98101",2023-11-04
+5,Michael Brown,"222 Maple Dr, Austin, TX 78701",2023-11-05
+6,Emily Davis,"333 Cedar Ct, Denver, CO 80201",2023-11-06
+7,Christopher Wilson,"444 Birch Blvd, Miami, FL 33101",2023-11-07
+8,Jessica Garcia,"555 Willow Way, Chicago, IL 60601",2023-11-08
+9,Matthew Rodriguez,"666 Redwood Rd, Phoenix, AZ 85001",2023-11-09
+10,Ashley Martinez,"777 Sequoia St, Philadelphia, PA 19101",2023-11-10
