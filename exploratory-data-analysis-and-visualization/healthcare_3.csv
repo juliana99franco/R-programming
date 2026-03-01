@@ -1,0 +1,51 @@
+TransactionID,CustomerID,ProductID,ProductName,TransactionDate,Quantity,PricePerUnit,LocationCode,CustomerPhone
+Txn1100,customerID-785b,PROD214-Rev,PainRelief Generic,2023-12-21,2,,LOC10,(100) 987-6543
+Txn1149,CUST_251a,PROD207_new,Probiotic  Daily Dose,2023-12-04,2,21.8,LOC4,123-4567
+Txn1249,CUST_728a,PROD207,Probiotic  Daily Dose,2023-12-29,3,21.44,LOC2,987654321
+Txn1071,CUST_561a,PROD209-v2,SleepAid  Herbal Blend,2023-12-19,3,41.06,loc1,
+Txn1071,CUST_561a,PROD209-v2,SleepAid  Herbal Blend,2023-12-19,3,41.06,loc1,
+Txn1269,customerID-619a,PROD215_updated,MultiVitamin  Adult Formula,2023-12-08,4,49.83,LOC7,(987) 654-3210
+Txn1049,Cust-520c,PROD210_new,VitaminD  Supplement,2024-02-08,2,11.45,loc9,876543210
+Txn1239,CUST_795c,PROD201_new,Allergy Relief,2023-11-10,3,11.69,INVALID_LOC,
+Txn1049,Cust-520c,PROD210_new,VitaminD  Supplement,2024-02-08,2,11.45,loc9,876543210
+Txn1183,CUST_636a,PROD208,SkinCream  Eczema Formula,2023-10-28,2,31.21,loc4,
+Txn1036,CUST_696a,PROD201,Allergy Relief,2023-11-09,3,25.84,LOC4,
+Txn1204,Cust-180b,PROD206_updated,Antacid  Fast-Acting,2023-12-13,2,15.18,LOC1,
+Txn1224,Cust-201c,PROD206,Antacid  Fast-Acting,2023-12-13,3,17.82,LOC8,876-5432
+Txn1131,Cust-680a,PROD212,PainRelief Generic,2023-11-12,2,49.96,LOC4,
+Txn1139,Cust-221a,PROD209_updated,SleepAid  Herbal Blend,2024-01-14,4,41.52,loc2,
+Txn1187,customerID-388b,PROD211,CoughSyrup  Night Formula,2023-10-24,2,10.16,LOC7,
+Txn1122,CUST_821a,PROD202-Rev,Antibiotic  Broad Spectrum,2023-12-24,2,45.65,LOC5,
+Txn1297,Cust-421b,PROD204_new,CoughSyrup  Night Formula,2023-10-21,2,47.26,location4,
+Txn1164,Cust-877a,PROD203,Antibiotic  Broad Spectrum,2023-11-04,2,20.13,LOC7,
+Txn1207,CUST_674b,PROD208_new,SkinCream  Eczema Formula,2023-11-21,3,19.9,LOC1,
+Txn1208,customerID-898a,PROD212-v2,PainRelief_v2,2023-11-20,5,14.05,location3,987-6543
+Txn1098,Client#660c,PROD213-v2,VitD  Supplement,2023-12-05,3,29.95,LOC8,987654321
+Txn1035,customerID-394a,PROD209,SleepAid  Herbal Blend,2023-11-20,5,47.26,loc10,987654321
+Txn1292,Cust-108a,PROD201_new,PainRelief_v2,2023-11-20,5,49.77,LOC1,987654321
+Txn1202,CUST_232a,PROD212-v2,PainRelief Generic,2023-10-07,3,40.3,LOC4,987654321
+Txn1291,Cust-701c,PROD210_new,VitD  Supplement,2023-12-29,1,41.94,location4,987654321
+Txn1116,CUST_909b,PROD205,Antacid  Fast Acting,2023-11-19,4,43.77,LOC1,987654321
+Txn1243,customerID-824c,PROD204,CoughSyrup  Night Formula,2024-01-26,1,46.3,location5,987654321
+Txn1087,Cust-466c,PROD203-v2,Antibiotic  Broad Spectrum,2023-11-17,3,37.75,LOC7,987654321
+Txn1117,customerID-858b,PROD215_updated,MultiVitamin  Adult Formula,2024-02-01,2,49.99,LOC1,987654321
+Txn1058,customerID-988a,PROD210,VitaminD  Supplement,2023-11-06,4,18.19,loc10,987654321
+Txn1136,CUST_811c,PROD205_new,Antacid  Fast Acting,2023-11-12,3,30.15,LOC10,
+Txn1246,customerID-391a,PROD209_updated,SleepAid  Herbal Blend,2023-11-03,2,26.06,LOC7,987654321
+Txn1177,customerID-479b,PROD215-v2,MultiVitamin  Adult Formula,2023-11-22,1,20.61,LOC4,987654321
+Txn1056,Cust-527b,PROD210_new,VitD  Supplement,2023-11-25,2,37.72,location1,987654321
+Txn1009,CUST_163a,PROD203-v2,Antibiotic  Broad Spectrum,2024-01-24,4,22.44,LOC3,987654321
+Txn1158,Cust-285b,PROD204_new,CoughSyrup  Night Formula,2023-11-16,2,21.77,location5,987654321
+Txn1063,Client#814b,PROD204_new,CoughSyrup  Night Formula,2023-12-03,1,38.74,loc4,987654321
+Txn1295,Cust-228c,PROD209,SleepAid  Herbal Blend,2023-12-12,2,37.03,LOC8,987654321
+Txn1226,Client#918b,PROD207-v2,Probiotic  Daily Dose,2023-11-19,4,,loc7,987654321
+Txn1127,CUST_529c,PROD209_updated,SleepAid  Herbal Blend,2023-11-29,3,17.26,LOC4,987654321
+Txn1237,CUST_300c,PROD207,Probiotic  Daily Dose,2023-12-16,3,34.54,LOC7,987654321
+Txn1213,CUST_603c,PROD206-v2,Antacid  Fast Acting,2023-12-23,2,20.3,LOC6,987654321
+Txn1259,Cust-607b,PROD201-v2,Allergy Relief,2023-11-06,3,16.94,loc3,987654321
+Txn1029,CUST_908b,PROD214-v2,PainRelief Generic,2023-12-11,2,,LOCATION3,987654321
+Txn1017,Cust-328a,PROD207,Probiotic  Daily Dose,2023-12-28,2,38.75,LOC7,987654321
+Txn1156,Cust-527b,PROD215_updated,MultiVitamin  Adult Formula,2023-12-19,4,20.43,LOC4,987654321
+Txn1172,CUST_450a,PROD203,Antibiotic  Broad Spectrum,2024-02-04,2,46.42,LOC9,987654321
+Txn1298,CUST_941c,PROD211-v2,CoughSyrup  Night Formula,2024-02-02,4,38.1,location5,987654321
+Txn1222,Cust-792c,PROD208-v2,SkinCream  Eczema Formula,2023-12-09,3,45.43,LOC9,987654321

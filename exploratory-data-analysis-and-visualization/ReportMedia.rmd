@@ -1,0 +1,73 @@
+---
+title: "Advertising Report"
+author: "Juliana Franco Correa"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Advertising Report}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+# Executive Summary
+The top region was North America in Conversions. The least was Asia. 
+
+# Introduction
+This report analyzes digital advertising campaign performance across regions and channels.
+
+# Methodology
+The data explaining the methodology is in the media.R file. 
+
+# Visualization
+```{r, echo = FALSE}
+# Load libraries
+library(ggplot2)      # For high-quality data visualizations
+library(rmarkdown)    # For creating reproducible reports
+library(knitr)        # For knitting R Markdown documents
+
+# Load dataset
+advertising_data <- read.csv("/Users/juliana/Desktop/R Programming/Course 3/media_13.csv")
+
+# Summarize total conversions by region
+conversions_by_region <- aggregate(Conversions ~ Region, data = advertising_data, sum)
+
+# Create base plot
+plot <- ggplot(conversions_by_region, aes(x = Region, y = Conversions)) +
+    geom_bar(stat = "identity", fill = "#007bff")
+print(plot)
+
+# Apply styling
+ plot_a <- plot +
+  labs(title = "Total Conversions by Region", x = "Region", y = "Total Conversions") +
+  theme_light() +
+  theme(
+    plot.title = element_text(size = 16, face = "bold", color = "darkblue"),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10)
+  )
+ print(plot_a)
+
+# Identify region with highest conversions
+max_conversion_region <- conversions_by_region[which.max(conversions_by_region$Conversions), ]
+
+# Add annotation to the plot
+
+plot_2 <- plot_a +
+    geom_text(
+        data = max_conversion_region,
+        aes(label = paste("Top Region: ", max_conversion_region$Region), y = Conversions),
+        vjust = 1.5, 
+        size = 4, 
+        fontface = "bold", 
+        color = "white"
+    )
+print(plot_2)
+```

@@ -1,0 +1,101 @@
+Date,Page,Region,Device,PageViews,AvgSessionDuration,BounceRate
+1/1/2024,Homepage,North America,Desktop,1500,180,0.55
+1/1/2024,Product Page A,North America,Desktop,1200,240,0.65
+1/1/2024,Product Page B,North America,Mobile,800,120,0.7
+1/1/2024,Contact Us,Europe,Desktop,500,90,0.45
+1/1/2024,About Us,Europe,Mobile,300,60,0.5
+1/2/2024,Homepage,North America,Desktop,1600,190,0.52
+1/2/2024,Product Page A,North America,Desktop,1300,250,0.62
+1/2/2024,Product Page B,North America,Mobile,900,130,0.68
+1/2/2024,Contact Us,Europe,Desktop,550,95,0.42
+1/2/2024,About Us,Europe,Mobile,350,65,0.48
+1/3/2024,Homepage,North America,Desktop,1700,200,0.5
+1/3/2024,Product Page A,North America,Desktop,1400,260,0.6
+1/3/2024,Product Page B,North America,Mobile,1000,140,0.65
+1/3/2024,Contact Us,Europe,Desktop,600,100,0.4
+1/3/2024,About Us,Europe,Mobile,400,70,0.45
+1/4/2024,Homepage,North America,Mobile,1200,150,0.6
+1/4/2024,Product Page A,North America,Mobile,900,200,0.7
+1/4/2024,Product Page B,North America,Desktop,1100,180,0.58
+1/4/2024,Contact Us,Europe,Mobile,400,70,0.5
+1/4/2024,About Us,Europe,Desktop,600,110,0.4
+1/5/2024,Homepage,North America,Mobile,1300,160,0.58
+1/5/2024,Product Page A,North America,Mobile,1000,210,0.68
+1/5/2024,Product Page B,North America,Desktop,1200,190,0.55
+1/5/2024,Contact Us,Europe,Mobile,450,75,0.48
+1/5/2024,About Us,Europe,Desktop,650,115,0.38
+1/6/2024,Homepage,Europe,Desktop,1800,220,0.45
+1/6/2024,Product Page A,Europe,Desktop,1500,280,0.55
+1/6/2024,Product Page B,Europe,Mobile,1100,150,0.6
+1/6/2024,Contact Us,North America,Desktop,700,120,0.35
+1/6/2024,About Us,North America,Mobile,500,80,0.4
+1/7/2024,Homepage,Europe,Desktop,1900,230,0.42
+1/7/2024,Product Page A,Europe,Desktop,1600,290,0.52
+1/7/2024,Product Page B,Europe,Mobile,1200,160,0.58
+1/7/2024,Contact Us,North America,Desktop,750,125,0.32
+1/7/2024,About Us,North America,Mobile,550,85,0.38
+1/8/2024,Homepage,Europe,Desktop,2000,240,0.4
+1/8/2024,Product Page A,Europe,Desktop,1700,300,0.5
+1/8/2024,Product Page B,Europe,Mobile,1300,170,0.55
+1/8/2024,Contact Us,North America,Desktop,800,130,0.3
+1/8/2024,About Us,North America,Mobile,600,90,0.35
+1/9/2024,Homepage,Asia,Desktop,1200,160,0.65
+1/9/2024,Product Page A,Asia,Desktop,900,220,0.75
+1/9/2024,Product Page B,Asia,Mobile,600,100,0.8
+1/9/2024,Contact Us,Europe,Mobile,300,50,0.55
+1/9/2024,About Us,Europe,Desktop,500,90,0.45
+1/10/2024,Homepage,Asia,Desktop,1300,170,0.62
+1/10/2024,Product Page A,Asia,Desktop,1000,230,0.72
+1/10/2024,Product Page B,Asia,Mobile,700,110,0.78
+1/10/2024,Contact Us,Europe,Mobile,350,55,0.52
+1/10/2024,About Us,Europe,Desktop,550,95,0.42
+1/11/2024,Homepage,Asia,Desktop,1400,180,0.6
+1/11/2024,Product Page A,Asia,Desktop,1100,240,0.7
+1/11/2024,Product Page B,Asia,Mobile,800,120,0.75
+1/11/2024,Contact Us,Europe,Mobile,400,60,0.5
+1/11/2024,About Us,Europe,Desktop,600,100,0.4
+1/12/2024,Homepage,Asia,Mobile,900,130,0.7
+1/12/2024,Product Page A,Asia,Mobile,600,180,0.8
+1/12/2024,Product Page B,Asia,Desktop,1000,200,0.68
+1/12/2024,Contact Us,Europe,Desktop,350,65,0.55
+1/12/2024,About Us,Europe,Mobile,550,80,0.48
+1/13/2024,Homepage,Asia,Mobile,1000,140,0.68
+1/13/2024,Product Page A,Asia,Mobile,700,190,0.78
+1/13/2024,Product Page B,Asia,Desktop,1100,210,0.65
+1/13/2024,Contact Us,Europe,Desktop,400,70,0.52
+1/13/2024,About Us,Europe,Mobile,600,85,0.45
+1/14/2024,Homepage,Oceania,Desktop,800,100,0.75
+1/14/2024,Product Page A,Oceania,Desktop,500,160,0.85
+1/14/2024,Product Page B,Oceania,Mobile,300,80,0.9
+1/14/2024,Contact Us,Asia,Desktop,200,40,0.6
+1/14/2024,About Us,Asia,Mobile,400,70,0.5
+1/15/2024,Homepage,Oceania,Desktop,900,110,0.72
+1/15/2024,Product Page A,Oceania,Desktop,600,170,0.82
+1/15/2024,Product Page B,Oceania,Mobile,400,90,0.88
+1/15/2024,Contact Us,Asia,Desktop,250,45,0.58
+1/15/2024,About Us,Asia,Mobile,450,75,0.48
+1/16/2024,Homepage,Oceania,Desktop,1000,120,0.7
+1/16/2024,Product Page A,Oceania,Desktop,700,180,0.8
+1/16/2024,Product Page B,Oceania,Mobile,500,100,0.85
+1/16/2024,Contact Us,Asia,Desktop,300,50,0.55
+1/16/2024,About Us,Asia,Mobile,500,80,0.45
+1/17/2024,Homepage,Oceania,Mobile,600,90,0.8
+1/17/2024,Product Page A,Oceania,Mobile,400,140,0.9
+1/17/2024,Product Page B,Oceania,Desktop,800,150,0.78
+1/17/2024,Contact Us,Asia,Mobile,250,45,0.6
+1/17/2024,About Us,Asia,Desktop,450,85,0.5
+1/18/2024,Homepage,Oceania,Mobile,700,100,0.78
+1/18/2024,Product Page A,Oceania,Mobile,500,150,0.88
+1/18/2024,Product Page B,Oceania,Desktop,900,160,0.75
+1/18/2024,Contact Us,Asia,Mobile,300,50,0.58
+1/18/2024,About Us,Asia,Desktop,500,90,0.48
+1/19/2024,Homepage,South America,Desktop,400,60,0.85
+1/19/2024,Product Page A,South America,Desktop,200,120,0.95
+1/19/2024,Product Page B,South America,Mobile,100,40,1
+1/19/2024,Contact Us,Oceania,Desktop,150,30,0.65
+1/19/2024,About Us,Oceania,Mobile,300,50,0.55
+1/20/2024,Homepage,South America,Desktop,500,70,0.82
+1/20/2024,Product Page A,South America,Desktop,300,130,0.92
+1/20/2024,Product Page B,South America,Mobile,200,50,0.98
+1/20/2024,Contact Us,Oceania,Desktop,200,35,0.62
+1/20/2024,About Us,Oceania,Mobile,350,55,0.52

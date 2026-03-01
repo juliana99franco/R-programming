@@ -1,0 +1,101 @@
+PatientID,Age,Gender,BMI,SystolicBP,DiastolicBP,Cholesterol,Diabetes,Smoker,HeartDisease,Region,VisitType,InsuranceProvider,MedicationPrescribed,DaysInHospital,HealthcareCost
+PT_001,62,Male,28.5,140,90,220,Yes,Yes,Yes,North,Emergency,Provider_A,Statin,14,15500
+PT_002,45,Female,24.3,120,80,180,No,No,No,South,Check-up,Provider_B,None,1,1500
+PT_003,70,Female,31.2,160,95,250,Yes,No,Yes,West,Consultation,Provider_A,Beta-blocker,7,9800
+PT_004,58,Male,29.8,135,85,210,No,Yes,No,East,Emergency,Provider_C,PainReliever,5,6200
+PT_005,33,Female,22.1,115,75,170,No,No,No,North,Check-up,Provider_B,None,1,1200
+PT_006,75,Male,33.5,155,92,240,Yes,Yes,Yes,South,Consultation,Provider_A,ACE Inhibitor,10,12000
+PT_007,48,Female,25.9,125,82,190,No,No,No,West,Emergency,Provider_C,Antibiotic,3,4500
+PT_008,68,Male,30.1,145,91,230,Yes,Yes,Yes,East,Check-up,Provider_B,Statin,12,14000
+PT_009,52,Female,27.4,130,84,200,No,No,No,North,Consultation,Provider_A,None,2,2800
+PT_010,72,Male,32.8,158,94,245,Yes,Yes,Yes,South,Emergency,Provider_C,Beta-blocker,8,10500
+PT_011,40,Female,23.5,118,78,175,No,No,No,West,Check-up,Provider_B,None,1,1350
+PT_012,65,Male,31.9,142,89,225,Yes,Yes,Yes,East,Consultation,Provider_A,PainReliever,9,11500
+PT_013,55,Female,26.7,128,83,195,No,No,No,North,Emergency,Provider_C,Antibiotic,4,5500
+PT_014,78,Male,34.2,165,97,260,Yes,Yes,Yes,South,Check-up,Provider_B,Statin,15,16000
+PT_015,49,Female,25.1,122,81,185,No,No,No,West,Consultation,Provider_A,None,1,2000
+PT_016,60,Male,29.1,138,88,215,Yes,Yes,No,East,Emergency,Provider_C,Beta-blocker,6,7000
+PT_017,38,Female,23.9,117,77,172,No,No,No,North,Check-up,Provider_B,None,1,1400
+PT_018,71,Male,32.5,157,93,242,Yes,Yes,Yes,South,Consultation,Provider_A,ACE Inhibitor,11,12800
+PT_019,51,Female,27,129,83.5,198,No,No,No,West,Emergency,Provider_C,PainReliever,4,5000
+PT_020,73,Male,33.1,162,96,255,Yes,Yes,Yes,East,Check-up,Provider_B,Statin,13,15000
+PT_021,42,Female,24.8,121,79,182,No,No,No,North,Consultation,Provider_A,None,2,2500
+PT_022,67,Male,30.8,144,90.5,228,Yes,Yes,Yes,South,Emergency,Provider_C,Beta-blocker,7,9200
+PT_023,56,Female,26.5,127,82.5,193,No,No,No,West,Check-up,Provider_B,Antibiotic,3,4800
+PT_024,76,Male,33.8,163,96.5,258,Yes,Yes,Yes,East,Consultation,Provider_A,ACE Inhibitor,12,13500
+PT_025,50,Female,25.5,124,81.5,188,No,No,No,North,Emergency,Provider_C,PainReliever,5,6000
+PT_026,74,Male,33.3,161,95.5,252,Yes,Yes,Yes,South,Check-up,Provider_B,Statin,14,15800
+PT_027,47,Female,26.2,126,82,191,No,No,No,West,Consultation,Provider_A,None,2,2700
+PT_028,69,Male,31.5,143,90,223,Yes,Yes,Yes,East,Emergency,Provider_C,Beta-blocker,8,10000
+PT_029,53,Female,27.1,129.5,83.25,199,No,No,No,North,Check-up,Provider_B,Antibiotic,3,4600
+PT_030,77,Male,34,164,97,259,Yes,Yes,Yes,South,Consultation,Provider_A,ACE Inhibitor,13,14200
+PT_031,41,Female,24.5,120.5,79.5,183,No,No,No,West,Emergency,Provider_C,PainReliever,4,5200
+PT_032,66,Male,30.5,142.5,89.75,226,Yes,Yes,Yes,East,Check-up,Provider_B,Statin,11,13000
+PT_033,57,Female,26.9,128.5,83,196,No,No,No,North,Consultation,Provider_A,None,2,2900
+PT_034,79,Male,34.5,166,97.5,262,Yes,Yes,Yes,South,Emergency,Provider_C,Beta-blocker,9,11000
+PT_035,43,Female,25,123,80.5,186,No,No,No,West,Check-up,Provider_B,Antibiotic,3,4700
+PT_036,63,Male,29.5,139,89.5,218,Yes,Yes,No,East,Consultation,Provider_A,PainReliever,6,7500
+PT_037,39,Female,23.7,117.5,77.5,173,No,No,No,North,Emergency,Provider_C,None,2,3000
+PT_038,72,Male,32.2,159,94.5,248,Yes,Yes,Yes,South,Check-up,Provider_B,ACE Inhibitor,12,13800
+PT_039,54,Female,27.2,130.5,83.75,202,No,No,No,West,Consultation,Provider_A,PainReliever,3,4900
+PT_040,74,Male,33.6,162.5,96.25,256,Yes,Yes,Yes,East,Emergency,Provider_C,Statin,10,12500
+PT_041,46,Female,25.7,125.5,82.25,192,No,No,No,North,Check-up,Provider_B,Antibiotic,4,5100
+PT_042,61,Male,29.2,138.5,88.75,216,Yes,Yes,No,South,Consultation,Provider_A,Beta-blocker,7,9500
+PT_043,35,Female,22.5,116,76,171,No,No,No,West,Emergency,Provider_C,None,1,2200
+PT_044,64,Male,30.2,141,89.25,224,Yes,Yes,Yes,East,Check-up,Provider_B,ACE Inhibitor,11,13200
+PT_045,59,Female,27.5,131,84,201,No,No,No,North,Consultation,Provider_A,PainReliever,3,4850
+PT_046,71,Male,32.7,158.5,94.25,249,Yes,Yes,Yes,South,Emergency,Provider_C,Statin,9,11200
+PT_047,44,Female,25.3,123.5,80.75,187,No,No,No,West,Check-up,Provider_B,Antibiotic,4,5300
+PT_048,62,Male,29.3,139.5,89,217,Yes,Yes,No,East,Consultation,Provider_A,Beta-blocker,6,7200
+PT_049,37,Female,23.2,116.5,76.5,172,No,No,No,North,Emergency,Provider_C,None,2,3100
+PT_050,65,Male,30.3,141.5,89.5,225,Yes,Yes,Yes,South,Check-up,Provider_B,ACE Inhibitor,10,12700
+PT_051,52,Female,26.8,128.75,83.125,197,No,No,No,West,Consultation,Provider_A,PainReliever,3,4950
+PT_052,75,Male,33.7,163.5,96.75,257,Yes,Yes,Yes,East,Emergency,Provider_C,Statin,8,10800
+PT_053,48,Female,26,125.25,82.125,190.5,No,No,No,North,Check-up,Provider_B,Antibiotic,4,5400
+PT_054,69,Male,31.7,143.5,90.25,224,Yes,Yes,Yes,South,Consultation,Provider_A,Beta-blocker,6,7100
+PT_055,36,Female,22.8,116.25,76.25,171.5,No,No,No,West,Emergency,Provider_C,None,1,2300
+PT_056,63,Male,29.6,139.25,89.375,219,Yes,Yes,No,East,Check-up,Provider_B,ACE Inhibitor,9,11800
+PT_057,56,Female,26.6,127.75,82.875,194,No,No,No,North,Consultation,Provider_A,PainReliever,2,3050
+PT_058,78,Male,34.3,164.5,97.25,261,Yes,Yes,Yes,South,Emergency,Provider_C,Statin,7,9900
+PT_059,49,Female,25.2,122.25,81.125,185.5,No,No,No,West,Check-up,Provider_B,Antibiotic,3,4650
+PT_060,60,Male,29,137.75,88.375,214,Yes,Yes,No,East,Consultation,Provider_A,Beta-blocker,5,6500
+PT_061,38,Female,23.8,117.25,77.25,172.5,No,No,No,North,Emergency,Provider_C,None,1,2400
+PT_062,71,Male,32.6,158.25,94.125,246,Yes,Yes,Yes,South,Check-up,Provider_B,ACE Inhibitor,8,10200
+PT_063,51,Female,27.1,129.25,83.375,200,No,No,No,West,Consultation,Provider_A,PainReliever,2,3150
+PT_064,73,Male,33.2,161.5,95.75,254,Yes,Yes,Yes,East,Emergency,Provider_C,Statin,6,8500
+PT_065,42,Female,24.9,121.25,79.375,182.5,No,No,No,North,Check-up,Provider_B,Antibiotic,3,4750
+PT_066,67,Male,30.9,143.75,90.125,227,Yes,Yes,Yes,South,Consultation,Provider_A,Beta-blocker,4,5250
+PT_067,56,Female,26.7,127.875,82.9375,194.5,No,No,No,West,Emergency,Provider_C,None,1,2500
+PT_068,76,Male,33.9,163.75,96.875,259,Yes,Yes,Yes,East,Check-up,Provider_B,ACE Inhibitor,7,9600
+PT_069,50,Female,25.6,124.25,81.375,188.5,No,No,No,North,Consultation,Provider_A,PainReliever,2,3200
+PT_070,74,Male,33.4,161.25,95.625,253,Yes,Yes,Yes,South,Emergency,Provider_C,Statin,5,6800
+PT_071,47,Female,26.3,126.25,82.125,191.5,No,No,No,West,Check-up,Provider_B,Antibiotic,3,4850
+PT_072,69,Male,31.6,143.25,89.875,223.5,Yes,Yes,Yes,East,Consultation,Provider_A,Beta-blocker,4,5350
+PT_073,53,Female,27.2,129.75,83.4375,199.5,No,No,No,North,Emergency,Provider_C,None,1,2600
+PT_074,77,Male,34.1,164.25,97.125,260.5,Yes,Yes,Yes,South,Check-up,Provider_B,ACE Inhibitor,6,8700
+PT_075,41,Female,24.6,120.75,79.625,183.5,No,No,No,West,Consultation,Provider_A,PainReliever,2,3250
+PT_076,66,Male,30.6,142.75,89.9375,226.5,Yes,Yes,Yes,East,Emergency,Provider_C,Statin,4,5450
+PT_077,57,Female,27,128.625,82.96875,196.5,No,No,No,North,Check-up,Provider_B,Antibiotic,3,4900
+PT_078,79,Male,34.6,165.5,97.375,262.5,Yes,Yes,Yes,South,Consultation,Provider_A,Beta-blocker,5,6600
+PT_079,43,Female,25.1,123.25,80.625,186.5,No,No,No,West,Emergency,Provider_C,None,1,2700
+PT_080,63,Male,29.7,139.375,89.46875,219.5,Yes,Yes,No,East,Check-up,Provider_B,ACE Inhibitor,6,8900
+PT_081,39,Female,23.8,117.375,77.3125,173.5,No,No,No,North,Consultation,Provider_A,PainReliever,2,3300
+PT_082,72,Male,32.3,159.25,94.625,249,Yes,Yes,Yes,South,Emergency,Provider_C,Statin,4,5550
+PT_083,54,Female,27.3,130.625,83.46875,201.5,No,No,No,West,Check-up,Provider_B,Antibiotic,3,5000
+PT_084,74,Male,33.7,162.75,96.375,256.5,Yes,Yes,Yes,East,Consultation,Provider_A,Beta-blocker,5,6700
+PT_085,46,Female,25.8,125.625,82.3125,192.5,No,No,No,North,Emergency,Provider_C,None,1,2800
+PT_086,61,Male,29.3,138.625,88.8125,216.5,Yes,Yes,No,South,Check-up,Provider_B,ACE Inhibitor,6,9100
+PT_087,35,Female,22.6,116.125,76.15625,171.5,No,No,No,West,Consultation,Provider_A,PainReliever,2,3350
+PT_088,64,Male,30.4,141.25,89.3125,224.5,Yes,Yes,Yes,East,Emergency,Provider_C,Statin,4,5650
+PT_089,59,Female,27.6,131.25,84.125,201.5,No,No,No,North,Check-up,Provider_B,Antibiotic,3,5100
+PT_090,71,Male,32.8,158.75,94.3125,249.5,Yes,Yes,Yes,South,Consultation,Provider_A,Beta-blocker,5,6900
+PT_091,44,Female,25.4,123.375,80.6875,187.5,No,No,No,West,Emergency,Provider_C,None,1,2900
+PT_092,62,Male,29.4,139.625,89.0625,217.5,Yes,Yes,No,East,Check-up,Provider_B,ACE Inhibitor,6,9300
+PT_093,37,Female,23.3,116.625,76.3125,172.5,No,No,No,North,Consultation,Provider_A,PainReliever,2,3400
+PT_094,65,Male,30.5,141.75,89.625,225.5,Yes,Yes,Yes,South,Emergency,Provider_C,Statin,4,5750
+PT_095,52,Female,26.9,128.875,83.15625,197.5,No,No,No,West,Check-up,Provider_B,Antibiotic,3,5200
+PT_096,75,Male,33.8,163.625,96.8125,257.5,Yes,Yes,Yes,East,Consultation,Provider_A,Beta-blocker,5,7000
+PT_097,48,Female,26.1,125.375,82.15625,191,No,No,No,North,Emergency,Provider_C,None,1,3000
+PT_098,68,Male,31.8,143.625,90.3125,224.5,Yes,Yes,Yes,South,Check-up,Provider_B,ACE Inhibitor,6,9500
+PT_099,53,Female,27.3,129.875,83.53125,200.5,No,No,No,West,Consultation,Provider_A,PainReliever,2,3450
+PT_100,77,Male,34.2,164.375,97.15625,261,Yes,Yes,Yes,East,Emergency,Provider_C,Statin,4,5850

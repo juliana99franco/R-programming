@@ -1,0 +1,101 @@
+PatientID,Age,MedicalCost,Condition,TreatmentType,SatisfactionLevel
+Patient_1,62,5500,Diabetes,Medication,Medium
+Patient_2,48,3200,Heart Disease,Surgery,High
+Patient_3,35,1800,Respiratory Issue,Therapy,Low
+Patient_4,70,7200,Diabetes,Medication,High
+Patient_5,55,4100,Heart Disease,Surgery,Medium
+Patient_6,28,1200,Respiratory Issue,Therapy,Medium
+Patient_7,75,8500,Diabetes,Medication,High
+Patient_8,50,3800,Heart Disease,Surgery,High
+Patient_9,38,2200,Respiratory Issue,Therapy,Medium
+Patient_10,68,6800,Diabetes,Medication,Medium
+Patient_11,45,3000,Heart Disease,Surgery,Low
+Patient_12,32,1500,Respiratory Issue,Therapy,Low
+Patient_13,78,9200,Diabetes,Medication,High
+Patient_14,52,4000,Heart Disease,Surgery,High
+Patient_15,40,2500,Respiratory Issue,Therapy,Medium
+Patient_16,65,6200,Diabetes,Medication,Medium
+Patient_17,49,3500,Heart Disease,Surgery,High
+Patient_18,36,2000,Respiratory Issue,Therapy,Low
+Patient_19,72,7800,Diabetes,Medication,High
+Patient_20,58,4500,Heart Disease,Surgery,High
+Patient_21,30,1300,Respiratory Issue,Therapy,Low
+Patient_22,69,7000,Diabetes,Medication,Medium
+Patient_23,47,3300,Heart Disease,Surgery,Medium
+Patient_24,34,1900,Respiratory Issue,Therapy,Medium
+Patient_25,71,7500,Diabetes,Medication,High
+Patient_26,51,3900,Heart Disease,Surgery,High
+Patient_27,39,2300,Respiratory Issue,Therapy,Medium
+Patient_28,66,6500,Diabetes,Medication,Medium
+Patient_29,53,4200,Heart Disease,Surgery,High
+Patient_30,31,1400,Respiratory Issue,Therapy,Low
+Patient_31,76,8800,Diabetes,Medication,High
+Patient_32,54,4300,Heart Disease,Surgery,High
+Patient_33,41,2600,Respiratory Issue,Therapy,Medium
+Patient_34,63,5800,Diabetes,Medication,Medium
+Patient_35,46,3100,Heart Disease,Surgery,Low
+Patient_36,33,1600,Respiratory Issue,Therapy,Low
+Patient_37,79,9500,Diabetes,Medication,High
+Patient_38,57,4400,Heart Disease,Surgery,High
+Patient_39,42,2700,Respiratory Issue,Therapy,Medium
+Patient_40,67,6700,Diabetes,Medication,Medium
+Patient_41,44,2900,Heart Disease,Surgery,Low
+Patient_42,29,1100,Respiratory Issue,Therapy,Low
+Patient_43,73,8000,Diabetes,Medication,High
+Patient_44,59,4600,Heart Disease,Surgery,High
+Patient_45,37,2100,Respiratory Issue,Therapy,Medium
+Patient_46,64,6000,Diabetes,Medication,Medium
+Patient_47,47,3400,Heart Disease,Surgery,High
+Patient_48,35,1950,Respiratory Issue,Therapy,Low
+Patient_49,77,9000,Diabetes,Medication,High
+Patient_50,56,4350,Heart Disease,Surgery,High
+Patient_51,43,2800,Respiratory Issue,Therapy,Medium
+Patient_52,61,5700,Diabetes,Medication,Medium
+Patient_53,45,3250,Heart Disease,Surgery,Low
+Patient_54,32,1550,Respiratory Issue,Therapy,Low
+Patient_55,74,8300,Diabetes,Medication,High
+Patient_56,53,4150,Heart Disease,Surgery,High
+Patient_57,40,2450,Respiratory Issue,Therapy,Medium
+Patient_58,68,6900,Diabetes,Medication,Medium
+Patient_59,49,3650,Heart Disease,Surgery,High
+Patient_60,38,2250,Respiratory Issue,Therapy,Medium
+Patient_61,60,5600,Diabetes,Medication,Medium
+Patient_62,46,3350,Heart Disease,Surgery,Low
+Patient_63,31,1450,Respiratory Issue,Therapy,Low
+Patient_64,72,7900,Diabetes,Medication,High
+Patient_65,50,3950,Heart Disease,Surgery,High
+Patient_66,39,2350,Respiratory Issue,Therapy,Medium
+Patient_67,69,7100,Diabetes,Medication,Medium
+Patient_68,48,3550,Heart Disease,Surgery,High
+Patient_69,36,2050,Respiratory Issue,Therapy,Low
+Patient_70,75,8600,Diabetes,Medication,High
+Patient_71,51,4050,Heart Disease,Surgery,High
+Patient_72,34,1850,Respiratory Issue,Therapy,Low
+Patient_73,62,5900,Diabetes,Medication,Medium
+Patient_74,44,3150,Heart Disease,Surgery,Low
+Patient_75,33,1650,Respiratory Issue,Therapy,Low
+Patient_76,78,9300,Diabetes,Medication,High
+Patient_77,52,4250,Heart Disease,Surgery,High
+Patient_78,41,2550,Respiratory Issue,Therapy,Medium
+Patient_79,65,6300,Diabetes,Medication,Medium
+Patient_80,47,3450,Heart Disease,Surgery,High
+Patient_81,30,1350,Respiratory Issue,Therapy,Low
+Patient_82,70,7400,Diabetes,Medication,High
+Patient_83,54,4350,Heart Disease,Surgery,High
+Patient_84,37,2150,Respiratory Issue,Therapy,Medium
+Patient_85,63,6100,Diabetes,Medication,Medium
+Patient_86,46,3300,Heart Disease,Surgery,Low
+Patient_87,32,1580,Respiratory Issue,Therapy,Low
+Patient_88,71,7600,Diabetes,Medication,High
+Patient_89,58,4550,Heart Disease,Surgery,High
+Patient_90,38,2300,Respiratory Issue,Therapy,Medium
+Patient_91,66,6400,Diabetes,Medication,Medium
+Patient_92,49,3750,Heart Disease,Surgery,High
+Patient_93,35,2000,Respiratory Issue,Therapy,Low
+Patient_94,79,9600,Diabetes,Medication,High
+Patient_95,55,4450,Heart Disease,Surgery,High
+Patient_96,42,2650,Respiratory Issue,Therapy,Medium
+Patient_97,67,6850,Diabetes,Medication,Medium
+Patient_98,50,3900,Heart Disease,Surgery,High
+Patient_99,33,1750,Respiratory Issue,Therapy,Low
+Patient_100,74,8400,Diabetes,Medication,High

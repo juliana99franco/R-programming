@@ -1,0 +1,41 @@
+ReportDate,Region,TrafficSource,DeviceCategory,Page,Impressions,Clicks,Cost,Conversions,ConversionValue,Revenue,CTR,CPC,CPA,ROAS
+2024-01-01,North America,Organic Search,Desktop,Homepage,1500,150,15,30,1500,3000,0.10,0.10,0.50,200.00
+2024-01-01,North America,Paid Search,Mobile,Homepage,1200,180,36,25,1250,2500,0.15,0.20,1.44,69.44
+2024-01-01,Europe,Social Media,Mobile,Product Page A,800,80,8,15,750,1500,0.10,0.10,0.53,187.50
+2024-01-01,Asia,Email,Desktop,Product Page B,500,60,6,10,500,1000,0.12,0.10,0.60,166.67
+2024-01-02,North America,Organic Search,Desktop,Homepage,1600,160,16,32,1600,3200,0.10,0.10,0.50,200.00
+2024-01-02,North America,Paid Search,Mobile,Homepage,1300,195,39,27,1350,2700,0.15,0.20,1.44,69.23
+2024-01-02,Europe,Social Media,Mobile,Product Page A,900,90,9,17,850,1700,0.10,0.10,0.53,188.89
+2024-01-02,Asia,Email,Desktop,Product Page B,600,72,7.2,12,600,1200,0.12,0.10,0.60,166.67
+2024-01-03,North America,Organic Search,Desktop,Homepage,1700,170,17,34,1700,3400,0.10,0.10,0.50,200.00
+2024-01-03,North America,Paid Search,Mobile,Homepage,1400,210,42,29,1450,2900,0.15,0.20,1.45,69.05
+2024-01-03,Europe,Social Media,Mobile,Product Page A,1000,100,10,19,950,1900,0.10,0.10,0.53,190.00
+2024-01-03,Asia,Email,Desktop,Product Page B,700,84,8.4,14,700,1400,0.12,0.10,0.60,166.67
+2024-01-04,North America,Organic Search,Mobile,Homepage,1200,120,12,24,1200,2400,0.10,0.10,0.50,200.00
+2024-01-04,North America,Paid Search,Desktop,Homepage,900,135,27,20,1000,2000,0.15,0.20,1.35,74.07
+2024-01-04,Europe,Social Media,Desktop,Product Page A,400,40,4,8,400,800,0.10,0.10,0.50,200.00
+2024-01-04,Asia,Email,Mobile,Product Page B,600,72,7.2,12,600,1200,0.12,0.10,0.60,166.67
+2024-01-05,North America,Organic Search,Mobile,Homepage,1300,130,13,26,1300,2600,0.10,0.10,0.50,200.00
+2024-01-05,North America,Paid Search,Desktop,Homepage,1000,150,30,22,1100,2200,0.15,0.20,1.36,73.33
+2024-01-05,Europe,Social Media,Desktop,Product Page A,500,50,5,10,500,1000,0.10,0.10,0.50,200.00
+2024-01-05,Asia,Email,Mobile,Product Page B,700,84,8.4,14,700,1400,0.12,0.10,0.60,166.67
+2024-01-06,Europe,Organic Search,Desktop,Homepage,1800,180,18,36,1800,3600,0.10,0.10,0.50,200.00
+2024-01-06,Europe,Paid Search,Mobile,Homepage,1500,225,45,30,1500,3000,0.15,0.20,1.50,66.67
+2024-01-06,North America,Social Media,Mobile,Product Page A,1100,110,11,21,1050,2100,0.10,0.10,0.52,190.91
+2024-01-06,Asia,Email,Desktop,Product Page B,800,96,9.6,16,800,1600,0.12,0.10,0.60,166.67
+2024-01-07,Europe,Organic Search,Desktop,Homepage,1900,190,19,38,1900,3800,0.10,0.10,0.50,200.00
+2024-01-07,Europe,Paid Search,Mobile,Homepage,1600,240,48,32,1600,3200,0.15,0.20,1.50,66.67
+2024-01-07,North America,Social Media,Mobile,Product Page A,1200,120,12,23,1150,2300,0.10,0.10,0.52,191.67
+2024-01-07,Asia,Email,Desktop,Product Page B,900,108,10.8,18,900,1800,0.12,0.10,0.60,166.67
+2024-01-08,Europe,Organic Search,Desktop,Homepage,2000,200,20,40,2000,4000,0.10,0.10,0.50,200.00
+2024-01-08,Europe,Paid Search,Mobile,Homepage,1700,255,51,34,1700,3400,0.15,0.20,1.50,66.67
+2024-01-08,North America,Social Media,Mobile,Product Page A,1300,130,13,25,1250,2500,0.10,0.10,0.52,192.31
+2024-01-08,Asia,Email,Desktop,Product Page B,1000,120,12,20,1000,2000,0.12,0.10,0.60,166.67
+2024-01-09,Asia,Organic Search,Desktop,Homepage,1200,120,12,24,1200,2400,0.10,0.10,0.50,200.00
+2024-01-09,Asia,Paid Search,Mobile,Homepage,900,135,27,20,1000,2000,0.15,0.20,1.35,74.07
+2024-01-09,Europe,Social Media,Mobile,Product Page A,600,60,6,12,600,1200,0.10,0.10,0.50,200.00
+2024-01-09,North America,Email,Desktop,Product Page B,300,36,3.6,6,300,600,0.12,0.10,0.60,166.67
+2024-01-10,Asia,Organic Search,Desktop,Homepage,1300,130,13,26,1300,2600,0.10,0.10,0.50,200.00
+2024-01-10,Asia,Paid Search,Mobile,Homepage,1000,150,30,22,1100,2200,0.15,0.20,1.36,73.33
+2024-01-10,Europe,Social Media,Mobile,Product Page A,700,70,7,14,700,1400,0.10,0.10,0.50,200.00
+2024-01-10,North America,Email,Desktop,Product Page B,400,48,4.8,8,400,800,0.12,0.10,0.60,166.67

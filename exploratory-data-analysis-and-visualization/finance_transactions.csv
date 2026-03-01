@@ -1,0 +1,101 @@
+TransactionID,TransactionDate,CustomerID,AccountType,TransactionType,Category,SubCategory,Amount,Balance,Region,Age,Income,Channel
+TXN_1001,2023-01-15,Cust_101,Checking,Debit,Shopping,Online Shopping,75.5,1250.2,North,35,75000,Online
+TXN_1002,2023-01-15,Cust_102,Savings,Credit,Income,Salary,2500,15000,South,28,50000,Online
+TXN_1003,2023-01-16,Cust_103,Credit Card,Debit,Food,Dining Out,32.75,850.5,West,60,90000,POS
+TXN_1004,2023-01-17,Cust_104,Checking,Debit,Utilities,Electricity,120.4,1129.8,East,42,80000,Online
+TXN_1005,2023-01-18,Cust_105,Savings,Credit,Investment,Dividends,120,15120,North,31,60000,Online
+TXN_1006,2023-01-19,Cust_106,Credit Card,Debit,Entertainment,Movies,25,825.5,South,55,110000,POS
+TXN_1007,2023-01-20,Cust_107,Checking,Credit,Transfer,Internal Transfer,500,1629.8,West,24,40000,Branch
+TXN_1008,2023-01-21,Cust_108,Savings,Debit,Fees,Bank Fees,5,15115,East,68,120000,Online
+TXN_1009,2023-01-22,Cust_109,Credit Card,Credit,Rewards,Cashback,15.2,840.7,North,48,85000,Online
+TXN_1010,2023-01-23,Cust_110,Checking,Debit,Shopping,Groceries,85.2,1544.6,South,39,70000,POS
+TXN_1011,2023-01-24,Cust_111,Savings,Debit,Utilities,Rent,1500,13615,West,29,55000,Online
+TXN_1012,2023-01-25,Cust_112,Credit Card,Credit,Income,Salary,3000,3840.7,East,51,95000,Online
+TXN_1013,2023-01-26,Cust_113,Checking,Debit,Food,Coffee,7.8,316.8,North,22,30000,POS
+TXN_1014,2023-01-27,Cust_114,Savings,Debit,Shopping,Online Shopping,125,13490,South,45,88000,Online
+TXN_1015,2023-01-28,Cust_115,Credit Card,Debit,Entertainment,Concert,150,3690.7,West,33,65000,POS
+TXN_1016,2023-01-29,Cust_116,Checking,Credit,Transfer,External Transfer,200,4016.8,East,58,105000,Branch
+TXN_1017,2023-01-30,Cust_117,Savings,Debit,Fees,Service Fees,10,13480,North,26,45000,Online
+TXN_1018,2023-01-31,Cust_118,Credit Card,Credit,Rewards,Points Redemption,25,3715.7,South,40,82000,Online
+TXN_1019,2024-02-01,Cust_119,Checking,Debit,Utilities,Gas,80.9,3935.9,West,37,78000,Online
+TXN_1020,2024-02-02,Cust_120,Savings,Credit,Income,Salary,2500,15980,East,62,115000,Online
+TXN_1021,2024-02-03,Cust_121,Credit Card,Debit,Food,Groceries,65.4,3650.5,North,50,92000,POS
+TXN_1022,2024-02-04,Cust_122,Checking,Debit,Shopping,Clothing,95,3555.5,South,23,35000,Online
+TXN_1023,2024-02-05,Cust_123,Savings,Credit,Investment,Stock Sale,350,16330,West,47,89000,Online
+TXN_1024,2024-02-06,Cust_124,Credit Card,Debit,Entertainment,Tickets,88,3562.5,East,30,58000,POS
+TXN_1025,2024-02-07,Cust_125,Checking,Credit,Transfer,Internal Transfer,700,4262.5,North,53,100000,Branch
+TXN_1026,2024-02-08,Cust_126,Savings,Debit,Fees,ATM Fees,2.5,16327.5,South,27,48000,ATM
+TXN_1027,2024-02-09,Cust_127,Credit Card,Credit,Rewards,Travel Points,30,3592.5,West,41,81000,Online
+TXN_1028,2024-02-10,Cust_128,Checking,Debit,Utilities,Internet,70.2,3522.3,East,65,125000,Online
+TXN_1029,2024-02-11,Cust_129,Savings,Debit,Shopping,Books,22.5,16305,North,34,72000,Online
+TXN_1030,2024-02-12,Cust_130,Credit Card,Debit,Food,Fast Food,18.7,3503.6,South,29,52000,POS
+TXN_1031,2024-02-13,Cust_131,Checking,Credit,Income,Salary,2500,6003.6,West,57,98000,Online
+TXN_1032,2024-02-14,Cust_132,Savings,Debit,Utilities,Mobile,55.8,16249.2,East,38,79000,Online
+TXN_1033,2024-02-15,Cust_133,Credit Card,Debit,Entertainment,Sports,55,5948.6,North,49,87000,POS
+TXN_1034,2024-02-16,Cust_134,Checking,Debit,Shopping,Electronics,250,5698.6,South,25,42000,Online
+TXN_1035,2024-02-17,Cust_135,Savings,Credit,Investment,Bond Interest,75,16324.2,West,63,120000,Online
+TXN_1036,2024-02-18,Cust_136,Credit Card,Debit,Fees,Late Fees,35,5663.6,East,32,61000,Online
+TXN_1037,2024-02-19,Cust_137,Checking,Credit,Transfer,External Transfer,300,5963.6,North,54,102000,Branch
+TXN_1038,2024-02-20,Cust_138,Savings,Debit,Utilities,Water,45.3,16278.9,South,36,76000,Online
+TXN_1039,2024-02-21,Cust_139,Credit Card,Credit,Rewards,Statement Credit,20,5683.6,West,21,32000,Online
+TXN_1040,2024-02-22,Cust_140,Checking,Debit,Food,Restaurant,42.5,5641.1,East,46,86000,POS
+TXN_1041,2024-02-23,Cust_141,Savings,Debit,Shopping,Furniture,450,15828.9,North,67,130000,Online
+TXN_1042,2024-02-24,Cust_142,Credit Card,Debit,Entertainment,Streaming,15.99,5625.11,South,31,59000,Online
+TXN_1043,2024-02-25,Cust_143,Checking,Credit,Income,Salary,2500,8125.11,West,59,112000,Online
+TXN_1044,2024-02-26,Cust_144,Savings,Debit,Utilities,Property Tax,2000,13828.9,East,43,83000,Online
+TXN_1045,2024-02-27,Cust_145,Credit Card,Debit,Fees,Interest Charges,12.3,5612.81,North,24,38000,Online
+TXN_1046,2024-02-28,Cust_146,Checking,Debit,Shopping,Gifts,60,5552.81,South,52,94000,Online
+TXN_1047,2024-03-01,Cust_147,Savings,Credit,Investment,Mutual Funds,500,14328.9,West,35,74000,Online
+TXN_1048,2024-03-02,Cust_148,Credit Card,Debit,Entertainment,Gaming,30,5582.81,East,61,118000,POS
+TXN_1049,2024-03-03,Cust_149,Checking,Credit,Transfer,Internal Transfer,400,5982.81,North,28,51000,Branch
+TXN_1050,2024-03-04,Cust_150,Savings,Debit,Fees,Overdraft Fees,25,14303.9,South,44,84000,Online
+TXN_1051,2024-03-05,Cust_151,Credit Card,Credit,Rewards,Airline Miles,40,5622.81,West,39,71000,Online
+TXN_1052,2024-03-06,Cust_152,Checking,Debit,Utilities,Home Insurance,95.5,5527.31,East,56,108000,Online
+TXN_1053,2024-03-07,Cust_153,Savings,Debit,Shopping,Home Decor,180,14123.9,North,30,57000,Online
+TXN_1054,2024-03-08,Cust_154,Credit Card,Debit,Food,Takeout,28.9,5498.41,South,47,87500,POS
+TXN_1055,2024-03-09,Cust_155,Checking,Credit,Income,Salary,2500,7998.41,West,64,122000,Online
+TXN_1056,2024-03-10,Cust_156,Savings,Debit,Utilities,Phone,60.1,14063.8,East,33,63000,Online
+TXN_1057,2024-03-11,Cust_157,Credit Card,Debit,Entertainment,Event Tickets,120,7878.41,North,51,96000,POS
+TXN_1058,2024-03-12,Cust_158,Checking,Debit,Shopping,Electronics,350,7528.41,South,26,46000,Online
+TXN_1059,2024-03-13,Cust_159,Savings,Credit,Investment,Bonds,200,14263.8,West,40,80500,Online
+TXN_1060,2024-03-14,Cust_160,Credit Card,Debit,Fees,Monthly Fees,7.99,7520.42,East,58,111000,Online
+TXN_1061,2024-03-15,Cust_161,Checking,Credit,Transfer,External Transfer,150,7670.42,North,37,77000,Branch
+TXN_1062,2024-03-16,Cust_162,Savings,Debit,Utilities,Cable,85.7,14178.1,South,66,128000,Online
+TXN_1063,2024-03-17,Cust_163,Credit Card,Credit,Rewards,Gift Cards,25,7545.42,West,31,62000,Online
+TXN_1064,2024-03-18,Cust_164,Checking,Debit,Food,Coffee,6.5,7538.92,East,45,85500,POS
+TXN_1065,2024-03-19,Cust_165,Savings,Debit,Shopping,Books,30.2,14147.9,North,29,53000,Online
+TXN_1066,2024-03-20,Cust_166,Credit Card,Debit,Entertainment,Movies,28,7517.42,South,55,101000,POS
+TXN_1067,2024-03-21,Cust_167,Checking,Credit,Income,Salary,2500,10017.42,West,42,82000,Online
+TXN_1068,2024-03-22,Cust_168,Savings,Debit,Utilities,Electricity,135.9,13972,East,60,117000,Online
+TXN_1069,2024-03-23,Cust_169,Credit Card,Debit,Fees,Bank Fees,6,7511.42,North,33,68000,Online
+TXN_1070,2024-03-24,Cust_170,Checking,Debit,Shopping,Online Shopping,92.8,7418.62,South,48,91000,Online
+TXN_1071,2024-03-25,Cust_171,Savings,Credit,Investment,Dividends,150,14122,West,27,49000,Online
+TXN_1072,2024-03-26,Cust_172,Credit Card,Debit,Entertainment,Concert,185,7233.62,East,51,97000,POS
+TXN_1073,2024-03-27,Cust_173,Checking,Credit,Transfer,Internal Transfer,600,7833.62,North,38,78500,Branch
+TXN_1074,2024-03-28,Cust_174,Savings,Debit,Fees,Service Fees,8,14114,South,69,135000,Online
+TXN_1075,2024-03-29,Cust_175,Credit Card,Credit,Rewards,Cashback,18.5,7252.12,West,44,85200,Online
+TXN_1076,2024-03-30,Cust_176,Checking,Debit,Utilities,Gas,95.2,7156.92,East,32,64000,Online
+TXN_1077,2024-03-31,Cust_177,Savings,Debit,Shopping,Clothing,110,14004,North,53,102000,Online
+TXN_1078,2024-04-01,Cust_178,Credit Card,Debit,Food,Groceries,78.6,7078.32,South,25,43000,POS
+TXN_1079,2024-04-02,Cust_179,Checking,Credit,Income,Salary,2500,9578.32,West,49,89500,Online
+TXN_1080,2024-04-03,Cust_180,Savings,Debit,Utilities,Rent,1800,12204,East,62,121000,Online
+TXN_1081,2024-04-04,Cust_181,Credit Card,Debit,Entertainment,Tickets,95,6983.32,North,36,73000,POS
+TXN_1082,2024-04-05,Cust_182,Checking,Credit,Transfer,External Transfer,250,7233.32,South,57,109000,Branch
+TXN_1083,2024-04-06,Cust_183,Savings,Debit,Fees,ATM Fees,3.5,12190.5,West,30,59500,ATM
+TXN_1084,2024-04-07,Cust_184,Credit Card,Credit,Rewards,Travel Points,35,7018.32,East,41,81200,Online
+TXN_1085,2024-04-08,Cust_185,Checking,Debit,Utilities,Internet,82.1,6936.22,North,65,126000,Online
+TXN_1086,2024-04-09,Cust_186,Savings,Debit,Shopping,Books,28.9,12161.6,South,34,72500,Online
+TXN_1087,2024-04-10,Cust_187,Credit Card,Debit,Food,Fast Food,22.5,6913.72,West,28,50500,POS
+TXN_1088,2024-04-11,Cust_188,Checking,Credit,Income,Salary,2500,9413.72,East,50,93500,Online
+TXN_1089,2024-04-12,Cust_189,Savings,Debit,Utilities,Mobile,65.4,12096.2,North,39,79500,Online
+TXN_1090,2024-04-13,Cust_190,Credit Card,Debit,Entertainment,Sports,62,6851.72,South,47,88000,POS
+TXN_1091,2024-04-14,Cust_191,Checking,Debit,Shopping,Electronics,285,6566.72,West,23,39500,Online
+TXN_1092,2024-04-15,Cust_192,Savings,Credit,Investment,Bond Interest,85,12181.2,East,63,123000,Online
+TXN_1093,2024-04-16,Cust_193,Credit Card,Debit,Fees,Late Fees,42,6524.72,North,31,60500,Online
+TXN_1094,2024-04-17,Cust_194,Checking,Credit,Transfer,External Transfer,350,6874.72,South,54,103000,Branch
+TXN_1095,2024-04-18,Cust_195,Savings,Debit,Utilities,Water,52.8,12128.4,West,26,44500,Online
+TXN_1096,2024-04-19,Cust_196,Credit Card,Credit,Rewards,Statement Credit,28,6552.72,East,40,82500,Online
+TXN_1097,2024-04-20,Cust_197,Checking,Debit,Food,Restaurant,49.9,6502.82,North,59,114000,POS
+TXN_1098,2024-04-21,Cust_198,Savings,Debit,Shopping,Furniture,520,11608.4,South,33,67500,Online
+TXN_1099,2024-04-22,Cust_199,Credit Card,Debit,Entertainment,Streaming,18.5,6484.32,West,46,86500,Online
+TXN_1100,2024-04-23,Cust_200,Checking,Credit,Income,Salary,2500,8984.32,East,29,55500,Online

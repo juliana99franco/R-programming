@@ -1,0 +1,501 @@
+UserID,Date,Region,Device,Page,TimeOnSite,PageViews,Sessions
+U1327,2023-01-07,North America,Tablet,/contact,15.5,3,1
+U1057,2023-01-17,North America,Mobile,/about,101.0,18,4
+U1012,2023-01-09,North America,Desktop,/about,53.9,8,5
+U1379,2023-01-05,Europe,Desktop,/blog,210.2,19,3
+U1140,2023-01-30,Europe,Tablet,/about,129.0,17,5
+U1125,2023-01-12,North America,Desktop,/products,234.7,6,4
+U1114,2023-01-29,Europe,Desktop,/home,277.0,13,4
+U1071,2023-01-03,Europe,Desktop,/contact,263.1,6,4
+U1377,2023-01-29,Europe,Mobile,/products,223.4,5,1
+U1052,2023-01-08,South America,Desktop,/blog,28.1,9,5
+U1346,2023-01-12,North America,Tablet,/home,50.0,10,5
+U1379,2023-01-10,Europe,Mobile,/blog,70.1,9,5
+U1456,2023-01-06,South America,Desktop,/home,104.3,16,2
+U1279,2023-01-15,Asia,Desktop,/products,202.0,5,3
+U1044,2023-01-27,Asia,Mobile,/home,162.4,3,1
+U1302,2023-01-18,Europe,Desktop,/about,101.0,6,3
+U1216,2023-01-23,North America,Desktop,/products,60.2,14,1
+U1016,2023-01-10,Europe,Tablet,/contact,274.5,9,5
+U1015,2023-01-20,Asia,Mobile,/blog,109.3,14,2
+U1047,2023-01-26,North America,Tablet,/about,112.7,10,2
+U1111,2023-01-21,North America,Desktop,/contact,233.9,16,5
+U1119,2023-01-17,Asia,Tablet,/home,219.1,3,3
+U1258,2023-01-01,South America,Desktop,/about,196.6,12,4
+U1308,2023-01-22,South America,Mobile,/contact,211.1,9,5
+U1013,2023-01-27,Europe,Mobile,/products,186.9,8,1
+U1287,2023-01-18,North America,Mobile,/home,65.8,16,3
+U1101,2023-01-10,Europe,Tablet,/contact,81.5,20,4
+U1366,2023-01-30,North America,Tablet,/home,171.8,20,2
+U1332,2023-01-22,Asia,Desktop,/contact,75.2,7,1
+U1359,2023-01-04,North America,Mobile,/blog,292.1,15,2
+U1279,2023-01-29,North America,Tablet,/products,96.3,4,1
+U1214,2023-01-05,Asia,Desktop,/about,93.8,5,4
+U1112,2023-01-09,South America,Tablet,/contact,70.1,10,1
+U1229,2023-01-04,Asia,Desktop,/home,214.4,1,4
+U1301,2023-01-29,North America,Tablet,/products,101.9,13,5
+U1142,2023-01-04,Asia,Tablet,/about,111.2,11,5
+U1414,2023-01-24,North America,Tablet,/home,280.8,20,1
+U1445,2023-01-18,South America,Mobile,/products,240.7,13,3
+U1003,2023-01-05,South America,Mobile,/home,89.3,11,2
+U1388,2023-01-09,North America,Tablet,/products,45.3,15,1
+U1412,2023-01-10,South America,Desktop,/about,206.2,11,1
+U1081,2023-01-20,Asia,Desktop,/about,120.1,14,2
+U1357,2023-01-07,South America,Mobile,/home,294.2,20,1
+U1216,2023-01-23,Europe,Mobile,/products,247.3,5,2
+U1174,2023-01-11,South America,Mobile,/contact,286.8,10,4
+U1142,2023-01-07,Europe,Tablet,/about,243.3,11,3
+U1079,2023-01-22,Asia,Desktop,/contact,94.2,20,5
+U1110,2023-01-21,South America,Mobile,/contact,93.4,7,5
+U1490,2023-01-28,South America,Tablet,/blog,217.1,16,3
+U1390,2023-01-09,South America,Mobile,/home,110.4,11,2
+U1172,2023-01-17,Asia,Desktop,/home,138.3,6,3
+U1052,2023-01-16,Asia,Desktop,/home,84.4,13,2
+U1047,2023-01-09,Europe,Mobile,/products,148.9,11,3
+U1194,2023-01-29,North America,Tablet,/about,68.6,10,1
+U1049,2023-01-30,Asia,Desktop,/about,166.2,16,1
+U1183,2023-01-28,South America,Desktop,/blog,280.6,19,3
+U1433,2023-01-02,Europe,Desktop,/blog,211.9,8,4
+U1176,2023-01-03,South America,Mobile,/blog,49.8,11,3
+U1309,2023-01-21,South America,Tablet,/contact,188.5,13,5
+U1135,2023-01-14,Asia,Tablet,/home,180.2,9,1
+U1413,2023-01-27,North America,Tablet,/products,80.3,13,3
+U1022,2023-01-09,South America,Tablet,/about,204.3,12,5
+U1373,2023-01-02,Asia,Tablet,/products,164.0,4,1
+U1235,2023-01-01,Europe,Mobile,/home,195.0,19,4
+U1274,2023-01-11,South America,Mobile,/home,25.2,7,4
+U1063,2023-01-25,Europe,Tablet,/about,129.9,19,5
+U1498,2023-01-05,Asia,Tablet,/contact,218.0,18,3
+U1472,2023-01-21,Asia,Mobile,/blog,39.2,6,1
+U1193,2023-01-09,Asia,Mobile,/contact,233.5,18,4
+U1040,2023-01-06,Asia,Tablet,/home,11.5,1,5
+U1282,2023-01-24,Asia,Tablet,/home,169.6,15,2
+U1150,2023-01-15,North America,Mobile,/contact,279.4,7,3
+U1424,2023-01-18,Europe,Desktop,/blog,128.0,15,2
+U1321,2023-01-23,North America,Tablet,/blog,281.2,10,3
+U1316,2023-01-14,Europe,Desktop,/home,264.7,3,1
+U1453,2023-01-18,South America,Tablet,/blog,148.5,14,5
+U1441,2023-01-01,South America,Tablet,/blog,67.8,16,1
+U1185,2023-01-04,Europe,Tablet,/about,289.5,5,2
+U1295,2023-01-03,South America,Tablet,/about,103.1,10,5
+U1098,2023-01-29,South America,Desktop,/products,197.3,8,1
+U1360,2023-01-23,South America,Mobile,/contact,273.3,9,1
+U1035,2023-01-29,North America,Mobile,/home,35.9,5,1
+U1023,2023-01-05,North America,Desktop,/blog,176.5,14,2
+U1338,2023-01-18,Asia,Mobile,/products,165.2,13,1
+U1116,2023-01-02,Europe,Mobile,/about,219.7,3,4
+U1395,2023-01-27,South America,Mobile,/blog,281.6,15,3
+U1148,2023-01-12,Europe,Mobile,/contact,274.8,20,4
+U1040,2023-01-19,Asia,Mobile,/about,60.8,16,2
+U1437,2023-01-18,Asia,Tablet,/home,265.9,19,2
+U1119,2023-01-05,South America,Desktop,/blog,61.0,13,1
+U1443,2023-01-14,Asia,Mobile,/products,276.7,18,5
+U1051,2023-01-05,South America,Mobile,/home,299.2,17,4
+U1194,2023-01-02,Asia,Mobile,/blog,125.1,14,2
+U1142,2023-01-10,Asia,Tablet,/blog,153.7,18,3
+U1232,2023-01-12,South America,Mobile,/blog,281.6,2,2
+U1325,2023-01-29,Asia,Mobile,/blog,289.0,12,4
+U1427,2023-01-30,Asia,Desktop,/blog,278.6,18,3
+U1186,2023-01-26,Asia,Tablet,/home,264.3,20,3
+U1083,2023-01-28,Europe,Mobile,/contact,12.7,3,1
+U1189,2023-01-02,North America,Desktop,/contact,174.7,4,5
+U1181,2023-01-29,Europe,Desktop,/home,41.1,8,3
+U1107,2023-01-12,Asia,Desktop,/contact,295.1,12,1
+U1343,2023-01-07,North America,Desktop,/products,92.5,6,5
+U1136,2023-01-22,Europe,Mobile,/products,296.8,20,1
+U1359,2023-01-08,Europe,Desktop,/home,167.6,2,2
+U1479,2023-01-22,Europe,Tablet,/products,153.2,19,2
+U1349,2023-01-04,South America,Tablet,/home,282.2,13,5
+U1331,2023-01-12,Asia,Mobile,/products,256.8,11,1
+U1036,2023-01-25,Asia,Desktop,/about,145.7,14,4
+U1311,2023-01-18,North America,Tablet,/home,65.9,4,1
+U1325,2023-01-29,Europe,Desktop,/blog,42.7,1,4
+U1087,2023-01-28,Asia,Tablet,/products,57.1,4,3
+U1273,2023-01-14,Europe,Tablet,/about,143.1,9,3
+U1373,2023-01-20,Asia,Tablet,/home,84.6,8,3
+U1125,2023-01-24,Europe,Mobile,/products,64.0,17,1
+U1083,2023-01-05,Asia,Tablet,/blog,223.6,17,5
+U1236,2023-01-30,North America,Desktop,/products,239.3,18,4
+U1194,2023-01-30,Europe,Mobile,/about,174.7,19,1
+U1138,2023-01-08,Asia,Mobile,/contact,229.6,19,3
+U1473,2023-01-28,North America,Tablet,/contact,60.9,8,2
+U1327,2023-01-06,North America,Mobile,/about,258.3,15,3
+U1352,2023-01-26,Asia,Tablet,/about,270.1,12,5
+U1285,2023-01-26,Europe,Desktop,/home,249.8,13,3
+U1112,2023-01-06,South America,Mobile,/contact,159.4,15,5
+U1350,2023-01-29,North America,Tablet,/home,35.2,19,2
+U1166,2023-01-14,North America,Mobile,/products,204.1,17,4
+U1431,2023-01-01,Asia,Mobile,/about,63.6,5,3
+U1393,2023-01-06,South America,Desktop,/home,50.8,12,5
+U1397,2023-01-24,South America,Tablet,/about,103.8,1,4
+U1028,2023-01-30,South America,Tablet,/home,81.9,16,2
+U1117,2023-01-11,Asia,Desktop,/products,85.6,4,5
+U1420,2023-01-26,Europe,Desktop,/products,78.3,10,2
+U1016,2023-01-30,North America,Tablet,/blog,228.6,14,2
+U1412,2023-01-14,Asia,Mobile,/contact,286.7,3,1
+U1161,2023-01-26,South America,Desktop,/blog,97.6,4,4
+U1205,2023-01-22,North America,Desktop,/contact,219.6,5,1
+U1137,2023-01-28,North America,Mobile,/products,13.3,12,2
+U1033,2023-01-24,South America,Tablet,/home,199.6,10,5
+U1108,2023-01-26,South America,Mobile,/about,210.9,11,3
+U1467,2023-01-08,North America,Desktop,/products,28.0,15,1
+U1482,2023-01-09,North America,Mobile,/products,44.3,7,3
+U1290,2023-01-06,Europe,Tablet,/home,99.0,17,1
+U1448,2023-01-26,Europe,Desktop,/products,127.6,16,4
+U1367,2023-01-23,Asia,Mobile,/products,155.7,12,3
+U1161,2023-01-04,North America,Tablet,/home,269.6,16,1
+U1108,2023-01-13,Europe,Tablet,/products,214.0,4,2
+U1335,2023-01-28,North America,Tablet,/contact,100.2,15,5
+U1255,2023-01-02,South America,Tablet,/contact,44.1,15,2
+U1202,2023-01-28,Europe,Tablet,/contact,275.7,11,4
+U1452,2023-01-16,South America,Tablet,/contact,95.6,3,4
+U1468,2023-01-08,South America,Desktop,/products,188.2,10,1
+U1329,2023-01-07,South America,Tablet,/about,73.5,2,2
+U1234,2023-01-27,Asia,Tablet,/contact,48.7,4,3
+U1073,2023-01-30,South America,Tablet,/contact,54.4,1,1
+U1135,2023-01-15,Asia,Mobile,/products,226.8,11,1
+U1071,2023-01-12,North America,Desktop,/blog,185.7,4,2
+U1126,2023-01-10,North America,Desktop,/products,130.6,6,5
+U1381,2023-01-27,Europe,Mobile,/home,169.3,8,4
+U1287,2023-01-26,Europe,Tablet,/contact,146.5,17,3
+U1275,2023-01-28,Asia,Mobile,/home,165.9,6,4
+U1134,2023-01-08,North America,Mobile,/contact,202.6,18,1
+U1382,2023-01-08,Europe,Mobile,/blog,73.3,6,5
+U1299,2023-01-01,Europe,Desktop,/about,81.8,11,1
+U1219,2023-01-22,Europe,Desktop,/blog,228.9,18,5
+U1459,2023-01-07,North America,Desktop,/products,263.2,14,2
+U1298,2023-01-13,Europe,Tablet,/products,33.7,15,4
+U1204,2023-01-11,North America,Tablet,/home,139.6,8,1
+U1185,2023-01-09,South America,Mobile,/home,214.1,13,5
+U1112,2023-01-28,South America,Desktop,/products,32.6,6,5
+U1070,2023-01-03,South America,Desktop,/products,173.6,6,1
+U1260,2023-01-25,Asia,Tablet,/products,27.9,14,4
+U1252,2023-01-09,North America,Tablet,/contact,168.8,13,2
+U1046,2023-01-12,Europe,Desktop,/blog,156.6,1,2
+U1386,2023-01-21,Asia,Desktop,/contact,176.1,20,3
+U1024,2023-01-17,Asia,Tablet,/about,53.5,7,3
+U1440,2023-01-13,South America,Tablet,/contact,105.2,15,3
+U1056,2023-01-22,North America,Desktop,/products,160.9,19,4
+U1078,2023-01-27,Europe,Mobile,/contact,43.7,14,3
+U1321,2023-01-18,Asia,Mobile,/home,69.6,13,3
+U1081,2023-01-11,Europe,Mobile,/products,179.1,1,4
+U1405,2023-01-01,South America,Mobile,/blog,36.4,7,3
+U1348,2023-01-04,North America,Desktop,/contact,158.0,7,2
+U1216,2023-01-29,Europe,Mobile,/products,244.5,9,1
+U1305,2023-01-09,Europe,Mobile,/home,141.5,3,2
+U1032,2023-01-06,Asia,Tablet,/home,158.8,19,2
+U1197,2023-01-19,Europe,Mobile,/contact,142.5,4,5
+U1195,2023-01-09,North America,Tablet,/products,26.7,18,1
+U1305,2023-01-02,North America,Tablet,/blog,144.1,6,2
+U1239,2023-01-04,Europe,Desktop,/about,244.0,12,1
+U1270,2023-01-20,Asia,Desktop,/home,219.8,11,2
+U1128,2023-01-14,Asia,Desktop,/about,124.8,7,4
+U1497,2023-01-12,South America,Desktop,/blog,246.8,15,4
+U1283,2023-01-24,North America,Tablet,/contact,226.3,4,3
+U1440,2023-01-26,South America,Desktop,/home,177.7,9,4
+U1482,2023-01-11,Asia,Tablet,/about,23.1,16,1
+U1005,2023-01-14,South America,Desktop,/home,109.9,17,5
+U1348,2023-01-20,Asia,Mobile,/about,28.5,11,3
+U1369,2023-01-17,South America,Mobile,/products,298.3,20,2
+U1058,2023-01-04,South America,Tablet,/products,281.0,13,4
+U1349,2023-01-13,North America,Mobile,/contact,30.0,20,3
+U1453,2023-01-29,North America,Mobile,/blog,280.8,13,4
+U1274,2023-01-19,South America,Tablet,/home,19.2,19,3
+U1384,2023-01-07,Asia,Mobile,/blog,128.6,4,1
+U1136,2023-01-09,Asia,Mobile,/about,233.0,12,1
+U1393,2023-01-02,North America,Mobile,/contact,232.1,12,2
+U1328,2023-01-23,North America,Desktop,/products,293.7,15,3
+U1174,2023-01-14,Europe,Tablet,/products,197.3,20,5
+U1057,2023-01-01,North America,Desktop,/contact,131.9,6,1
+U1150,2023-01-17,Asia,Mobile,/home,297.9,10,2
+U1222,2023-01-30,North America,Mobile,/blog,120.9,20,3
+U1080,2023-01-26,Europe,Desktop,/about,262.2,19,2
+U1232,2023-01-18,South America,Mobile,/blog,273.0,3,1
+U1001,2023-01-22,South America,Tablet,/products,118.9,5,2
+U1488,2023-01-24,Asia,Tablet,/contact,208.0,11,3
+U1369,2023-01-24,Europe,Tablet,/products,201.9,4,4
+U1448,2023-01-24,South America,Mobile,/products,166.4,8,5
+U1368,2023-01-22,South America,Tablet,/about,199.5,10,1
+U1134,2023-01-07,North America,Tablet,/home,110.9,4,3
+U1497,2023-01-12,South America,Mobile,/home,61.8,6,3
+U1256,2023-01-14,Asia,Desktop,/about,165.8,12,2
+U1390,2023-01-03,South America,Desktop,/contact,163.4,5,1
+U1091,2023-01-22,Asia,Mobile,/blog,221.1,17,4
+U1259,2023-01-30,Asia,Tablet,/contact,74.6,13,4
+U1467,2023-01-11,North America,Desktop,/blog,11.0,14,5
+U1054,2023-01-20,Europe,Desktop,/home,16.6,20,5
+U1445,2023-01-11,Asia,Desktop,/products,96.5,5,2
+U1320,2023-01-22,South America,Mobile,/products,205.3,19,1
+U1152,2023-01-28,South America,Desktop,/contact,167.9,13,4
+U1430,2023-01-04,Asia,Desktop,/about,164.3,14,1
+U1327,2023-01-24,South America,Mobile,/blog,248.8,6,2
+U1259,2023-01-29,North America,Mobile,/products,81.8,16,1
+U1311,2023-01-10,South America,Mobile,/contact,110.4,18,1
+U1101,2023-01-17,North America,Desktop,/about,89.9,6,1
+U1078,2023-01-10,Asia,Desktop,/home,281.8,18,2
+U1191,2023-01-22,Asia,Mobile,/about,220.3,6,2
+U1390,2023-01-14,Asia,Tablet,/home,42.7,16,2
+U1082,2023-01-11,North America,Mobile,/contact,244.7,10,4
+U1276,2023-01-13,South America,Desktop,/about,131.6,5,3
+U1488,2023-01-23,North America,Desktop,/contact,232.2,6,1
+U1398,2023-01-10,South America,Mobile,/home,266.3,11,5
+U1472,2023-01-18,South America,Tablet,/products,14.5,15,5
+U1271,2023-01-05,North America,Tablet,/products,69.8,20,3
+U1470,2023-01-07,Europe,Desktop,/home,39.3,2,1
+U1000,2023-01-14,Asia,Tablet,/blog,19.7,12,1
+U1306,2023-01-22,South America,Tablet,/blog,183.4,1,1
+U1165,2023-01-13,South America,Tablet,/products,214.0,16,2
+U1250,2023-01-22,North America,Mobile,/products,24.1,5,4
+U1009,2023-01-24,Europe,Desktop,/about,224.8,7,2
+U1057,2023-01-29,Asia,Mobile,/about,126.7,13,1
+U1475,2023-01-06,Europe,Tablet,/products,78.0,18,3
+U1185,2023-01-20,Asia,Desktop,/blog,73.0,17,1
+U1449,2023-01-19,South America,Mobile,/about,260.5,16,1
+U1425,2023-01-10,South America,Desktop,/home,26.4,14,4
+U1413,2023-01-13,North America,Mobile,/about,156.1,16,1
+U1157,2023-01-18,North America,Desktop,/about,93.9,14,2
+U1122,2023-01-27,Europe,Mobile,/about,246.6,15,5
+U1029,2023-01-01,Europe,Tablet,/contact,222.1,16,4
+U1123,2023-01-10,Asia,Mobile,/home,102.5,6,4
+U1449,2023-01-10,North America,Tablet,/products,183.4,3,4
+U1290,2023-01-07,South America,Mobile,/blog,205.0,19,1
+U1484,2023-01-14,North America,Tablet,/blog,103.0,1,4
+U1040,2023-01-26,Europe,Tablet,/products,97.5,8,4
+U1043,2023-01-19,North America,Mobile,/contact,51.5,10,2
+U1374,2023-01-20,South America,Mobile,/blog,201.5,2,3
+U1248,2023-01-21,North America,Desktop,/about,74.1,9,2
+U1417,2023-01-11,Europe,Mobile,/blog,97.1,8,2
+U1035,2023-01-15,South America,Desktop,/home,27.7,18,3
+U1389,2023-01-15,Asia,Mobile,/home,285.1,10,3
+U1272,2023-01-15,Asia,Desktop,/products,265.1,6,4
+U1392,2023-01-22,South America,Tablet,/contact,274.4,15,2
+U1064,2023-01-07,South America,Mobile,/contact,191.5,19,1
+U1065,2023-01-17,South America,Tablet,/blog,133.9,16,5
+U1337,2023-01-16,Europe,Mobile,/contact,153.7,18,5
+U1243,2023-01-26,South America,Desktop,/contact,292.0,17,5
+U1484,2023-01-29,Europe,Mobile,/blog,283.1,4,2
+U1281,2023-01-26,South America,Desktop,/home,204.7,19,3
+U1084,2023-01-24,Europe,Desktop,/about,237.9,4,4
+U1135,2023-01-06,Europe,Mobile,/products,102.4,9,4
+U1270,2023-01-22,North America,Tablet,/home,130.7,18,5
+U1446,2023-01-03,Asia,Mobile,/contact,53.3,12,4
+U1310,2023-01-10,South America,Tablet,/contact,119.2,18,1
+U1216,2023-01-17,Asia,Desktop,/blog,228.8,2,1
+U1493,2023-01-22,Asia,Mobile,/products,147.3,15,3
+U1108,2023-01-21,North America,Mobile,/about,256.3,18,4
+U1475,2023-01-20,Asia,Tablet,/blog,97.2,7,2
+U1276,2023-01-11,Asia,Mobile,/blog,215.2,14,4
+U1386,2023-01-03,South America,Desktop,/about,243.7,4,2
+U1373,2023-01-27,Europe,Mobile,/about,275.3,8,5
+U1353,2023-01-25,South America,Desktop,/contact,173.1,10,2
+U1102,2023-01-08,South America,Desktop,/blog,290.7,2,5
+U1365,2023-01-22,Asia,Tablet,/home,171.6,15,1
+U1159,2023-01-10,Asia,Tablet,/home,48.9,9,4
+U1204,2023-01-08,South America,Desktop,/blog,80.4,12,3
+U1343,2023-01-26,South America,Tablet,/about,69.0,3,4
+U1332,2023-01-07,Asia,Tablet,/products,197.5,15,5
+U1191,2023-01-05,Europe,Desktop,/about,277.4,4,4
+U1224,2023-01-01,Europe,Mobile,/about,255.7,8,3
+U1460,2023-01-02,South America,Mobile,/products,36.8,7,5
+U1264,2023-01-08,Europe,Tablet,/about,220.1,19,5
+U1231,2023-01-16,South America,Tablet,/products,65.2,12,3
+U1061,2023-01-20,North America,Desktop,/blog,87.9,20,4
+U1126,2023-01-28,Asia,Desktop,/products,205.4,14,3
+U1115,2023-01-25,South America,Desktop,/home,184.8,6,2
+U1032,2023-01-03,South America,Desktop,/products,263.3,20,1
+U1173,2023-01-15,South America,Mobile,/about,64.6,5,3
+U1010,2023-01-14,Europe,Desktop,/blog,230.9,7,5
+U1301,2023-01-29,South America,Desktop,/products,220.0,7,2
+U1283,2023-01-21,North America,Tablet,/about,172.1,2,1
+U1117,2023-01-19,Europe,Desktop,/products,149.0,19,3
+U1301,2023-01-07,Asia,Tablet,/blog,262.1,12,1
+U1112,2023-01-23,North America,Desktop,/blog,106.6,18,4
+U1003,2023-01-23,South America,Desktop,/home,287.5,9,5
+U1036,2023-01-13,North America,Tablet,/blog,14.4,20,3
+U1362,2023-01-16,South America,Mobile,/about,281.8,18,5
+U1323,2023-01-13,North America,Mobile,/blog,289.0,6,2
+U1030,2023-01-08,Europe,Tablet,/blog,44.0,11,2
+U1117,2023-01-05,South America,Tablet,/about,299.9,10,1
+U1034,2023-01-21,Europe,Mobile,/about,148.9,10,2
+U1463,2023-01-23,North America,Tablet,/blog,80.4,19,2
+U1016,2023-01-01,South America,Tablet,/blog,185.3,9,3
+U1440,2023-01-29,Asia,Tablet,/products,69.3,17,5
+U1169,2023-01-25,Asia,Tablet,/blog,275.4,4,1
+U1036,2023-01-28,South America,Tablet,/home,170.1,5,2
+U1263,2023-01-25,North America,Mobile,/home,234.9,14,5
+U1121,2023-01-29,Asia,Tablet,/home,120.4,2,4
+U1142,2023-01-04,South America,Mobile,/home,164.8,9,3
+U1342,2023-01-25,Asia,Desktop,/blog,114.2,5,2
+U1248,2023-01-14,South America,Mobile,/products,85.9,5,2
+U1109,2023-01-08,North America,Desktop,/about,158.7,8,2
+U1276,2023-01-06,North America,Mobile,/blog,154.2,5,5
+U1067,2023-01-26,Europe,Mobile,/contact,38.6,11,3
+U1370,2023-01-23,Asia,Tablet,/blog,294.6,8,3
+U1478,2023-01-17,Europe,Mobile,/home,146.2,13,5
+U1451,2023-01-15,North America,Mobile,/contact,253.5,16,1
+U1292,2023-01-02,South America,Tablet,/blog,275.2,5,3
+U1295,2023-01-18,North America,Desktop,/products,117.5,19,5
+U1242,2023-01-08,North America,Mobile,/products,130.0,9,5
+U1124,2023-01-30,South America,Tablet,/contact,173.1,14,2
+U1401,2023-01-28,Europe,Desktop,/about,74.2,13,5
+U1242,2023-01-04,Asia,Mobile,/contact,52.3,15,2
+U1413,2023-01-15,North America,Mobile,/products,85.6,3,4
+U1208,2023-01-05,North America,Mobile,/contact,281.1,3,5
+U1097,2023-01-26,Asia,Desktop,/home,178.0,13,3
+U1048,2023-01-15,North America,Desktop,/home,131.1,17,2
+U1049,2023-01-22,Asia,Mobile,/about,54.2,9,4
+U1337,2023-01-17,Asia,Mobile,/contact,105.7,12,1
+U1220,2023-01-18,Asia,Desktop,/contact,120.2,15,1
+U1181,2023-01-20,South America,Tablet,/contact,251.7,16,1
+U1216,2023-01-11,Europe,Desktop,/contact,154.8,11,2
+U1210,2023-01-25,Europe,Tablet,/about,199.8,19,5
+U1239,2023-01-29,South America,Tablet,/products,208.6,1,2
+U1442,2023-01-15,Europe,Tablet,/blog,84.6,3,1
+U1373,2023-01-20,Europe,Mobile,/about,248.3,15,5
+U1027,2023-01-27,Europe,Mobile,/products,290.3,12,4
+U1344,2023-01-24,North America,Tablet,/products,196.1,3,1
+U1334,2023-01-29,South America,Tablet,/products,152.3,18,3
+U1330,2023-01-17,Europe,Tablet,/contact,58.8,13,5
+U1050,2023-01-14,South America,Desktop,/about,240.5,7,2
+U1031,2023-01-27,Europe,Mobile,/products,59.1,14,2
+U1206,2023-01-30,Europe,Tablet,/blog,218.9,7,3
+U1372,2023-01-18,South America,Tablet,/blog,151.6,16,2
+U1173,2023-01-15,Asia,Desktop,/home,275.9,9,3
+U1409,2023-01-29,South America,Mobile,/products,167.2,11,1
+U1441,2023-01-06,Asia,Tablet,/about,196.1,10,1
+U1055,2023-01-24,North America,Mobile,/contact,27.0,11,2
+U1127,2023-01-28,South America,Tablet,/home,19.8,18,5
+U1098,2023-01-16,Asia,Desktop,/products,255.5,19,2
+U1097,2023-01-15,Europe,Desktop,/contact,284.1,5,1
+U1274,2023-01-09,North America,Mobile,/about,203.8,19,5
+U1229,2023-01-25,South America,Desktop,/about,231.7,16,3
+U1071,2023-01-08,Asia,Mobile,/home,129.6,11,1
+U1216,2023-01-27,Asia,Tablet,/home,254.3,2,3
+U1093,2023-01-21,South America,Desktop,/products,77.1,2,4
+U1142,2023-01-09,Asia,Tablet,/contact,215.1,4,5
+U1236,2023-01-25,South America,Tablet,/blog,12.7,15,1
+U1127,2023-01-25,Asia,Desktop,/contact,156.7,1,3
+U1447,2023-01-17,Europe,Desktop,/about,118.2,4,3
+U1472,2023-01-16,South America,Desktop,/about,189.2,6,3
+U1038,2023-01-21,South America,Tablet,/products,203.4,15,2
+U1226,2023-01-08,North America,Mobile,/blog,188.8,15,2
+U1413,2023-01-09,Europe,Mobile,/products,150.1,1,4
+U1441,2023-01-15,South America,Tablet,/about,151.5,14,4
+U1438,2023-01-03,Asia,Tablet,/about,11.9,7,3
+U1281,2023-01-23,Asia,Tablet,/contact,170.0,5,2
+U1050,2023-01-10,Asia,Desktop,/blog,13.4,10,5
+U1025,2023-01-08,North America,Mobile,/contact,163.5,6,5
+U1333,2023-01-09,South America,Mobile,/contact,89.7,9,3
+U1276,2023-01-11,Asia,Mobile,/products,293.5,3,2
+U1428,2023-01-11,North America,Mobile,/contact,15.0,12,5
+U1007,2023-01-29,North America,Mobile,/home,245.8,9,2
+U1496,2023-01-18,South America,Mobile,/home,205.5,3,4
+U1047,2023-01-03,Asia,Tablet,/contact,243.8,12,3
+U1474,2023-01-05,Europe,Tablet,/blog,273.8,6,3
+U1385,2023-01-05,Asia,Desktop,/contact,41.0,2,2
+U1434,2023-01-08,Europe,Tablet,/about,37.9,13,2
+U1121,2023-01-13,Europe,Tablet,/about,53.2,10,1
+U1085,2023-01-23,Asia,Mobile,/blog,65.7,8,5
+U1208,2023-01-05,Europe,Desktop,/products,162.7,14,4
+U1248,2023-01-23,North America,Mobile,/home,246.4,3,5
+U1246,2023-01-07,North America,Desktop,/home,87.5,4,1
+U1109,2023-01-03,Asia,Tablet,/products,125.1,1,2
+U1442,2023-01-14,South America,Tablet,/contact,118.2,7,5
+U1205,2023-01-14,North America,Mobile,/blog,127.7,16,3
+U1462,2023-01-11,Asia,Mobile,/contact,173.9,3,5
+U1030,2023-01-18,Europe,Mobile,/products,297.2,5,2
+U1084,2023-01-15,North America,Tablet,/blog,75.5,19,5
+U1194,2023-01-14,Asia,Tablet,/home,208.4,8,1
+U1001,2023-01-02,Asia,Tablet,/home,255.9,17,4
+U1199,2023-01-07,South America,Desktop,/contact,199.6,15,2
+U1135,2023-01-27,Europe,Mobile,/about,258.9,1,3
+U1474,2023-01-14,Europe,Desktop,/products,230.3,1,1
+U1401,2023-01-13,Europe,Tablet,/products,37.1,11,2
+U1401,2023-01-29,Asia,Tablet,/contact,120.0,4,3
+U1232,2023-01-25,Asia,Desktop,/products,170.3,14,3
+U1146,2023-01-19,Europe,Mobile,/home,26.3,5,2
+U1216,2023-01-23,Asia,Mobile,/contact,12.7,16,1
+U1356,2023-01-01,South America,Tablet,/home,59.7,3,3
+U1490,2023-01-28,Asia,Tablet,/blog,155.0,8,4
+U1374,2023-01-29,Asia,Tablet,/blog,135.8,13,1
+U1401,2023-01-25,North America,Mobile,/about,237.5,3,3
+U1284,2023-01-19,South America,Desktop,/products,174.1,4,2
+U1338,2023-01-13,North America,Tablet,/blog,258.8,4,2
+U1367,2023-01-16,Europe,Tablet,/products,37.7,11,1
+U1249,2023-01-01,Europe,Desktop,/home,163.2,12,3
+U1079,2023-01-12,South America,Mobile,/contact,22.3,10,3
+U1097,2023-01-10,Asia,Tablet,/blog,71.3,5,1
+U1151,2023-01-25,North America,Mobile,/contact,261.8,13,1
+U1111,2023-01-13,South America,Tablet,/blog,267.4,5,1
+U1495,2023-01-28,North America,Mobile,/products,147.9,5,4
+U1029,2023-01-29,Asia,Desktop,/blog,23.5,3,4
+U1296,2023-01-27,North America,Tablet,/blog,31.6,17,4
+U1376,2023-01-14,South America,Tablet,/home,278.4,19,2
+U1277,2023-01-18,Asia,Tablet,/about,270.8,1,4
+U1031,2023-01-24,Asia,Tablet,/home,173.4,20,4
+U1382,2023-01-24,South America,Tablet,/contact,19.5,6,4
+U1160,2023-01-18,Asia,Desktop,/products,279.3,15,3
+U1029,2023-01-26,North America,Tablet,/products,101.2,12,5
+U1025,2023-01-20,Europe,Tablet,/blog,288.8,7,4
+U1299,2023-01-29,South America,Mobile,/products,180.2,5,1
+U1244,2023-01-08,North America,Tablet,/about,228.2,14,4
+U1257,2023-01-16,Asia,Mobile,/about,216.7,20,5
+U1470,2023-01-08,Europe,Desktop,/blog,125.5,15,2
+U1436,2023-01-09,North America,Mobile,/blog,32.3,7,2
+U1271,2023-01-14,South America,Mobile,/contact,57.1,3,4
+U1080,2023-01-16,Asia,Desktop,/blog,79.7,4,1
+U1029,2023-01-01,South America,Desktop,/home,252.0,5,1
+U1491,2023-01-13,North America,Mobile,/home,122.9,4,3
+U1260,2023-01-11,Europe,Mobile,/home,270.0,19,1
+U1041,2023-01-22,North America,Desktop,/about,106.2,13,3
+U1435,2023-01-22,North America,Desktop,/products,229.1,12,3
+U1095,2023-01-26,Asia,Desktop,/contact,50.6,14,1
+U1035,2023-01-13,South America,Desktop,/blog,296.7,11,1
+U1304,2023-01-24,North America,Desktop,/contact,220.0,5,3
+U1034,2023-01-06,North America,Mobile,/about,155.2,8,2
+U1345,2023-01-27,Europe,Desktop,/blog,292.6,9,4
+U1441,2023-01-15,Europe,Tablet,/blog,25.6,3,2
+U1120,2023-01-30,South America,Tablet,/about,136.8,8,1
+U1206,2023-01-05,South America,Tablet,/products,253.2,18,5
+U1061,2023-01-20,Asia,Tablet,/blog,108.8,20,1
+U1482,2023-01-18,South America,Desktop,/products,233.0,20,3
+U1455,2023-01-01,Europe,Tablet,/about,286.9,20,5
+U1291,2023-01-30,South America,Mobile,/contact,125.0,10,5
+U1126,2023-01-13,North America,Tablet,/blog,234.3,1,4
+U1296,2023-01-19,South America,Desktop,/products,18.6,10,1
+U1304,2023-01-19,South America,Tablet,/blog,89.3,7,4
+U1020,2023-01-22,Asia,Mobile,/products,297.8,17,2
+U1317,2023-01-01,North America,Desktop,/blog,152.3,20,5
+U1041,2023-01-03,Asia,Desktop,/blog,113.2,17,4
+U1214,2023-01-21,Europe,Desktop,/blog,282.9,7,2
+U1336,2023-01-14,South America,Tablet,/contact,135.2,13,1
+U1298,2023-01-05,South America,Tablet,/blog,207.1,10,1
+U1289,2023-01-28,Europe,Desktop,/products,201.6,2,3
+U1267,2023-01-15,Asia,Tablet,/contact,34.9,8,2
+U1161,2023-01-06,North America,Mobile,/home,189.4,16,2
+U1478,2023-01-02,Asia,Desktop,/products,241.4,13,4
+U1133,2023-01-09,Asia,Mobile,/products,216.8,4,5
+U1104,2023-01-13,North America,Mobile,/home,33.8,8,5
+U1342,2023-01-11,South America,Tablet,/contact,54.7,16,3
+U1366,2023-01-07,Asia,Tablet,/blog,216.4,20,3
+U1160,2023-01-15,Europe,Desktop,/products,193.8,3,3
+U1122,2023-01-11,North America,Mobile,/home,224.5,17,2
+U1135,2023-01-11,South America,Tablet,/blog,101.8,1,1
+U1202,2023-01-25,North America,Mobile,/contact,40.9,12,1
+U1067,2023-01-29,Europe,Tablet,/products,11.5,11,4
+U1343,2023-01-13,North America,Mobile,/blog,99.4,5,5
+U1330,2023-01-09,North America,Desktop,/blog,114.4,13,5
+U1153,2023-01-25,Asia,Tablet,/about,88.2,19,4
+U1234,2023-01-27,Europe,Desktop,/home,48.4,14,2
+U1161,2023-01-14,Europe,Mobile,/blog,64.3,12,1
+U1475,2023-01-09,Europe,Mobile,/contact,140.2,18,3
+U1384,2023-01-27,North America,Desktop,/about,170.9,6,1
+U1479,2023-01-03,Europe,Mobile,/blog,128.3,16,4
+U1037,2023-01-16,Europe,Tablet,/blog,17.6,3,1
+U1004,2023-01-01,Europe,Tablet,/contact,112.6,1,3
+U1234,2023-01-24,Asia,Mobile,/about,37.0,19,5
+U1318,2023-01-18,Europe,Mobile,/about,183.4,3,4
+U1288,2023-01-02,North America,Mobile,/home,104.1,1,2
+U1051,2023-01-12,Asia,Mobile,/blog,121.7,9,1
+U1037,2023-01-08,Europe,Tablet,/home,94.6,7,1
+U1275,2023-01-21,Europe,Tablet,/about,122.5,2,2

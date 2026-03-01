@@ -1,0 +1,501 @@
+UserID,TimeOnSite,PageViews,Region,Device,Page,ConversionRate,Date
+U1000,349.7,6,Africa,Mobile,Checkout,0.05,2023-01-01
+U1001,286.2,2,Africa,Tablet,Product Page,0.13,2023-01-02
+U1002,364.8,4,North America,Mobile,Product Page,0.14,2023-01-03
+U1003,452.3,7,Asia,Tablet,Checkout,0.04,2023-01-04
+U1004,276.6,6,South America,Tablet,Product Page,0.02,2023-01-05
+U1005,276.6,5,North America,Desktop,Homepage,0.04,2023-01-06
+U1006,457.9,4,South America,Tablet,Checkout,0.12,2023-01-07
+U1007,376.7,3,Europe,Tablet,Homepage,0.1,2023-01-08
+U1008,253.1,3,South America,Mobile,Blog,0.1,2023-01-09
+U1009,354.3,7,Africa,Tablet,Blog,0.07,2023-01-10
+U1010,253.7,7,South America,Desktop,Product Page,0.09,2023-01-11
+U1011,253.4,6,North America,Mobile,Blog,0.05,2023-01-12
+U1012,324.2,6,North America,Mobile,Homepage,0.08,2023-01-13
+U1013,108.7,7,South America,Desktop,Blog,0.12,2023-01-14
+U1014,127.5,8,North America,Mobile,Homepage,0.15,2023-01-15
+U1015,243.8,6,North America,Mobile,Product Page,0.14,2023-01-16
+U1016,198.7,3,South America,Mobile,Product Page,0.14,2023-01-17
+U1017,331.4,7,Asia,Mobile,Homepage,0.07,2023-01-18
+U1018,209.2,5,Asia,Desktop,Blog,0.08,2023-01-19
+U1019,158.8,5,Europe,Desktop,Product Page,0.11,2023-01-20
+U1020,446.6,7,North America,Mobile,Checkout,0.14,2023-01-21
+U1021,277.4,4,South America,Mobile,Product Page,0.03,2023-01-22
+U1022,306.8,9,North America,Desktop,Blog,0.05,2023-01-23
+U1023,157.5,4,Africa,Desktop,Checkout,0.03,2023-01-24
+U1024,245.6,5,North America,Desktop,Blog,0.1,2023-01-25
+U1025,311.1,2,North America,Mobile,Homepage,0.05,2023-01-26
+U1026,184.9,6,Asia,Mobile,Checkout,0.06,2023-01-27
+U1027,337.6,3,South America,Tablet,Blog,0.02,2023-01-28
+U1028,239.9,6,North America,Desktop,Checkout,0.06,2023-01-29
+U1029,270.8,2,Asia,Mobile,Blog,0.13,2023-01-30
+U1030,239.8,3,Europe,Desktop,Checkout,0.04,2023-01-31
+U1031,485.2,5,Asia,Mobile,Blog,0.11,2023-02-01
+U1032,298.7,3,Asia,Desktop,Homepage,0.1,2023-02-02
+U1033,194.2,4,Asia,Mobile,Checkout,0.13,2023-02-03
+U1034,382.3,5,North America,Tablet,Checkout,0.03,2023-02-04
+U1035,177.9,6,North America,Tablet,Checkout,0.15,2023-02-05
+U1036,320.9,3,Europe,Desktop,Checkout,0.09,2023-02-06
+U1037,104.0,3,Africa,Mobile,Homepage,0.15,2023-02-07
+U1038,167.2,4,Africa,Mobile,Checkout,0.14,2023-02-08
+U1039,319.7,5,Africa,Desktop,Product Page,0.04,2023-02-09
+U1040,373.8,4,Europe,Mobile,Homepage,0.02,2023-02-10
+U1041,317.1,2,Africa,Desktop,Product Page,0.05,2023-02-11
+U1042,288.4,6,Africa,Mobile,Checkout,0.08,2023-02-12
+U1043,269.9,6,Asia,Desktop,Blog,0.03,2023-02-13
+U1044,152.1,8,North America,Mobile,Product Page,0.03,2023-02-14
+U1045,228.0,1,North America,Desktop,Checkout,0.07,2023-02-15
+U1046,253.9,6,Asia,Mobile,Product Page,0.01,2023-02-16
+U1047,405.7,2,Asia,Tablet,Checkout,0.03,2023-02-17
+U1048,334.4,5,Asia,Mobile,Checkout,0.07,2023-02-18
+U1049,123.7,2,North America,Desktop,Checkout,0.02,2023-02-19
+U1050,332.4,6,Africa,Tablet,Blog,0.07,2023-02-20
+U1051,261.5,4,Asia,Mobile,Product Page,0.08,2023-02-21
+U1052,232.3,3,Europe,Tablet,Homepage,0.07,2023-02-22
+U1053,361.2,5,Asia,Mobile,Homepage,0.13,2023-02-23
+U1054,403.1,6,South America,Tablet,Homepage,0.08,2023-02-24
+U1055,393.1,3,Asia,Desktop,Homepage,0.08,2023-02-25
+U1056,216.1,4,North America,Mobile,Checkout,0.07,2023-02-26
+U1057,269.1,8,Asia,Mobile,Product Page,0.12,2023-02-27
+U1058,333.1,4,South America,Desktop,Product Page,0.14,2023-02-28
+U1059,397.6,10,Europe,Tablet,Blog,0.13,2023-03-01
+U1060,252.1,4,Africa,Desktop,Product Page,0.1,2023-03-02
+U1061,281.4,5,Asia,Desktop,Product Page,0.03,2023-03-03
+U1062,189.4,10,South America,Tablet,Product Page,0.05,2023-03-04
+U1063,180.4,3,South America,Desktop,Blog,0.02,2023-03-05
+U1064,381.3,4,Europe,Mobile,Homepage,0.14,2023-03-06
+U1065,435.6,7,North America,Mobile,Product Page,0.1,2023-03-07
+U1066,292.8,5,Asia,Mobile,Blog,0.11,2023-03-08
+U1067,400.4,10,South America,Desktop,Blog,0.05,2023-03-09
+U1068,336.2,4,Europe,Mobile,Checkout,0.13,2023-03-10
+U1069,235.5,2,Africa,Mobile,Blog,0.05,2023-03-11
+U1070,336.1,3,South America,Mobile,Homepage,0.01,2023-03-12
+U1071,453.8,5,Europe,Mobile,Product Page,0.06,2023-03-13
+U1072,296.4,8,North America,Mobile,Blog,0.09,2023-03-14
+U1073,456.5,4,North America,Mobile,Homepage,0.08,2023-03-15
+U1074,38.0,3,South America,Desktop,Blog,0.13,2023-03-16
+U1075,382.2,8,South America,Mobile,Blog,0.02,2023-03-17
+U1076,308.7,6,Asia,Mobile,Blog,0.09,2023-03-18
+U1077,270.1,8,Europe,Tablet,Blog,0.08,2023-03-19
+U1078,309.2,3,South America,Desktop,Blog,0.05,2023-03-20
+U1079,101.2,3,Asia,Desktop,Homepage,0.13,2023-03-21
+U1080,278.0,5,Asia,Desktop,Product Page,0.12,2023-03-22
+U1081,335.7,11,South America,Desktop,Product Page,0.11,2023-03-23
+U1082,447.8,7,North America,Mobile,Product Page,0.13,2023-03-24
+U1083,248.2,4,Europe,Mobile,Product Page,0.11,2023-03-25
+U1084,219.2,3,Europe,Tablet,Homepage,0.04,2023-03-26
+U1085,249.8,8,North America,Tablet,Checkout,0.11,2023-03-27
+U1086,391.5,8,South America,Desktop,Checkout,0.05,2023-03-28
+U1087,332.9,3,Europe,Tablet,Homepage,0.04,2023-03-29
+U1088,247.0,3,South America,Tablet,Homepage,0.02,2023-03-30
+U1089,351.3,6,South America,Desktop,Blog,0.11,2023-03-31
+U1090,309.7,2,Asia,Desktop,Blog,0.11,2023-04-01
+U1091,396.9,7,North America,Tablet,Blog,0.04,2023-04-02
+U1092,229.8,5,South America,Mobile,Product Page,0.11,2023-04-03
+U1093,267.2,5,Africa,Tablet,Blog,0.14,2023-04-04
+U1094,260.8,6,North America,Tablet,Checkout,0.03,2023-04-05
+U1095,153.6,1,Europe,Mobile,Product Page,0.04,2023-04-06
+U1096,329.6,10,Asia,Mobile,Blog,0.12,2023-04-07
+U1097,326.1,2,Europe,Desktop,Product Page,0.05,2023-04-08
+U1098,300.5,5,Europe,Desktop,Checkout,0.1,2023-04-09
+U1099,276.5,4,North America,Tablet,Blog,0.02,2023-04-10
+U1100,158.5,5,Europe,Mobile,Checkout,0.07,2023-04-11
+U1101,257.9,4,South America,Desktop,Checkout,0.11,2023-04-12
+U1102,265.7,5,Europe,Tablet,Checkout,0.11,2023-04-13
+U1103,219.8,6,Asia,Mobile,Blog,0.12,2023-04-14
+U1104,283.9,1,Asia,Tablet,Homepage,0.13,2023-04-15
+U1105,340.4,3,Africa,Desktop,Blog,0.12,2023-04-16
+U1106,488.6,2,Asia,Desktop,Checkout,0.1,2023-04-17
+U1107,317.5,5,Europe,Mobile,Blog,0.01,2023-04-18
+U1108,325.8,4,Asia,Tablet,Checkout,0.08,2023-04-19
+U1109,292.6,7,North America,Mobile,Homepage,0.02,2023-04-20
+U1110,108.1,7,Asia,Desktop,Product Page,0.12,2023-04-21
+U1111,297.3,2,South America,Desktop,Homepage,0.05,2023-04-22
+U1112,306.0,6,North America,Tablet,Homepage,0.09,2023-04-23
+U1113,546.3,7,Africa,Tablet,Product Page,0.05,2023-04-24
+U1114,280.8,2,South America,Tablet,Blog,0.12,2023-04-25
+U1115,330.2,7,Europe,Mobile,Product Page,0.13,2023-04-26
+U1116,296.5,5,Europe,Tablet,Blog,0.07,2023-04-27
+U1117,183.1,7,Europe,Tablet,Blog,0.13,2023-04-28
+U1118,414.3,6,South America,Desktop,Checkout,0.05,2023-04-29
+U1119,375.2,5,South America,Desktop,Checkout,0.08,2023-04-30
+U1120,379.1,6,South America,Tablet,Product Page,0.13,2023-05-01
+U1121,209.1,5,North America,Tablet,Homepage,0.06,2023-05-02
+U1122,440.3,4,North America,Desktop,Product Page,0.14,2023-05-03
+U1123,159.8,7,Europe,Tablet,Blog,0.03,2023-05-04
+U1124,358.7,1,Asia,Mobile,Checkout,0.01,2023-05-05
+U1125,519.0,8,Europe,Mobile,Product Page,0.14,2023-05-06
+U1126,200.9,4,Africa,Mobile,Product Page,0.02,2023-05-07
+U1127,243.4,5,North America,Tablet,Checkout,0.15,2023-05-08
+U1128,310.0,3,South America,Desktop,Checkout,0.14,2023-05-09
+U1129,249.7,7,North America,Tablet,Checkout,0.03,2023-05-10
+U1130,144.9,2,South America,Tablet,Blog,0.09,2023-05-11
+U1131,306.9,5,Africa,Desktop,Checkout,0.04,2023-05-12
+U1132,193.8,10,Africa,Desktop,Homepage,0.07,2023-05-13
+U1133,347.4,7,North America,Desktop,Product Page,0.02,2023-05-14
+U1134,208.1,7,South America,Mobile,Checkout,0.04,2023-05-15
+U1135,455.0,10,Africa,Tablet,Checkout,0.06,2023-05-16
+U1136,221.7,1,Europe,Desktop,Blog,0.07,2023-05-17
+U1137,267.8,5,Europe,Tablet,Blog,0.15,2023-05-18
+U1138,381.4,3,South America,Mobile,Product Page,0.12,2023-05-19
+U1139,176.9,8,North America,Mobile,Homepage,0.11,2023-05-20
+U1140,322.7,7,Africa,Desktop,Product Page,0.09,2023-05-21
+U1141,430.7,3,North America,Desktop,Checkout,0.13,2023-05-22
+U1142,139.3,1,Europe,Tablet,Homepage,0.06,2023-05-23
+U1143,318.5,5,Africa,Desktop,Homepage,0.11,2023-05-24
+U1144,326.0,3,North America,Tablet,Homepage,0.15,2023-05-25
+U1145,378.2,6,Asia,Desktop,Homepage,0.05,2023-05-26
+U1146,176.3,3,South America,Tablet,Product Page,0.1,2023-05-27
+U1147,168.0,4,South America,Tablet,Blog,0.13,2023-05-28
+U1148,352.2,5,Asia,Tablet,Blog,0.14,2023-05-29
+U1149,329.7,8,Europe,Tablet,Checkout,0.11,2023-05-30
+U1150,325.0,7,Africa,Mobile,Blog,0.05,2023-05-31
+U1151,334.6,5,South America,Tablet,Blog,0.06,2023-06-01
+U1152,232.0,4,Asia,Desktop,Blog,0.01,2023-06-02
+U1153,323.2,6,Asia,Mobile,Blog,0.12,2023-06-03
+U1154,329.3,8,Europe,Mobile,Checkout,0.02,2023-06-04
+U1155,228.6,4,Europe,Tablet,Product Page,0.13,2023-06-05
+U1156,486.6,3,North America,Mobile,Homepage,0.03,2023-06-06
+U1157,347.4,2,South America,Tablet,Blog,0.03,2023-06-07
+U1158,180.9,3,North America,Desktop,Product Page,0.08,2023-06-08
+U1159,365.7,9,Asia,Tablet,Blog,0.11,2023-06-09
+U1160,202.5,5,Africa,Mobile,Blog,0.03,2023-06-10
+U1161,378.7,4,Africa,Desktop,Homepage,0.07,2023-06-11
+U1162,415.9,7,Europe,Tablet,Homepage,0.08,2023-06-12
+U1163,217.9,8,Africa,Desktop,Homepage,0.04,2023-06-13
+U1164,396.3,4,Africa,Desktop,Blog,0.03,2023-06-14
+U1165,341.3,4,Africa,Mobile,Blog,0.13,2023-06-15
+U1166,382.2,8,Asia,Desktop,Blog,0.08,2023-06-16
+U1167,489.7,5,Africa,Mobile,Homepage,0.01,2023-06-17
+U1168,275.5,5,Africa,Desktop,Checkout,0.12,2023-06-18
+U1169,224.6,6,Africa,Tablet,Product Page,0.15,2023-06-19
+U1170,211.0,7,North America,Desktop,Checkout,0.09,2023-06-20
+U1171,218.4,2,Asia,Tablet,Blog,0.08,2023-06-21
+U1172,292.3,1,Europe,Tablet,Blog,0.13,2023-06-22
+U1173,334.1,7,North America,Desktop,Checkout,0.14,2023-06-23
+U1174,327.7,5,South America,Tablet,Blog,0.12,2023-06-24
+U1175,382.7,4,Asia,Desktop,Product Page,0.07,2023-06-25
+U1176,301.3,4,Asia,Desktop,Blog,0.09,2023-06-26
+U1177,445.4,3,South America,Tablet,Product Page,0.11,2023-06-27
+U1178,273.5,8,South America,Tablet,Checkout,0.04,2023-06-28
+U1179,572.0,7,South America,Mobile,Checkout,0.07,2023-06-29
+U1180,362.6,1,Europe,Tablet,Blog,0.13,2023-06-30
+U1181,214.3,2,Africa,Mobile,Product Page,0.1,2023-07-01
+U1182,192.9,4,Asia,Tablet,Blog,0.07,2023-07-02
+U1183,348.2,6,Africa,Desktop,Homepage,0.1,2023-07-03
+U1184,277.7,4,Africa,Tablet,Homepage,0.03,2023-07-04
+U1185,371.4,6,South America,Desktop,Homepage,0.07,2023-07-05
+U1186,347.3,8,Europe,Desktop,Homepage,0.12,2023-07-06
+U1187,292.7,7,North America,Desktop,Blog,0.04,2023-07-07
+U1188,215.3,5,Europe,Mobile,Homepage,0.04,2023-07-08
+U1189,148.5,2,Africa,Tablet,Product Page,0.14,2023-07-09
+U1190,255.3,1,Europe,Desktop,Checkout,0.04,2023-07-10
+U1191,385.6,7,South America,Desktop,Checkout,0.05,2023-07-11
+U1192,321.4,4,North America,Mobile,Homepage,0.15,2023-07-12
+U1193,175.4,1,South America,Tablet,Homepage,0.11,2023-07-13
+U1194,317.3,6,North America,Tablet,Homepage,0.11,2023-07-14
+U1195,338.5,5,Africa,Mobile,Blog,0.13,2023-07-15
+U1196,211.6,8,North America,Mobile,Checkout,0.03,2023-07-16
+U1197,315.4,5,North America,Tablet,Homepage,0.11,2023-07-17
+U1198,305.8,4,North America,Mobile,Product Page,0.08,2023-07-18
+U1199,185.7,10,Europe,Tablet,Homepage,0.13,2023-07-19
+U1200,335.8,7,Europe,Tablet,Checkout,0.08,2023-07-20
+U1201,356.1,4,Africa,Desktop,Homepage,0.1,2023-07-21
+U1202,408.3,8,North America,Desktop,Checkout,0.08,2023-07-22
+U1203,405.4,5,Asia,Tablet,Homepage,0.08,2023-07-23
+U1204,162.2,5,Africa,Tablet,Product Page,0.12,2023-07-24
+U1205,206.2,5,North America,Tablet,Homepage,0.1,2023-07-25
+U1206,351.5,2,North America,Tablet,Product Page,0.1,2023-07-26
+U1207,351.4,3,Europe,Tablet,Product Page,0.07,2023-07-27
+U1208,351.5,4,Africa,Tablet,Homepage,0.08,2023-07-28
+U1209,685.3,9,North America,Mobile,Product Page,0.11,2023-07-29
+U1210,357.1,0,North America,Tablet,Blog,0.13,2023-07-30
+U1211,413.6,5,Africa,Mobile,Homepage,0.11,2023-07-31
+U1212,395.4,5,Asia,Mobile,Homepage,0.14,2023-08-01
+U1213,365.1,5,Africa,Tablet,Product Page,0.12,2023-08-02
+U1214,268.5,5,Africa,Tablet,Product Page,0.09,2023-08-03
+U1215,375.9,4,Asia,Mobile,Homepage,0.1,2023-08-04
+U1216,222.7,9,Africa,Mobile,Blog,0.14,2023-08-05
+U1217,276.3,6,North America,Tablet,Product Page,0.1,2023-08-06
+U1218,251.5,2,Africa,Tablet,Product Page,0.13,2023-08-07
+U1219,308.2,6,Asia,Mobile,Checkout,0.11,2023-08-08
+U1220,531.5,6,South America,Mobile,Blog,0.09,2023-08-09
+U1221,113.3,6,Africa,Mobile,Blog,0.04,2023-08-10
+U1222,368.6,5,Europe,Desktop,Homepage,0.07,2023-08-11
+U1223,138.7,2,North America,Mobile,Blog,0.15,2023-08-12
+U1224,252.8,5,North America,Desktop,Homepage,0.1,2023-08-13
+U1225,408.9,3,Europe,Tablet,Checkout,0.09,2023-08-14
+U1226,306.4,3,Europe,Tablet,Blog,0.14,2023-08-15
+U1227,192.2,3,Africa,Mobile,Product Page,0.09,2023-08-16
+U1228,228.5,6,Europe,Tablet,Checkout,0.08,2023-08-17
+U1229,368.0,6,South America,Tablet,Homepage,0.12,2023-08-18
+U1230,227.0,4,Asia,Tablet,Checkout,0.11,2023-08-19
+U1231,321.6,5,Europe,Tablet,Homepage,0.04,2023-08-20
+U1232,304.6,5,Europe,Desktop,Checkout,0.08,2023-08-21
+U1233,234.8,7,South America,Desktop,Homepage,0.08,2023-08-22
+U1234,514.4,5,North America,Mobile,Blog,0.06,2023-08-23
+U1235,363.4,3,North America,Mobile,Product Page,0.08,2023-08-24
+U1236,97.5,4,Africa,Mobile,Homepage,0.07,2023-08-25
+U1237,318.6,7,South America,Tablet,Checkout,0.04,2023-08-26
+U1238,233.8,5,Asia,Tablet,Homepage,0.07,2023-08-27
+U1239,385.2,7,Asia,Desktop,Homepage,0.02,2023-08-28
+U1240,220.7,8,South America,Desktop,Homepage,0.09,2023-08-29
+U1241,288.5,7,Asia,Mobile,Checkout,0.13,2023-08-30
+U1242,350.5,5,North America,Desktop,Product Page,0.11,2023-08-31
+U1243,386.6,8,Asia,Desktop,Blog,0.06,2023-09-01
+U1244,180.0,4,Asia,Desktop,Product Page,0.02,2023-09-02
+U1245,266.5,6,South America,Desktop,Homepage,0.04,2023-09-03
+U1246,252.5,8,South America,Desktop,Checkout,0.09,2023-09-04
+U1247,234.7,6,Asia,Mobile,Product Page,0.04,2023-09-05
+U1248,476.5,3,Europe,Mobile,Homepage,0.09,2023-09-06
+U1249,340.5,8,South America,Desktop,Blog,0.04,2023-09-07
+U1250,173.9,4,Africa,Mobile,Blog,0.13,2023-09-08
+U1251,391.8,7,Africa,Tablet,Blog,0.07,2023-09-09
+U1252,512.2,2,North America,Desktop,Homepage,0.04,2023-09-10
+U1253,403.2,10,Asia,Tablet,Checkout,0.12,2023-09-11
+U1254,148.1,6,Europe,Mobile,Product Page,0.06,2023-09-12
+U1255,251.6,4,North America,Mobile,Blog,0.03,2023-09-13
+U1256,426.7,5,Asia,Tablet,Homepage,0.09,2023-09-14
+U1257,229.2,6,South America,Mobile,Homepage,0.09,2023-09-15
+U1258,344.4,4,Africa,Desktop,Product Page,0.11,2023-09-16
+U1259,377.5,5,Europe,Tablet,Blog,0.04,2023-09-17
+U1260,207.3,6,Africa,Desktop,Homepage,0.07,2023-09-18
+U1261,294.0,3,South America,Tablet,Product Page,0.05,2023-09-19
+U1262,-24.1,7,Asia,Mobile,Checkout,0.02,2023-09-20
+U1263,197.6,7,South America,Tablet,Checkout,0.13,2023-09-21
+U1264,274.7,8,South America,Tablet,Checkout,0.11,2023-09-22
+U1265,175.2,4,Africa,Desktop,Blog,0.05,2023-09-23
+U1266,463.2,7,Europe,Mobile,Product Page,0.09,2023-09-24
+U1267,157.0,3,South America,Desktop,Product Page,0.04,2023-09-25
+U1268,256.0,4,Africa,Mobile,Homepage,0.13,2023-09-26
+U1269,313.1,4,Europe,Desktop,Homepage,0.03,2023-09-27
+U1270,444.1,0,Asia,Tablet,Homepage,0.01,2023-09-28
+U1271,156.4,1,Asia,Desktop,Product Page,0.08,2023-09-29
+U1272,416.3,1,North America,Mobile,Homepage,0.09,2023-09-30
+U1273,301.0,7,Africa,Mobile,Product Page,0.09,2023-10-01
+U1274,201.8,5,Europe,Tablet,Product Page,0.02,2023-10-02
+U1275,346.2,5,South America,Mobile,Checkout,0.05,2023-10-03
+U1276,319.9,8,Asia,Desktop,Homepage,0.08,2023-10-04
+U1277,240.0,3,Europe,Tablet,Checkout,0.04,2023-10-05
+U1278,307.0,5,Africa,Mobile,Blog,0.13,2023-10-06
+U1279,261.5,3,North America,Mobile,Blog,0.02,2023-10-07
+U1280,311.4,5,Asia,Desktop,Blog,0.08,2023-10-08
+U1281,366.2,1,Europe,Desktop,Product Page,0.11,2023-10-09
+U1282,458.6,7,Europe,Tablet,Product Page,0.05,2023-10-10
+U1283,176.2,2,Europe,Mobile,Product Page,0.1,2023-10-11
+U1284,513.3,4,Africa,Desktop,Homepage,0.13,2023-10-12
+U1285,104.8,6,Africa,Tablet,Checkout,0.04,2023-10-13
+U1286,284.8,7,Africa,Mobile,Product Page,0.14,2023-10-14
+U1287,358.8,9,South America,Mobile,Checkout,0.09,2023-10-15
+U1288,328.1,4,Europe,Tablet,Checkout,0.05,2023-10-16
+U1289,237.7,1,Asia,Tablet,Checkout,0.07,2023-10-17
+U1290,279.2,4,Africa,Desktop,Homepage,0.05,2023-10-18
+U1291,250.7,6,Africa,Mobile,Homepage,0.11,2023-10-19
+U1292,241.1,3,Europe,Mobile,Blog,0.12,2023-10-20
+U1293,385.0,4,Africa,Mobile,Blog,0.13,2023-10-21
+U1294,335.7,2,South America,Tablet,Checkout,0.15,2023-10-22
+U1295,230.7,6,South America,Desktop,Blog,0.12,2023-10-23
+U1296,390.0,8,Africa,Mobile,Checkout,0.09,2023-10-24
+U1297,330.7,7,Europe,Tablet,Homepage,0.06,2023-10-25
+U1298,381.3,2,Europe,Mobile,Homepage,0.09,2023-10-26
+U1299,363.0,6,Europe,Desktop,Homepage,0.02,2023-10-27
+U1300,217.1,9,North America,Mobile,Product Page,0.11,2023-10-28
+U1301,244.0,3,Africa,Desktop,Checkout,0.07,2023-10-29
+U1302,374.7,8,Europe,Desktop,Homepage,0.01,2023-10-30
+U1303,361.0,7,South America,Mobile,Checkout,0.02,2023-10-31
+U1304,297.9,6,Asia,Mobile,Blog,0.06,2023-11-01
+U1305,311.7,10,Asia,Desktop,Blog,0.09,2023-11-02
+U1306,427.8,5,Europe,Tablet,Homepage,0.07,2023-11-03
+U1307,240.8,5,Asia,Desktop,Checkout,0.1,2023-11-04
+U1308,354.7,5,Asia,Mobile,Homepage,0.08,2023-11-05
+U1309,279.8,5,North America,Mobile,Blog,0.1,2023-11-06
+U1310,278.2,4,South America,Tablet,Homepage,0.04,2023-11-07
+U1311,409.9,10,South America,Desktop,Checkout,0.03,2023-11-08
+U1312,382.5,3,North America,Desktop,Blog,0.09,2023-11-09
+U1313,381.4,2,North America,Desktop,Product Page,0.08,2023-11-10
+U1314,430.5,6,Asia,Mobile,Blog,0.01,2023-11-11
+U1315,302.1,4,Africa,Desktop,Product Page,0.06,2023-11-12
+U1316,368.2,4,Asia,Tablet,Homepage,0.02,2023-11-13
+U1317,269.0,8,North America,Mobile,Homepage,0.08,2023-11-14
+U1318,332.4,5,South America,Mobile,Checkout,0.07,2023-11-15
+U1319,287.0,4,Asia,Desktop,Product Page,0.1,2023-11-16
+U1320,309.7,7,Africa,Tablet,Homepage,0.12,2023-11-17
+U1321,359.5,4,Asia,Mobile,Product Page,0.05,2023-11-18
+U1322,218.2,2,Europe,Mobile,Homepage,0.14,2023-11-19
+U1323,509.2,2,Asia,Desktop,Blog,0.08,2023-11-20
+U1324,199.4,3,North America,Desktop,Homepage,0.1,2023-11-21
+U1325,178.6,3,South America,Tablet,Checkout,0.11,2023-11-22
+U1326,415.8,8,South America,Desktop,Blog,0.1,2023-11-23
+U1327,379.2,6,North America,Tablet,Checkout,0.08,2023-11-24
+U1328,362.4,0,Europe,Mobile,Blog,0.07,2023-11-25
+U1329,362.8,8,North America,Tablet,Product Page,0.02,2023-11-26
+U1330,298.8,5,Asia,Tablet,Checkout,0.01,2023-11-27
+U1331,210.3,4,North America,Tablet,Homepage,0.06,2023-11-28
+U1332,307.6,5,North America,Mobile,Product Page,0.06,2023-11-29
+U1333,232.3,7,Europe,Desktop,Homepage,0.06,2023-11-30
+U1334,397.5,6,Asia,Mobile,Blog,0.03,2023-12-01
+U1335,285.3,3,Africa,Desktop,Blog,0.11,2023-12-02
+U1336,217.5,4,Africa,Tablet,Homepage,0.13,2023-12-03
+U1337,267.9,2,South America,Tablet,Homepage,0.14,2023-12-04
+U1338,341.3,4,North America,Tablet,Product Page,0.08,2023-12-05
+U1339,243.6,1,South America,Tablet,Homepage,0.11,2023-12-06
+U1340,217.8,9,Europe,Tablet,Checkout,0.13,2023-12-07
+U1341,324.4,3,Africa,Desktop,Checkout,0.07,2023-12-08
+U1342,324.5,1,North America,Desktop,Homepage,0.05,2023-12-09
+U1343,249.3,5,Europe,Tablet,Checkout,0.14,2023-12-10
+U1344,252.9,4,Europe,Mobile,Homepage,0.08,2023-12-11
+U1345,323.2,6,North America,Mobile,Product Page,0.08,2023-12-12
+U1346,155.2,5,Europe,Tablet,Checkout,0.03,2023-12-13
+U1347,159.3,8,North America,Desktop,Checkout,0.03,2023-12-14
+U1348,228.2,5,North America,Mobile,Homepage,0.13,2023-12-15
+U1349,278.7,7,Asia,Mobile,Checkout,0.1,2023-12-16
+U1350,331.1,4,South America,Mobile,Blog,0.06,2023-12-17
+U1351,447.5,1,Europe,Tablet,Product Page,0.04,2023-12-18
+U1352,385.8,5,Europe,Mobile,Product Page,0.09,2023-12-19
+U1353,284.0,4,Asia,Mobile,Checkout,0.09,2023-12-20
+U1354,298.1,3,Asia,Mobile,Checkout,0.04,2023-12-21
+U1355,199.7,2,Asia,Mobile,Blog,0.13,2023-12-22
+U1356,298.1,12,Africa,Desktop,Blog,0.02,2023-12-23
+U1357,271.1,5,Africa,Tablet,Checkout,0.06,2023-12-24
+U1358,332.3,10,Africa,Tablet,Checkout,0.11,2023-12-25
+U1359,217.3,6,North America,Desktop,Blog,0.05,2023-12-26
+U1360,351.9,1,Europe,Desktop,Homepage,0.13,2023-12-27
+U1361,453.3,6,South America,Tablet,Blog,0.11,2023-12-28
+U1362,289.1,2,North America,Mobile,Homepage,0.12,2023-12-29
+U1363,340.2,4,Europe,Mobile,Product Page,0.03,2023-12-30
+U1364,369.0,5,Europe,Tablet,Product Page,0.03,2023-12-31
+U1365,259.9,8,Asia,Mobile,Blog,0.05,2024-01-01
+U1366,322.4,4,Asia,Desktop,Homepage,0.08,2024-01-02
+U1367,301.3,2,North America,Mobile,Blog,0.11,2024-01-03
+U1368,309.8,1,Asia,Mobile,Blog,0.13,2024-01-04
+U1369,222.7,8,Europe,Mobile,Homepage,0.11,2024-01-05
+U1370,302.5,8,Asia,Tablet,Blog,0.14,2024-01-06
+U1371,349.8,4,Africa,Desktop,Product Page,0.11,2024-01-07
+U1372,445.1,1,Asia,Mobile,Checkout,0.05,2024-01-08
+U1373,395.9,9,Europe,Tablet,Checkout,0.05,2024-01-09
+U1374,515.3,4,North America,Mobile,Blog,0.11,2024-01-10
+U1375,223.3,2,South America,Desktop,Homepage,0.04,2024-01-11
+U1376,387.2,4,Asia,Mobile,Homepage,0.02,2024-01-12
+U1377,318.3,3,Europe,Desktop,Product Page,0.08,2024-01-13
+U1378,519.0,8,South America,Mobile,Homepage,0.13,2024-01-14
+U1379,219.2,9,South America,Desktop,Homepage,0.02,2024-01-15
+U1380,216.0,4,Africa,Mobile,Product Page,0.12,2024-01-16
+U1381,240.1,4,South America,Desktop,Blog,0.12,2024-01-17
+U1382,87.6,5,Europe,Mobile,Checkout,0.08,2024-01-18
+U1383,247.4,11,Europe,Mobile,Product Page,0.02,2024-01-19
+U1384,224.1,8,Asia,Tablet,Blog,0.03,2024-01-20
+U1385,315.0,6,Asia,Tablet,Product Page,0.11,2024-01-21
+U1386,334.2,2,Asia,Desktop,Blog,0.11,2024-01-22
+U1387,487.6,8,South America,Mobile,Product Page,0.14,2024-01-23
+U1388,395.0,7,South America,Desktop,Blog,0.09,2024-01-24
+U1389,242.3,6,Africa,Tablet,Product Page,0.03,2024-01-25
+U1390,210.2,5,Asia,Desktop,Blog,0.03,2024-01-26
+U1391,349.2,3,North America,Desktop,Product Page,0.11,2024-01-27
+U1392,168.0,5,Africa,Tablet,Checkout,0.04,2024-01-28
+U1393,483.1,3,North America,Mobile,Checkout,0.06,2024-01-29
+U1394,417.9,3,South America,Desktop,Homepage,0.08,2024-01-30
+U1395,253.1,7,Africa,Tablet,Blog,0.01,2024-01-31
+U1396,128.7,4,Africa,Mobile,Product Page,0.04,2024-02-01
+U1397,435.4,4,Europe,Tablet,Blog,0.07,2024-02-02
+U1398,288.5,6,South America,Desktop,Checkout,0.05,2024-02-03
+U1399,423.8,6,South America,Mobile,Blog,0.03,2024-02-04
+U1400,140.6,3,Africa,Mobile,Product Page,0.11,2024-02-05
+U1401,240.1,4,South America,Tablet,Blog,0.12,2024-02-06
+U1402,300.5,6,Africa,Tablet,Product Page,0.05,2024-02-07
+U1403,304.7,6,Europe,Tablet,Checkout,0.12,2024-02-08
+U1404,255.0,6,Africa,Mobile,Checkout,0.06,2024-02-09
+U1405,362.3,6,South America,Mobile,Checkout,0.08,2024-02-10
+U1406,193.2,3,South America,Desktop,Homepage,0.13,2024-02-11
+U1407,285.8,5,Africa,Mobile,Checkout,0.11,2024-02-12
+U1408,312.0,2,Africa,Desktop,Blog,0.12,2024-02-13
+U1409,351.4,5,Africa,Tablet,Homepage,0.03,2024-02-14
+U1410,371.2,3,Asia,Tablet,Checkout,0.02,2024-02-15
+U1411,187.5,3,South America,Mobile,Blog,0.14,2024-02-16
+U1412,146.6,5,South America,Tablet,Blog,0.06,2024-02-17
+U1413,427.8,11,Asia,Tablet,Blog,0.05,2024-02-18
+U1414,333.2,7,Africa,Mobile,Product Page,0.11,2024-02-19
+U1415,225.2,7,Europe,Desktop,Homepage,0.13,2024-02-20
+U1416,455.1,4,Africa,Mobile,Blog,0.13,2024-02-21
+U1417,311.6,1,Africa,Desktop,Product Page,0.05,2024-02-22
+U1418,417.9,4,Asia,Mobile,Checkout,0.13,2024-02-23
+U1419,306.8,5,South America,Mobile,Blog,0.02,2024-02-24
+U1420,506.1,4,Africa,Tablet,Product Page,0.02,2024-02-25
+U1421,475.5,4,South America,Mobile,Blog,0.1,2024-02-26
+U1422,275.1,7,North America,Mobile,Homepage,0.02,2024-02-27
+U1423,397.2,6,South America,Desktop,Homepage,0.06,2024-02-28
+U1424,364.5,8,Europe,Tablet,Checkout,0.1,2024-02-29
+U1425,436.9,4,Europe,Desktop,Blog,0.06,2024-03-01
+U1426,203.5,3,Africa,Desktop,Product Page,0.04,2024-03-02
+U1427,368.6,0,South America,Tablet,Checkout,0.05,2024-03-03
+U1428,405.8,4,Africa,Tablet,Blog,0.07,2024-03-04
+U1429,124.1,1,Asia,Tablet,Checkout,0.08,2024-03-05
+U1430,181.7,4,Europe,Mobile,Product Page,0.12,2024-03-06
+U1431,96.1,3,Africa,Tablet,Checkout,0.12,2024-03-07
+U1432,273.1,5,Asia,Tablet,Checkout,0.07,2024-03-08
+U1433,371.8,6,Africa,Tablet,Checkout,0.13,2024-03-09
+U1434,450.2,6,South America,Desktop,Blog,0.03,2024-03-10
+U1435,307.4,4,South America,Desktop,Product Page,0.05,2024-03-11
+U1436,462.9,4,South America,Mobile,Homepage,0.13,2024-03-12
+U1437,162.0,5,South America,Desktop,Blog,0.06,2024-03-13
+U1438,129.7,1,North America,Mobile,Homepage,0.15,2024-03-14
+U1439,294.4,9,Asia,Desktop,Homepage,0.08,2024-03-15
+U1440,338.4,7,Asia,Tablet,Blog,0.12,2024-03-16
+U1441,296.7,5,South America,Desktop,Blog,0.07,2024-03-17
+U1442,93.3,4,North America,Mobile,Product Page,0.07,2024-03-18
+U1443,291.1,5,South America,Desktop,Product Page,0.06,2024-03-19
+U1444,169.6,4,North America,Tablet,Checkout,0.11,2024-03-20
+U1445,367.0,1,South America,Mobile,Homepage,0.09,2024-03-21
+U1446,336.7,3,Europe,Tablet,Product Page,0.14,2024-03-22
+U1447,206.0,7,Europe,Tablet,Checkout,0.05,2024-03-23
+U1448,248.6,6,Africa,Mobile,Product Page,0.02,2024-03-24
+U1449,194.1,10,South America,Tablet,Blog,0.07,2024-03-25
+U1450,293.7,4,Asia,Tablet,Product Page,0.1,2024-03-26
+U1451,395.5,5,Africa,Desktop,Homepage,0.13,2024-03-27
+U1452,201.4,6,Europe,Tablet,Product Page,0.06,2024-03-28
+U1453,350.4,6,South America,Tablet,Homepage,0.1,2024-03-29
+U1454,247.0,8,Africa,Tablet,Blog,0.06,2024-03-30
+U1455,220.7,4,South America,Tablet,Homepage,0.1,2024-03-31
+U1456,289.3,3,Europe,Mobile,Product Page,0.13,2024-04-01
+U1457,196.5,3,Africa,Desktop,Checkout,0.04,2024-04-02
+U1458,244.6,9,Europe,Tablet,Blog,0.07,2024-04-03
+U1459,180.2,7,North America,Tablet,Product Page,0.15,2024-04-04
+U1460,496.5,2,Europe,Mobile,Blog,0.13,2024-04-05
+U1461,303.5,2,South America,Tablet,Blog,0.09,2024-04-06
+U1462,230.0,4,Asia,Mobile,Product Page,0.08,2024-04-07
+U1463,321.4,6,Europe,Desktop,Product Page,0.05,2024-04-08
+U1464,288.8,9,Asia,Desktop,Checkout,0.08,2024-04-09
+U1465,277.9,11,North America,Tablet,Blog,0.13,2024-04-10
+U1466,361.4,4,Africa,Tablet,Blog,0.11,2024-04-11
+U1467,375.8,7,Africa,Tablet,Product Page,0.05,2024-04-12
+U1468,246.9,7,Asia,Mobile,Homepage,0.04,2024-04-13
+U1469,242.4,3,Africa,Tablet,Product Page,0.05,2024-04-14
+U1470,272.5,7,Europe,Tablet,Blog,0.03,2024-04-15
+U1471,69.8,5,Asia,Desktop,Product Page,0.02,2024-04-16
+U1472,148.5,2,South America,Tablet,Checkout,0.07,2024-04-17
+U1473,436.7,9,Europe,Desktop,Homepage,0.03,2024-04-18
+U1474,464.5,6,Europe,Tablet,Product Page,0.03,2024-04-19
+U1475,275.1,3,Europe,Desktop,Checkout,0.09,2024-04-20
+U1476,357.7,6,South America,Tablet,Blog,0.03,2024-04-21
+U1477,331.1,3,North America,Desktop,Product Page,0.02,2024-04-22
+U1478,607.9,2,Africa,Mobile,Blog,0.05,2024-04-23
+U1479,412.0,8,Asia,Desktop,Checkout,0.04,2024-04-24
+U1480,287.2,4,North America,Desktop,Blog,0.08,2024-04-25
+U1481,204.4,5,Asia,Desktop,Checkout,0.02,2024-04-26
+U1482,139.4,4,Africa,Tablet,Checkout,0.12,2024-04-27
+U1483,320.3,3,South America,Tablet,Checkout,0.14,2024-04-28
+U1484,224.4,4,Europe,Tablet,Product Page,0.11,2024-04-29
+U1485,157.8,3,Europe,Mobile,Blog,0.08,2024-04-30
+U1486,235.3,11,South America,Mobile,Blog,0.13,2024-05-01
+U1487,191.8,6,North America,Desktop,Homepage,0.11,2024-05-02
+U1488,468.7,5,North America,Mobile,Homepage,0.01,2024-05-03
+U1489,388.2,5,Asia,Desktop,Homepage,0.07,2024-05-04
+U1490,299.2,5,South America,Desktop,Homepage,0.13,2024-05-05
+U1491,448.0,3,North America,Desktop,Blog,0.06,2024-05-06
+U1492,307.7,6,South America,Mobile,Checkout,0.01,2024-05-07
+U1493,213.9,4,Africa,Tablet,Checkout,0.11,2024-05-08
+U1494,452.3,5,Europe,Mobile,Product Page,0.12,2024-05-09
+U1495,353.9,3,Europe,Desktop,Checkout,0.03,2024-05-10
+U1496,196.3,7,Europe,Desktop,Blog,0.09,2024-05-11
+U1497,281.0,3,South America,Mobile,Blog,0.04,2024-05-12
+U1498,212.4,6,South America,Desktop,Blog,0.11,2024-05-13
+U1499,161.7,7,Asia,Desktop,Product Page,0.05,2024-05-14

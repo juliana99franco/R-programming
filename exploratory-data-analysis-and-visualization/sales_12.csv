@@ -1,0 +1,121 @@
+Date,Region,ProductCategory,SalesChannel,SalesValue,ProfitMargin,CustomerCount,MarketingSpend,UnitsSold,DayOfWeek,Month
+2024-01-01,North,Electronics,Online,7500,0.22,120,500,60,Monday,January
+2024-01-01,South,Clothing,Store,4200,0.15,85,300,70,Monday,January
+2024-01-01,East,Home Goods,Online,2800,0.18,60,200,50,Monday,January
+2024-01-02,North,Electronics,Store,8200,0.25,135,600,65,Tuesday,January
+2024-01-02,South,Clothing,Online,5100,0.18,100,400,80,Tuesday,January
+2024-01-02,East,Home Goods,Store,3500,0.20,70,250,60,Tuesday,January
+2024-01-03,North,Electronics,Online,9000,0.28,150,700,70,Wednesday,January
+2024-01-03,South,Clothing,Store,6000,0.20,120,500,90,Wednesday,January
+2024-01-03,East,Home Goods,Online,4200,0.22,80,300,70,Wednesday,January
+2024-01-04,North,Electronics,Store,7800,0.23,130,550,63,Thursday,January
+2024-01-04,South,Clothing,Online,4800,0.17,95,350,75,Thursday,January
+2024-01-04,East,Home Goods,Store,3200,0.19,65,220,55,Thursday,January
+2024-01-05,North,Electronics,Online,8500,0.26,140,650,67,Friday,January
+2024-01-05,South,Clothing,Store,5500,0.19,110,450,85,Friday,January
+2024-01-05,East,Home Goods,Online,3800,0.21,75,280,65,Friday,January
+2024-01-06,North,Electronics,Store,9200,0.29,155,750,72,Saturday,January
+2024-01-06,South,Clothing,Online,6200,0.22,130,550,95,Saturday,January
+2024-01-06,East,Home Goods,Store,4500,0.24,90,350,75,Saturday,January
+2024-01-07,North,Electronics,Online,8800,0.27,145,720,70,Sunday,January
+2024-01-07,South,Clothing,Store,5800,0.21,115,500,90,Sunday,January
+2024-01-07,East,Home Goods,Online,4000,0.23,85,320,72,Sunday,January
+2024-02-01,North,Electronics,Online,8000,0.23,130,600,64,Thursday,February
+2024-02-01,South,Clothing,Store,4500,0.16,90,320,73,Thursday,February
+2024-02-01,East,Home Goods,Online,3000,0.19,65,210,53,Thursday,February
+2024-02-02,North,Electronics,Store,8500,0.26,140,650,68,Friday,February
+2024-02-02,South,Clothing,Online,5400,0.19,105,420,78,Friday,February
+2024-02-02,East,Home Goods,Store,3600,0.21,72,240,57,Friday,February
+2024-02-03,North,Electronics,Online,9200,0.29,155,720,73,Saturday,February
+2024-02-03,South,Clothing,Store,6300,0.22,125,520,88,Saturday,February
+2024-02-03,East,Home Goods,Online,4300,0.23,85,290,63,Saturday,February
+2024-02-04,North,Electronics,Store,8000,0.24,133,580,66,Sunday,February
+2024-02-04,South,Clothing,Online,5000,0.18,100,380,76,Sunday,February
+2024-02-04,East,Home Goods,Store,3400,0.20,70,230,55,Sunday,February
+2024-03-01,North,Electronics,Online,9500,0.30,160,800,75,Friday,March
+2024-03-01,South,Clothing,Store,6500,0.23,130,550,93,Friday,March
+2024-03-01,East,Home Goods,Online,4500,0.25,90,330,68,Friday,March
+2024-03-02,North,Electronics,Store,9800,0.32,165,850,78,Saturday,March
+2024-03-02,South,Clothing,Online,7000,0.25,140,600,100,Saturday,March
+2024-03-02,East,Home Goods,Store,5000,0.27,100,380,73,Saturday,March
+2024-03-03,North,Electronics,Online,9200,0.29,155,750,73,Sunday,March
+2024-03-03,South,Clothing,Store,6200,0.22,125,500,90,Sunday,March
+2024-03-03,East,Home Goods,Online,4200,0.24,85,300,65,Sunday,March
+2024-04-01,North,Electronics,Online,8800,0.27,150,700,70,Monday,April
+2024-04-01,South,Clothing,Store,5800,0.20,120,500,88,Monday,April
+2024-04-01,East,Home Goods,Online,4000,0.23,80,300,63,Monday,April
+2024-04-02,North,Electronics,Store,9200,0.30,155,750,74,Tuesday,April
+2024-04-02,South,Clothing,Online,6200,0.22,125,550,91,Tuesday,April
+2024-04-02,East,Home Goods,Store,4500,0.26,90,350,67,Tuesday,April
+2024-04-03,North,Electronics,Online,9800,0.33,165,800,77,Wednesday,April
+2024-04-03,South,Clothing,Store,7000,0.25,140,600,98,Wednesday,April
+2024-04-03,East,Home Goods,Online,5000,0.29,100,400,71,Wednesday,April
+2024-05-01,North,Electronics,Online,8000,0.25,135,650,66,Wednesday,May
+2024-05-01,South,Clothing,Store,5000,0.18,105,400,78,Wednesday,May
+2024-05-01,East,Home Goods,Online,3500,0.22,75,250,58,Wednesday,May
+2024-05-02,North,Electronics,Store,8500,0.28,145,700,69,Thursday,May
+2024-05-02,South,Clothing,Online,5500,0.20,110,450,83,Thursday,May
+2024-05-02,East,Home Goods,Store,4000,0.25,80,300,62,Thursday,May
+2024-05-03,North,Electronics,Online,9200,0.31,155,750,72,Friday,May
+2024-05-03,South,Clothing,Store,6200,0.22,125,520,90,Friday,May
+2024-05-03,East,Home Goods,Online,4300,0.26,85,330,65,Friday,May
+2024-06-01,North,Electronics,Online,9800,0.32,170,850,78,Saturday,June
+2024-06-01,South,Clothing,Store,7000,0.25,145,600,100,Saturday,June
+2024-06-01,East,Home Goods,Online,5000,0.28,100,400,73,Saturday,June
+2024-06-02,North,Electronics,Store,9500,0.30,165,800,75,Sunday,June
+2024-06-02,South,Clothing,Online,6500,0.23,135,550,95,Sunday,June
+2024-06-02,East,Home Goods,Store,4500,0.26,90,350,68,Sunday,June
+2024-07-01,North,Electronics,Online,8200,0.26,140,700,68,Monday,July
+2024-07-01,South,Clothing,Store,5200,0.19,110,450,82,Monday,July
+2024-07-01,East,Home Goods,Online,3700,0.23,80,300,60,Monday,July
+2024-07-02,North,Electronics,Store,8800,0.29,150,750,72,Tuesday,July
+2024-07-02,South,Clothing,Online,5800,0.21,115,500,86,Tuesday,July
+2024-07-02,East,Home Goods,Store,4200,0.25,85,330,65,Tuesday,July
+2024-07-03,North,Electronics,Online,9500,0.32,160,800,75,Wednesday,July
+2024-07-03,South,Clothing,Store,6500,0.24,130,550,90,Wednesday,July
+2024-07-03,East,Home Goods,Online,4700,0.27,90,380,68,Wednesday,July
+2024-08-01,North,Electronics,Online,9200,0.30,155,750,74,Thursday,August
+2024-08-01,South,Clothing,Store,6200,0.22,125,520,90,Thursday,August
+2024-08-01,East,Home Goods,Online,4300,0.25,85,330,66,Thursday,August
+2024-08-02,North,Electronics,Store,9800,0.33,165,800,77,Friday,August
+2024-08-02,South,Clothing,Online,7000,0.25,140,600,98,Friday,August
+2024-08-02,East,Home Goods,Store,5000,0.29,100,400,71,Friday,August
+2024-08-03,North,Electronics,Online,9500,0.31,160,780,76,Saturday,August
+2024-08-03,South,Clothing,Store,6500,0.23,130,550,93,Saturday,August
+2024-08-03,East,Home Goods,Online,4500,0.26,90,350,69,Saturday,August
+2024-09-01,North,Electronics,Online,8500,0.28,145,720,70,Sunday,September
+2024-09-01,South,Clothing,Store,5500,0.20,115,500,85,Sunday,September
+2024-09-01,East,Home Goods,Online,3800,0.24,80,320,63,Sunday,September
+2024-09-02,North,Electronics,Store,9000,0.30,150,750,73,Monday,September
+2024-09-02,South,Clothing,Online,6000,0.22,120,520,88,Monday,September
+2024-09-02,East,Home Goods,Store,4200,0.26,85,350,66,Monday,September
+2024-09-03,North,Electronics,Online,9800,0.33,165,800,76,Tuesday,September
+2024-09-03,South,Clothing,Store,7000,0.25,140,600,95,Tuesday,September
+2024-09-03,East,Home Goods,Online,5000,0.29,100,400,70,Tuesday,September
+2024-10-01,North,Electronics,Online,9000,0.29,150,750,72,Tuesday,October
+2024-10-01,South,Clothing,Store,6000,0.21,120,520,87,Tuesday,October
+2024-10-01,East,Home Goods,Online,4200,0.25,85,330,65,Tuesday,October
+2024-10-02,North,Electronics,Store,9500,0.32,160,800,75,Wednesday,October
+2024-10-02,South,Clothing,Online,6500,0.23,130,550,92,Wednesday,October
+2024-10-02,East,Home Goods,Store,4700,0.28,90,380,69,Wednesday,October
+2024-10-03,North,Electronics,Online,10200,0.35,170,850,79,Thursday,October
+2024-10-03,South,Clothing,Store,7200,0.26,145,620,97,Thursday,October
+2024-10-03,East,Home Goods,Online,5200,0.31,105,420,73,Thursday,October
+2024-11-01,North,Electronics,Online,8800,0.28,150,720,70,Friday,November
+2024-11-01,South,Clothing,Store,5800,0.20,120,500,86,Friday,November
+2024-11-01,East,Home Goods,Online,4000,0.24,85,320,62,Friday,November
+2024-11-02,North,Electronics,Store,9200,0.31,155,780,74,Saturday,November
+2024-11-02,South,Clothing,Online,6200,0.22,125,520,89,Saturday,November
+2024-11-02,East,Home Goods,Store,4500,0.27,90,350,65,Saturday,November
+2024-11-03,North,Electronics,Online,9900,0.34,170,820,78,Sunday,November
+2024-11-03,South,Clothing,Store,7100,0.26,145,620,98,Sunday,November
+2024-11-03,East,Home Goods,Online,5100,0.30,105,420,72,Sunday,November
+2024-12-01,North,Electronics,Online,9500,0.31,160,800,75,Sunday,December
+2024-12-01,South,Clothing,Store,6500,0.24,130,550,92,Sunday,December
+2024-12-01,East,Home Goods,Online,4500,0.27,90,350,68,Sunday,December
+2024-12-02,North,Electronics,Store,10200,0.34,170,850,79,Monday,December
+2024-12-02,South,Clothing,Online,7200,0.26,145,620,99,Monday,December
+2024-12-02,East,Home Goods,Store,5200,0.30,105,420,74,Monday,December
+2024-12-03,North,Electronics,Online,10800,0.37,180,900,83,Tuesday,December
+2024-12-03,South,Clothing,Store,7800,0.29,155,680,105,Tuesday,December
+2024-12-03,East,Home Goods,Online,5800,0.33,115,480,79,Tuesday,December

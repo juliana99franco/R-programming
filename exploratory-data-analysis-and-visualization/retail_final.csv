@@ -1,0 +1,221 @@
+OrderID,OrderDate,CustomerID,ProductCategory,ProductName,Quantity,UnitPrice,DiscountPercent,SalesAmount,Profit,CustomerSegment,Region,PaymentMethod,ShippingMode
+ORD_1001,2023-01-15,Cust_101,Electronics,Laptop,1,1200,0.1,1080,324,Professionals,North,Credit Card,Express
+ORD_1002,2023-01-15,Cust_102,Clothing,Jeans,2,50,0,100,30,Young Adults,South,Debit Card,Standard
+ORD_1003,2023-01-16,Cust_103,Home Goods,Coffee Maker,1,80,0.05,76,22.8,Seniors,West,Cash,Standard
+ORD_1004,2023-01-17,Cust_104,Electronics,Smartphone,1,900,0.15,765,229.5,Professionals,East,Online Payment,Express
+ORD_1005,2023-01-18,Cust_105,Clothing,T-Shirt,3,25,0,75,22.5,Young Adults,North,Credit Card,Standard
+ORD_1006,2023-01-19,Cust_106,Home Goods,Desk Lamp,2,30,0.1,54,16.2,Professionals,South,Debit Card,Standard
+ORD_1007,2023-01-20,Cust_107,Electronics,Tablet,1,500,0.2,400,120,Seniors,West,Cash,Express
+ORD_1008,2023-01-21,Cust_108,Clothing,Sweater,1,60,0,60,18,Young Adults,East,Online Payment,Standard
+ORD_1009,2023-01-22,Cust_109,Home Goods,Vase,4,15,0.05,57,17.1,Professionals,North,Credit Card,Standard
+ORD_1010,2023-01-23,Cust_110,Electronics,Headphones,1,150,0,150,45,Young Adults,South,Debit Card,Express
+ORD_1011,2023-01-24,Cust_111,Clothing,Pants,2,40,0.2,64,19.2,Seniors,West,Cash,Standard
+ORD_1012,2023-01-25,Cust_112,Home Goods,Cushion,3,20,0,60,18,Professionals,East,Online Payment,Standard
+ORD_1013,2023-01-26,Cust_113,Electronics,Camera,1,800,0.1,720,216,Young Adults,North,Credit Card,Express
+ORD_1014,2023-01-27,Cust_114,Clothing,Jacket,1,100,0.05,95,28.5,Professionals,South,Debit Card,Standard
+ORD_1015,2023-01-28,Cust_115,Home Goods,Rug,1,300,0.25,225,67.5,Seniors,West,Cash,Standard
+ORD_1016,2023-01-29,Cust_116,Electronics,Smartwatch,2,300,0.15,510,153,Young Adults,East,Online Payment,Express
+ORD_1017,2023-01-30,Cust_117,Clothing,Dress,2,45,0,90,27,Professionals,North,Credit Card,Standard
+ORD_1018,2023-01-31,Cust_118,Home Goods,Mirror,3,20,0.05,57,17.1,Seniors,South,Debit Card,Standard
+ORD_1019,2023-02-01,Cust_119,Electronics,TV,1,1500,0.2,1200,360,Professionals,West,Cash,Express
+ORD_1020,2023-02-02,Cust_120,Clothing,Skirt,4,15,0,60,18,Young Adults,East,Online Payment,Standard
+ORD_1021,2023-02-03,Cust_121,Home Goods,Chair,2,75,0.05,142.5,42.75,Professionals,North,Credit Card,Standard
+ORD_1022,2023-02-04,Cust_122,Electronics,Speaker,2,200,0.1,360,108,Seniors,South,Debit Card,Express
+ORD_1023,2023-02-05,Cust_123,Clothing,Blouse,3,20,0.25,45,13.5,Young Adults,West,Cash,Standard
+ORD_1024,2023-02-06,Cust_124,Home Goods,Blanket,2,60,0,120,36,Professionals,East,Online Payment,Standard
+ORD_1025,2023-02-07,Cust_125,Electronics,Gaming Console,1,400,0.1,360,108,Seniors,North,Credit Card,Express
+ORD_1026,2023-02-08,Cust_126,Clothing,Shirt,4,20,0.05,76,22.8,Young Adults,South,Debit Card,Standard
+ORD_1027,2023-02-09,Cust_127,Home Goods,Pillow,5,15,0.2,60,18,Professionals,West,Cash,Standard
+ORD_1028,2023-02-10,Cust_128,Electronics,Monitor,2,350,0.25,525,157.5,Seniors,East,Online Payment,Express
+ORD_1029,2023-02-11,Cust_129,Clothing,Shorts,3,20,0,60,18,Young Adults,North,Credit Card,Standard
+ORD_1030,2023-02-12,Cust_130,Home Goods,Candle,6,10,0.05,57,17.1,Seniors,South,Debit Card,Standard
+ORD_1031,2023-02-13,Cust_131,Electronics,Printer,2,250,0.2,400,120,Young Adults,West,Cash,Express
+ORD_1032,2023-02-14,Cust_132,Clothing,Socks,10,5,0,50,15,Professionals,East,Online Payment,Standard
+ORD_1033,2023-02-15,Cust_133,Home Goods,Frame,4,12,0.1,43.2,12.96,Seniors,North,Credit Card,Standard
+ORD_1034,2023-02-16,Cust_134,Electronics,Mouse,3,20,0.05,57,17.1,Young Adults,South,Debit Card,Express
+ORD_1035,2023-02-17,Cust_135,Clothing,Trousers,2,40,0.25,60,18,Professionals,West,Cash,Standard
+ORD_1036,2023-02-18,Cust_136,Home Goods,Throw Pillow,4,15,0,60,18,Seniors,East,Online Payment,Standard
+ORD_1037,2023-02-19,Cust_137,Electronics,Keyboard,2,80,0.15,136,40.8,Young Adults,North,Credit Card,Express
+ORD_1038,2023-02-20,Cust_138,Clothing,Hat,6,10,0.05,57,17.1,Professionals,South,Debit Card,Standard
+ORD_1039,2023-02-21,Cust_139,Home Goods,Clock,3,25,0.2,60,18,Seniors,West,Cash,Standard
+ORD_1040,2023-02-22,Cust_140,Electronics,External Hard Drive,2,120,0.25,180,54,Young Adults,East,Online Payment,Express
+ORD_1041,2023-02-23,Cust_141,Clothing,Hoodie,2,30,0.05,57,17.1,Seniors,North,Credit Card,Standard
+ORD_1042,2023-02-24,Cust_142,Home Goods,Ottoman,1,120,0.1,108,32.4,Young Adults,South,Debit Card,Standard
+ORD_1043,2023-02-25,Cust_143,Electronics,Webcam,2,60,0.2,96,28.8,Professionals,West,Cash,Express
+ORD_1044,2023-02-26,Cust_144,Clothing,Sunglasses,3,50,0,150,45,Seniors,East,Online Payment,Standard
+ORD_1045,2023-02-27,Cust_145,Home Goods,Side Table,1,90,0.1,81,24.3,Young Adults,North,Credit Card,Standard
+ORD_1046,2023-02-28,Cust_146,Electronics,USB Drive,7,10,0.05,66.5,19.95,Professionals,South,Debit Card,Express
+ORD_1047,2023-03-01,Cust_147,Clothing,Belt,2,25,0.2,40,12,Seniors,West,Cash,Standard
+ORD_1048,2023-03-02,Cust_148,Home Goods,Wall Art,2,70,0.25,105,31.5,Young Adults,East,Online Payment,Standard
+ORD_1049,2023-03-03,Cust_149,Electronics,Portable SSD,1,200,0.1,180,54,Seniors,North,Credit Card,Express
+ORD_1050,2023-03-04,Cust_150,Clothing,Scarf,4,20,0.05,76,22.8,Young Adults,South,Debit Card,Standard
+ORD_1051,2023-03-05,Cust_151,Home Goods,Bookshelf,1,180,0.2,144,43.2,Professionals,West,Cash,Standard
+ORD_1052,2023-03-06,Cust_152,Electronics,Wireless Charger,3,20,0.25,45,13.5,Seniors,East,Online Payment,Express
+ORD_1053,2023-03-07,Cust_153,Clothing,Gloves,4,15,0.05,57,17.1,Young Adults,North,Credit Card,Standard
+ORD_1054,2023-03-08,Cust_154,Home Goods,Area Rug,1,120,0.1,108,32.4,Professionals,South,Debit Card,Standard
+ORD_1055,2023-03-09,Cust_155,Electronics,Wireless Mouse,3,25,0.2,60,18,Seniors,West,Cash,Express
+ORD_1056,2023-03-10,Cust_156,Clothing,Tie,2,20,0.25,30,9,Young Adults,East,Online Payment,Standard
+ORD_1057,2023-03-11,Cust_157,Home Goods,Coffee Maker,1,100,0.05,95,28.5,Professionals,North,Credit Card,Standard
+ORD_1058,2023-03-12,Cust_158,Electronics,External DVD Drive,3,30,0.1,81,24.3,Seniors,South,Debit Card,Express
+ORD_1059,2023-03-13,Cust_159,Clothing,Wallet,2,25,0.2,40,12,Young Adults,West,Cash,Standard
+ORD_1060,2023-03-14,Cust_160,Home Goods,Toaster,2,70,0.25,105,31.5,Professionals,East,Online Payment,Standard
+ORD_1061,2023-03-15,Cust_161,Electronics,USB Hub,4,15,0.1,54,16.2,Seniors,North,Credit Card,Express
+ORD_1062,2023-03-16,Cust_162,Clothing,Slippers,3,25,0.05,71.25,21.375,Young Adults,South,Debit Card,Standard
+ORD_1063,2023-03-17,Cust_163,Home Goods,Blender,1,90,0.2,72,21.6,Professionals,West,Cash,Standard
+ORD_1064,2023-03-18,Cust_164,Electronics,Card Reader,7,8,0.25,42,12.6,Seniors,East,Online Payment,Express
+ORD_1065,2023-03-19,Cust_165,Clothing,Sandal,3,20,0.05,57,17.1,Young Adults,North,Credit Card,Standard
+ORD_1066,2023-03-20,Cust_166,Home Goods,Mixer,1,110,0.1,99,29.7,Professionals,South,Debit Card,Standard
+ORD_1067,2023-03-21,Cust_167,Electronics,Power Bank,4,20,0.2,64,19.2,Seniors,West,Cash,Express
+ORD_1068,2023-03-22,Cust_168,Clothing,Sneakers,2,70,0.25,105,31.5,Young Adults,East,Online Payment,Standard
+ORD_1069,2023-03-23,Cust_169,Home Goods,Kettle,2,60,0.05,114,34.2,Professionals,North,Credit Card,Standard
+ORD_1070,2023-03-24,Cust_170,Electronics,SD Card,10,5,0.1,45,13.5,Young Adults,South,Debit Card,Express
+ORD_1071,2023-03-25,Cust_171,Clothing,Boots,1,90,0.2,72,21.6,Seniors,West,Cash,Standard
+ORD_1072,2023-03-26,Cust_172,Home Goods,Microwave,2,150,0.25,225,67.5,Young Adults,East,Online Payment,Express
+ORD_1073,2023-03-27,Cust_173,Clothing,Socks,10,6,0.05,57,17.1,Professionals,North,Credit Card,Standard
+ORD_1074,2023-03-28,Cust_174,Home Goods,Refrigerator,1,800,0.1,720,216,Seniors,South,Debit Card,Standard
+ORD_1075,2023-03-29,Cust_175,Clothing,Heels,3,48,0.2,115.2,34.56,Young Adults,West,Cash,Standard
+ORD_1076,2023-03-30,Cust_176,Home Goods,Oven,1,500,0.25,375,112.5,Professionals,East,Online Payment,Express
+ORD_1077,2023-03-31,Cust_177,Clothing,Trainers,2,40,0.05,76,22.8,Seniors,North,Credit Card,Standard
+ORD_1078,2023-04-01,Cust_178,Home Goods,Washing Machine,1,600,0.1,540,162,Young Adults,South,Debit Card,Standard
+ORD_1079,2023-04-02,Cust_179,Clothing,Flats,2,35,0.2,56,16.8,Professionals,West,Cash,Standard
+ORD_1080,2023-04-03,Cust_180,Home Goods,Dishwasher,1,400,0.25,300,90,Seniors,East,Online Payment,Express
+ORD_1081,2023-04-04,Cust_181,Clothing,Sandals,3,30,0.05,85.5,25.65,Young Adults,North,Credit Card,Standard
+ORD_1082,2023-04-05,Cust_182,Home Goods,Iron,1,80,0.1,72,21.6,Professionals,South,Debit Card,Standard
+ORD_1083,2023-04-06,Cust_183,Clothing,Loafers,2,45,0.2,72,21.6,Seniors,West,Cash,Standard
+ORD_1084,2023-04-07,Cust_184,Home Goods,Vacuum Cleaner,1,200,0.25,150,45,Young Adults,East,Online Payment,Express
+ORD_1085,2023-04-08,Cust_185,Clothing,Oxford Shoes,2,50,0.05,95,28.5,Professionals,North,Credit Card,Standard
+ORD_1086,2023-04-09,Cust_186,Home Goods,Dryer,1,550,0.1,495,148.5,Seniors,South,Debit Card,Standard
+ORD_1087,2023-04-10,Cust_187,Clothing,Mules,3,40,0.2,96,28.8,Young Adults,West,Cash,Standard
+ORD_1088,2023-04-11,Cust_188,Home Goods,Coffee Machine,1,300,0.25,225,67.5,Professionals,East,Online Payment,Express
+ORD_1089,2023-04-12,Cust_189,Clothing,Pumps,2,42,0.05,79.8,23.94,Seniors,North,Credit Card,Standard
+ORD_1090,2023-04-13,Cust_190,Home Goods,Mixer,1,120,0.1,108,32.4,Professionals,South,Debit Card,Standard
+ORD_1091,2023-04-14,Cust_191,Clothing,Rain Boots,3,35,0.2,84,25.2,Young Adults,West,Cash,Standard
+ORD_1092,2023-04-15,Cust_192,Home Goods,Juicer,1,85,0.25,63.75,19.125,Professionals,East,Online Payment,Express
+ORD_1093,2023-04-16,Cust_193,Clothing,Ankle Boots,2,40,0.05,76,22.8,Seniors,North,Credit Card,Standard
+ORD_1094,2023-04-17,Cust_194,Home Goods,Food Processor,1,250,0.1,225,67.5,Young Adults,South,Debit Card,Standard
+ORD_1095,2023-04-18,Cust_195,Clothing,Slippers,3,32,0.2,76.8,23.04,Professionals,West,Cash,Standard
+ORD_1096,2023-04-19,Cust_196,Home Goods,Slow Cooker,1,95,0.25,71.25,21.375,Seniors,East,Online Payment,Express
+ORD_1097,2023-04-20,Cust_197,Clothing,Hiking Boots,1,110,0.05,104.5,31.35,Young Adults,North,Credit Card,Standard
+ORD_1098,2023-04-21,Cust_198,Home Goods,Electric Kettle,2,75,0.1,135,40.5,Professionals,South,Debit Card,Standard
+ORD_1099,2023-04-22,Cust_199,Clothing,Snow Boots,1,120,0.2,96,28.8,Seniors,West,Cash,Standard
+ORD_1100,2023-04-23,Cust_200,Home Goods,Rice Cooker,2,70,0.25,105,31.5,Young Adults,East,Online Payment,Express
+ORD_1101,2023-04-24,Cust_201,Electronics,Laptop,1,1200,0.1,1080,324,Professionals,North,Credit Card,Express
+ORD_1102,2023-04-24,Cust_202,Clothing,Jeans,2,50,0,100,30,Young Adults,South,Debit Card,Standard
+ORD_1103,2023-04-25,Cust_203,Home Goods,Coffee Maker,1,80,0.05,76,22.8,Seniors,West,Cash,Standard
+ORD_1104,2023-04-26,Cust_204,Electronics,Smartphone,1,900,0.15,765,229.5,Professionals,East,Online Payment,Express
+ORD_1105,2023-04-27,Cust_205,Clothing,T-Shirt,3,25,0,75,22.5,Young Adults,North,Credit Card,Standard
+ORD_1106,2023-04-28,Cust_206,Home Goods,Desk Lamp,2,30,0.1,54,16.2,Professionals,South,Debit Card,Standard
+ORD_1107,2023-04-29,Cust_207,Electronics,Tablet,1,500,0.2,400,120,Seniors,West,Cash,Express
+ORD_1108,2023-04-30,Cust_208,Clothing,Sweater,1,60,0,60,18,Young Adults,East,Online Payment,Standard
+ORD_1109,2023-05-01,Cust_209,Home Goods,Vase,4,15,0.05,57,17.1,Professionals,North,Credit Card,Standard
+ORD_1110,2023-05-02,Cust_210,Electronics,Headphones,1,150,0,150,45,Young Adults,South,Debit Card,Express
+ORD_1111,2023-05-03,Cust_211,Clothing,Pants,2,40,0.2,64,19.2,Seniors,West,Cash,Standard
+ORD_1112,2023-05-04,Cust_212,Home Goods,Cushion,3,20,0,60,18,Professionals,East,Online Payment,Standard
+ORD_1113,2023-05-05,Cust_213,Electronics,Camera,1,800,0.1,720,216,Young Adults,North,Credit Card,Express
+ORD_1114,2023-05-06,Cust_214,Clothing,Jacket,1,100,0.05,95,28.5,Professionals,South,Debit Card,Standard
+ORD_1115,2023-05-07,Cust_215,Home Goods,Rug,1,300,0.25,225,67.5,Seniors,West,Cash,Standard
+ORD_1116,2023-05-08,Cust_216,Electronics,Smartwatch,2,300,0.15,510,153,Young Adults,East,Online Payment,Express
+ORD_1117,2023-05-09,Cust_217,Clothing,Dress,2,45,0,90,27,Professionals,North,Credit Card,Standard
+ORD_1118,2023-05-10,Cust_218,Home Goods,Mirror,3,20,0.05,57,17.1,Seniors,South,Debit Card,Standard
+ORD_1119,2023-05-11,Cust_219,Electronics,TV,1,1500,0.2,1200,360,Professionals,West,Cash,Express
+ORD_1120,2023-05-12,Cust_220,Clothing,Skirt,4,15,0,60,18,Young Adults,East,Online Payment,Standard
+ORD_1121,2023-05-13,Cust_221,Home Goods,Chair,2,75,0.05,142.5,42.75,Professionals,North,Credit Card,Standard
+ORD_1122,2023-05-14,Cust_222,Electronics,Speaker,2,200,0.1,360,108,Seniors,South,Debit Card,Express
+ORD_1123,2023-05-15,Cust_223,Clothing,Blouse,3,20,0.25,45,13.5,Young Adults,West,Cash,Standard
+ORD_1124,2023-05-16,Cust_224,Home Goods,Blanket,2,60,0,120,36,Professionals,East,Online Payment,Standard
+ORD_1125,2023-05-17,Cust_225,Electronics,Gaming Console,1,400,0.1,360,108,Seniors,North,Credit Card,Express
+ORD_1126,2023-05-18,Cust_226,Clothing,Shirt,4,20,0.05,76,22.8,Young Adults,South,Debit Card,Standard
+ORD_1127,2023-05-19,Cust_227,Home Goods,Pillow,5,15,0.2,60,18,Professionals,West,Cash,Standard
+ORD_1128,2023-05-20,Cust_228,Electronics,Monitor,2,350,0.25,525,157.5,Seniors,East,Online Payment,Express
+ORD_1129,2023-05-21,Cust_229,Clothing,Shorts,3,20,0,60,18,Young Adults,North,Credit Card,Standard
+ORD_1130,2023-05-22,Cust_230,Home Goods,Candle,6,10,0.05,57,17.1,Seniors,South,Debit Card,Standard
+ORD_1131,2023-05-23,Cust_231,Electronics,Printer,2,250,0.2,400,120,Young Adults,West,Cash,Express
+ORD_1132,2023-05-24,Cust_232,Clothing,Socks,10,5,0,50,15,Professionals,East,Online Payment,Standard
+ORD_1133,2023-05-25,Cust_233,Home Goods,Frame,4,12,0.1,43.2,12.96,Seniors,North,Credit Card,Standard
+ORD_1134,2023-05-26,Cust_234,Electronics,Mouse,3,20,0.05,57,17.1,Young Adults,South,Debit Card,Express
+ORD_1135,2023-05-27,Cust_235,Clothing,Trousers,2,40,0.25,60,18,Professionals,West,Cash,Standard
+ORD_1136,2023-05-28,Cust_236,Home Goods,Throw Pillow,4,15,0,60,18,Seniors,East,Online Payment,Standard
+ORD_1137,2023-05-29,Cust_237,Electronics,Keyboard,2,80,0.15,136,40.8,Young Adults,North,Credit Card,Express
+ORD_1138,2023-05-30,Cust_238,Clothing,Hat,6,10,0.05,57,17.1,Professionals,South,Debit Card,Standard
+ORD_1139,2023-05-31,Cust_239,Home Goods,Clock,3,25,0.2,60,18,Seniors,West,Cash,Standard
+ORD_1140,2023-06-01,Cust_240,Electronics,External Hard Drive,2,120,0.25,180,54,Young Adults,East,Online Payment,Express
+ORD_1141,2023-06-02,Cust_241,Clothing,Hoodie,2,30,0.05,57,17.1,Seniors,North,Credit Card,Standard
+ORD_1142,2023-06-03,Cust_242,Home Goods,Ottoman,1,120,0.1,108,32.4,Young Adults,South,Debit Card,Standard
+ORD_1143,2023-06-04,Cust_243,Electronics,Webcam,2,60,0.2,96,28.8,Professionals,West,Cash,Express
+ORD_1144,2023-06-05,Cust_244,Clothing,Sunglasses,3,50,0,150,45,Seniors,East,Online Payment,Standard
+ORD_1145,2023-06-06,Cust_245,Home Goods,Side Table,1,90,0.1,81,24.3,Young Adults,North,Credit Card,Standard
+ORD_1146,2023-06-07,Cust_246,Electronics,USB Drive,7,10,0.05,66.5,19.95,Professionals,South,Debit Card,Express
+ORD_1147,2023-06-08,Cust_247,Clothing,Belt,2,25,0.2,40,12,Seniors,West,Cash,Standard
+ORD_1148,2023-06-09,Cust_248,Home Goods,Wall Art,2,70,0.25,105,31.5,Young Adults,East,Online Payment,Standard
+ORD_1149,2023-06-10,Cust_249,Electronics,Portable SSD,1,200,0.1,180,54,Seniors,North,Credit Card,Express
+ORD_1150,2023-06-11,Cust_250,Clothing,Scarf,4,20,0.05,76,22.8,Young Adults,South,Debit Card,Standard
+ORD_1151,2023-06-12,Cust_251,Home Goods,Bookshelf,1,180,0.2,144,43.2,Professionals,West,Cash,Standard
+ORD_1152,2023-06-13,Cust_252,Electronics,Wireless Charger,3,20,0.25,45,13.5,Seniors,East,Online Payment,Express
+ORD_1153,2023-06-14,Cust_253,Clothing,Gloves,4,15,0.05,57,17.1,Young Adults,North,Credit Card,Standard
+ORD_1154,2023-06-15,Cust_254,Home Goods,Area Rug,1,120,0.1,108,32.4,Professionals,South,Debit Card,Standard
+ORD_1155,2023-06-16,Cust_255,Electronics,Wireless Mouse,3,25,0.2,60,18,Seniors,West,Cash,Express
+ORD_1156,2023-06-17,Cust_256,Clothing,Tie,2,20,0.25,30,9,Young Adults,East,Online Payment,Standard
+ORD_1157,2023-06-18,Cust_257,Home Goods,Coffee Maker,1,100,0.05,95,28.5,Professionals,North,Credit Card,Standard
+ORD_1158,2023-06-19,Cust_258,Electronics,External DVD Drive,3,30,0.1,81,24.3,Seniors,South,Debit Card,Express
+ORD_1159,2023-06-20,Cust_259,Clothing,Wallet,2,25,0.2,40,12,Young Adults,West,Cash,Standard
+ORD_1160,2023-06-21,Cust_260,Home Goods,Toaster,2,70,0.25,105,31.5,Professionals,East,Online Payment,Express
+ORD_1161,2023-06-22,Cust_261,Electronics,USB Hub,4,15,0.1,54,16.2,Seniors,North,Credit Card,Express
+ORD_1162,2023-06-23,Cust_262,Clothing,Slippers,3,25,0.05,71.25,21.375,Young Adults,South,Debit Card,Standard
+ORD_1163,2023-06-24,Cust_263,Home Goods,Blender,1,90,0.2,72,21.6,Professionals,West,Cash,Standard
+ORD_1164,2023-06-25,Cust_264,Electronics,Card Reader,7,8,0.25,42,12.6,Seniors,East,Online Payment,Express
+ORD_1165,2023-06-26,Cust_265,Clothing,Sandal,3,20,0.05,57,17.1,Young Adults,North,Credit Card,Standard
+ORD_1166,2023-06-27,Cust_266,Home Goods,Mixer,1,110,0.1,99,29.7,Professionals,South,Debit Card,Standard
+ORD_1167,2023-06-28,Cust_267,Electronics,Power Bank,4,20,0.2,64,19.2,Seniors,West,Cash,Express
+ORD_1168,2023-06-29,Cust_268,Clothing,Sneakers,2,70,0.25,105,31.5,Young Adults,East,Online Payment,Standard
+ORD_1169,2023-06-30,Cust_269,Home Goods,Kettle,2,60,0.05,114,34.2,Professionals,North,Credit Card,Standard
+ORD_1170,2023-07-01,Cust_270,Electronics,SD Card,10,5,0.1,45,13.5,Young Adults,South,Debit Card,Express
+ORD_1171,2023-07-02,Cust_271,Clothing,Boots,1,90,0.2,72,21.6,Seniors,West,Cash,Standard
+ORD_1172,2023-07-03,Cust_272,Home Goods,Microwave,2,150,0.25,225,67.5,Young Adults,East,Online Payment,Express
+ORD_1173,2023-07-04,Cust_273,Clothing,Socks,10,6,0.05,57,17.1,Professionals,North,Credit Card,Standard
+ORD_1174,2023-07-05,Cust_274,Home Goods,Refrigerator,1,800,0.1,720,216,Seniors,South,Debit Card,Standard
+ORD_1175,2023-07-06,Cust_275,Clothing,Heels,3,48,0.2,115.2,34.56,Young Adults,West,Cash,Standard
+ORD_1176,2023-07-07,Cust_276,Home Goods,Oven,1,500,0.25,375,112.5,Professionals,East,Online Payment,Express
+ORD_1177,2023-07-08,Cust_277,Clothing,Trainers,2,40,0.05,76,22.8,Seniors,North,Credit Card,Standard
+ORD_1178,2023-07-09,Cust_278,Home Goods,Washing Machine,1,600,0.1,540,162,Young Adults,South,Debit Card,Standard
+ORD_1179,2023-07-10,Cust_279,Clothing,Flats,2,35,0.2,56,16.8,Professionals,West,Cash,Standard
+ORD_1180,2023-07-11,Cust_280,Home Goods,Dishwasher,1,400,0.25,300,90,Seniors,East,Online Payment,Express
+ORD_1181,2023-07-12,Cust_281,Clothing,Sandals,3,30,0.05,85.5,25.65,Young Adults,North,Credit Card,Standard
+ORD_1182,2023-07-13,Cust_282,Home Goods,Iron,1,80,0.1,72,21.6,Professionals,South,Debit Card,Standard
+ORD_1183,2023-07-14,Cust_283,Clothing,Loafers,2,45,0.2,72,21.6,Seniors,West,Cash,Standard
+ORD_1184,2023-07-15,Cust_284,Home Goods,Vacuum Cleaner,1,200,0.25,150,45,Young Adults,East,Online Payment,Express
+ORD_1185,2023-07-16,Cust_285,Clothing,Oxford Shoes,2,50,0.05,95,28.5,Professionals,North,Credit Card,Standard
+ORD_1186,2023-07-17,Cust_286,Home Goods,Dryer,1,550,0.1,495,148.5,Seniors,South,Debit Card,Standard
+ORD_1187,2023-07-18,Cust_287,Clothing,Mules,3,40,0.2,96,28.8,Young Adults,West,Cash,Standard
+ORD_1188,2023-07-19,Cust_288,Home Goods,Coffee Machine,1,300,0.25,225,67.5,Professionals,East,Online Payment,Express
+ORD_1189,2023-07-20,Cust_289,Clothing,Pumps,2,42,0.05,79.8,23.94,Seniors,North,Credit Card,Standard
+ORD_1190,2023-07-21,Cust_290,Home Goods,Mixer,1,120,0.1,108,32.4,Professionals,South,Debit Card,Standard
+ORD_1191,2023-07-22,Cust_291,Clothing,Rain Boots,3,35,0.2,84,25.2,Young Adults,West,Cash,Standard
+ORD_1192,2023-07-23,Cust_292,Home Goods,Juicer,1,85,0.25,63.75,19.125,Professionals,East,Online Payment,Express
+ORD_1193,2023-07-24,Cust_293,Clothing,Ankle Boots,2,40,0.05,76,22.8,Seniors,North,Credit Card,Standard
+ORD_1194,2023-07-25,Cust_294,Home Goods,Food Processor,1,250,0.1,225,67.5,Young Adults,South,Debit Card,Standard
+ORD_1195,2023-07-26,Cust_295,Clothing,Slippers,3,32,0.2,76.8,23.04,Professionals,West,Cash,Standard
+ORD_1196,2023-07-27,Cust_296,Home Goods,Slow Cooker,1,95,0.25,71.25,21.375,Seniors,East,Online Payment,Express
+ORD_1197,2023-07-28,Cust_297,Clothing,Hiking Boots,1,110,0.05,104.5,31.35,Young Adults,North,Credit Card,Standard
+ORD_1198,2023-07-29,Cust_298,Home Goods,Electric Kettle,2,75,0.1,135,40.5,Professionals,South,Debit Card,Standard
+ORD_1199,2023-07-30,Cust_299,Clothing,Snow Boots,1,120,0.2,96,28.8,Seniors,West,Cash,Standard
+ORD_1200,2023-07-31,Cust_300,Home Goods,Rice Cooker,2,70,0.25,105,31.5,Young Adults,East,Online Payment,Express
+ORD_1201,2023-08-01,Cust_301,Electronics,Laptop,1,1200,0.1,1080,324,Professionals,North,Credit Card,Express
+ORD_1202,2023-08-01,Cust_302,Clothing,Jeans,2,50,0,100,30,Young Adults,South,Debit Card,Standard
+ORD_1203,2023-08-02,Cust_303,Home Goods,Coffee Maker,1,80,0.05,76,22.8,Seniors,West,Cash,Standard
+ORD_1204,2023-08-03,Cust_304,Electronics,Smartphone,1,900,0.15,765,229.5,Professionals,East,Online Payment,Express
+ORD_1205,2023-08-04,Cust_305,Clothing,T-Shirt,3,25,0,75,22.5,Young Adults,North,Credit Card,Standard
+ORD_1206,2023-08-05,Cust_306,Home Goods,Desk Lamp,2,30,0.1,54,16.2,Professionals,South,Debit Card,Standard
+ORD_1207,2023-08-06,Cust_307,Electronics,Tablet,1,500,0.2,400,120,Seniors,West,Cash,Express
+ORD_1208,2023-08-07,Cust_308,Clothing,Sweater,1,60,0,60,18,Young Adults,East,Online Payment,Standard
+ORD_1209,2023-08-08,Cust_309,Home Goods,Vase,4,15,0.05,57,17.1,Professionals,North,Credit Card,Standard
+ORD_1210,2023-08-09,Cust_310,Electronics,Headphones,1,150,0,150,45,Young Adults,South,Debit Card,Express
+ORD_1211,2023-08-10,Cust_311,Clothing,Pants,2,40,0.2,64,19.2,Seniors,West,Cash,Standard
+ORD_1212,2023-08-11,Cust_312,Home Goods,Cushion,3,20,0,60,18,Professionals,East,Online Payment,Standard
+ORD_1213,2023-08-12,Cust_313,Electronics,Camera,1,800,0.1,720,216,Young Adults,North,Credit Card,Express
+ORD_1214,2023-08-13,Cust_314,Clothing,Jacket,1,100,0.05,95,28.5,Professionals,South,Debit Card,Standard
+ORD_1215,2023-08-14,Cust_315,Home Goods,Rug,1,300,0.25,225,67.5,Seniors,West,Cash,Standard
+ORD_1216,2023-08-15,Cust_316,Electronics,Smartwatch,2,300,0.15,510,153,Young Adults,East,Online Payment,Express
+ORD_1217,2023-08-16,Cust_317,Clothing,Dress,2,45,0,90,27,Professionals,North,Credit Card,Standard
+ORD_1218,2023-08-17,Cust_318,Home Goods,Mirror,3,20,0.05,57,17.1,Seniors,South,Debit Card,Standard
+ORD_1219,2023-08-18,Cust_319,Electronics,TV,1,1500,0.2,1200,360,Professionals,West,Cash,Express
+ORD_1220,2023-08-19,Cust_320,Clothing,Skirt,4,15,0,60,18,Young Adults,East,Online Payment,Standard
