@@ -6,7 +6,7 @@
   
 - Build multivariate and time series models for real-world prediction
   
-  - Utilize GitHub Copilot to accelerate and enhance your analysis
+- Utilize GitHub Copilot to accelerate and enhance your analysis
   
 - Export results and visualizations to Microsoft tools for stakeholder reporting
 
