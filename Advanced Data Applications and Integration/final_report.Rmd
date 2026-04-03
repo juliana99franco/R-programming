@@ -1,0 +1,78 @@
+---
+title: "Seattle Housing Market Analysis"
+author: "Juliana Franco Correa"
+date: "r Sys.Date()"
+output: html_document
+params:
+   zipcode: 98052
+---
+# ================================================
+# Practice Challenge 2: Reproducible Reports with R Markdown
+# ================================================
+# Instructions for a new file: report.Rmd
+
+# R Markdown Setup
+```{r setup, include=FALSE}
+library(tidyverse)
+library(plotly)
+library(DT)
+library(knitr)
+library(broom)
+library(lubridate)
+cleaned_house_data <- read_csv("cleaned_house_data.csv")
+```
+
+# Step 1: Generate two plots 
+# (scatter plots for sqft_living vs price and bedrooms vs price)
+```{r}
+plota <- ggplot(cleaned_house_data, aes(x = sqft_living, y = price)) +
+    geom_point(color = "darkred") +
+    labs(title = "Price vs Square Footage", x = "Square Footage", y = "Price") + 
+    theme_minimal()
+plotb <- ggplot(cleaned_house_data, aes(x = bedrooms, y = price)) +
+    geom_point(color = "darkred") +
+    labs(title = "Price vs Bedrooms", x = "Bedrooms", y = "Price") + 
+    theme_minimal()
+
+plota
+plotb
+```
+
+# Step 2: Create and format one table for summarized price by zipcode
+```{r}
+price_zipcode <- cleaned_house_data %>%
+    group_by(zipcode) %>%
+    summarise(avg_price = mean(price, na.rm = TRUE)) %>%
+    arrange(desc(avg_price))
+knitr::kable(price_zipcode)
+```
+
+# Step 3: Add narrative explanations (text chunks)
+```{r}
+# "The above scatter plots illustrate the relationship between price and two key features in housing: bedrooms and square footage."
+# "The relationship between price and square footage appears to be more linear, eventhough it is not a perfect fit. However, the relationship between bedrooms and price is not quite clear."
+# "On the other hand, the table summarizes the average price by zipcode."
+```
+
+# ================================================
+# Practice Challenge 3: Interactive and Dynamic Reporting
+# ================================================
+
+# Step 1: Create an interactive plot with ggplotly()
+```{r interactive_plot}
+ggplotly(plota)
+```
+# Step 2: Add an interactive DT table with summary by zipcode
+```{r interactive_table}
+datatable(price_zipcode)
+```
+
+# Step 4: Filter house_data based on zipcode parameter
+```{r filter_by_param}
+filtered_data <- cleaned_house_data %>%
+    filter(zipcode == params$zipcode)   
+summary(filtered_data)
+```
+
+# Step 5: Knit report to HTML
+# < PERFORM IN TERMINAL >
